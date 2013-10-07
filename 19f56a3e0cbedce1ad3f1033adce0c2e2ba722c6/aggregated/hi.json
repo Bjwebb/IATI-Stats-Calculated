@@ -1,0 +1,42 @@
+{
+  "activities": 9, 
+  "activities_no_country": 6, 
+  "activities_per_country": {
+    "AO": 1, 
+    "KE": 1, 
+    "LK": 1
+  }, 
+  "activities_per_year": {
+    "2011": 2, 
+    "2013": 1, 
+    "null": 6
+  }, 
+  "currencies": {
+    "GBP": 9
+  }, 
+  "iati_identifier": null, 
+  "publishers": 1, 
+  "publishers_per_country": {
+    "AO": 1, 
+    "KE": 1, 
+    "LK": 1
+  }, 
+  "publishers_per_organisation_type": {
+    "21": 1
+  }, 
+  "spend": 905375.4289, 
+  "spend_per_country": {
+    "AO": 326964.7057, 
+    "KE": 25519.7907, 
+    "LK": 249471.3056, 
+    "pre2010": 303419.6269
+  }, 
+  "spend_per_organisation_type": {
+    "21": 0
+  }, 
+  "spend_per_year": {
+    "2011": 576436.0113, 
+    "2013": 25519.7907, 
+    "null": 303419.6269
+  }
+}

@@ -1,0 +1,4697 @@
+{
+  "activities_per_country": {
+    "": [
+      "stichting_hivos"
+    ], 
+    "-1": [
+      "unw"
+    ], 
+    "AA": [
+      "fco"
+    ], 
+    "AE": [
+      "globalgiving"
+    ], 
+    "AF": [
+      "manxtimes", 
+      "cafod", 
+      "globalgiving", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "AG": [
+      "finland_mfa"
+    ], 
+    "AI": [
+      "fco"
+    ], 
+    "AL": [
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "AM": [
+      "globalgiving", 
+      "gavi", 
+      "pri", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "AO": [
+      "ausaid", 
+      "hi", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "AP": [
+      "fco"
+    ], 
+    "AR": [
+      "ausaid", 
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "AU": [
+      "globalgiving"
+    ], 
+    "AY": [
+      "fco"
+    ], 
+    "AZ": [
+      "ausaid", 
+      "globalgiving", 
+      "gavi", 
+      "pri", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "BA": [
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "BB": [
+      "unw", 
+      "finland_mfa"
+    ], 
+    "BD": [
+      "ausaid", 
+      "manxtimes", 
+      "pa", 
+      "cafod", 
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "BE": [
+      "globalgiving"
+    ], 
+    "BF": [
+      "ausaid", 
+      "manxtimes", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "gavi", 
+      "adrauk"
+    ], 
+    "BG": [
+      "globalgiving"
+    ], 
+    "BI": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "international-alert", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco", 
+      "spark"
+    ], 
+    "BJ": [
+      "cafod", 
+      "globalgiving", 
+      "gavi", 
+      "finland_mfa"
+    ], 
+    "BL": [
+      "fco"
+    ], 
+    "BO": [
+      "ausaid", 
+      "pa", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "BR": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "BS": [
+      "globalgiving"
+    ], 
+    "BT": [
+      "ausaid", 
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "BU": [
+      "fco"
+    ], 
+    "BW": [
+      "ausaid", 
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "BY": [
+      "globalgiving", 
+      "pri", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "BZ": [
+      "globalgiving", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "CA": [
+      "globalgiving"
+    ], 
+    "CB": [
+      "fco"
+    ], 
+    "CD": [
+      "ausaid", 
+      "manxtimes", 
+      "mcs", 
+      "cafod", 
+      "globalgiving", 
+      "international-alert", 
+      "unw", 
+      "gavi", 
+      "sciaf", 
+      "finland_mfa", 
+      "fco", 
+      "tearfund"
+    ], 
+    "CE": [
+      "fco"
+    ], 
+    "CF": [
+      "mcs", 
+      "globalgiving", 
+      "gavi", 
+      "finland_mfa"
+    ], 
+    "CG": [
+      "troc", 
+      "gavi", 
+      "finland_mfa", 
+      "fco", 
+      "tearfund"
+    ], 
+    "CH": [
+      "globalgiving", 
+      "hooda"
+    ], 
+    "CI": [
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "CK": [
+      "ausaid"
+    ], 
+    "CL": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "CM": [
+      "manxtimes", 
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "fco"
+    ], 
+    "CN": [
+      "ausaid", 
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "deccadmin", 
+      "fco"
+    ], 
+    "CO": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "deccadmin", 
+      "fco"
+    ], 
+    "CR": [
+      "ausaid", 
+      "globalgiving", 
+      "fco"
+    ], 
+    "CU": [
+      "globalgiving", 
+      "stichting_hivos", 
+      "fco"
+    ], 
+    "CV": [
+      "ausaid", 
+      "unw", 
+      "fco"
+    ], 
+    "DE": [
+      "globalgiving"
+    ], 
+    "DJ": [
+      "globalgiving", 
+      "gavi", 
+      "fco"
+    ], 
+    "DM": [
+      "ausaid", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "DO": [
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "DZ": [
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "EA": [
+      "fco"
+    ], 
+    "EB": [
+      "fco"
+    ], 
+    "EC": [
+      "ausaid", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "EG": [
+      "ausaid", 
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "EI": [
+      "fco"
+    ], 
+    "ER": [
+      "cafod", 
+      "gavi", 
+      "finland_mfa"
+    ], 
+    "ES": [
+      "globalgiving"
+    ], 
+    "ET": [
+      "ausaid", 
+      "malariaconsortium", 
+      "amrefuk", 
+      "globalgiving", 
+      "sossaheluk", 
+      "unw", 
+      "gavi", 
+      "dc", 
+      "finland_mfa", 
+      "concernuk", 
+      "fa", 
+      "fco"
+    ], 
+    "FJ": [
+      "ausaid", 
+      "globalgiving", 
+      "unw", 
+      "fco"
+    ], 
+    "FM": [
+      "unw"
+    ], 
+    "FR": [
+      "globalgiving"
+    ], 
+    "GA": [
+      "globalgiving"
+    ], 
+    "GB": [
+      "restless", 
+      "malariaconsortium", 
+      "pa", 
+      "globalgiving", 
+      "sense_international", 
+      "peopleinaid", 
+      "pri", 
+      "hooda"
+    ], 
+    "GD": [
+      "ausaid", 
+      "fco"
+    ], 
+    "GE": [
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "pri", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "GH": [
+      "ausaid", 
+      "globalgiving", 
+      "camfed", 
+      "stichting_hivos", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "GM": [
+      "ausaid", 
+      "globalgiving", 
+      "gavi", 
+      "fco"
+    ], 
+    "GN": [
+      "globalgiving", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "GR": [
+      "globalgiving"
+    ], 
+    "GT": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "GW": [
+      "ausaid", 
+      "unw", 
+      "gavi", 
+      "fco"
+    ], 
+    "GY": [
+      "ausaid", 
+      "globalgiving", 
+      "gavi", 
+      "fco"
+    ], 
+    "HK": [
+      "globalgiving"
+    ], 
+    "HN": [
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "HR": [
+      "globalgiving", 
+      "finland_mfa"
+    ], 
+    "HT": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "HU": [
+      "globalgiving"
+    ], 
+    "ID": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "deccadmin", 
+      "fco"
+    ], 
+    "IE": [
+      "globalgiving"
+    ], 
+    "IL": [
+      "cafod", 
+      "globalgiving"
+    ], 
+    "IM": [
+      "manxtimes"
+    ], 
+    "IN": [
+      "restless", 
+      "ausaid", 
+      "manxtimes", 
+      "ciks", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "unw", 
+      "sense_international", 
+      "gavi", 
+      "finland_mfa", 
+      "deccadmin", 
+      "fco"
+    ], 
+    "IQ": [
+      "globalgiving", 
+      "stichting_hivos", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "IR": [
+      "ausaid", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "JM": [
+      "ausaid", 
+      "globalgiving", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "JO": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "unw", 
+      "fco"
+    ], 
+    "JP": [
+      "globalgiving"
+    ], 
+    "KE": [
+      "ausaid", 
+      "manxtimes", 
+      "pa", 
+      "cafod", 
+      "lcd_admin", 
+      "hi", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "apt", 
+      "hpa", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fa", 
+      "fco"
+    ], 
+    "KG": [
+      "cafod", 
+      "stichting_hivos", 
+      "international-alert", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "KH": [
+      "ausaid", 
+      "malariaconsortium", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "unw", 
+      "gavi", 
+      "finland_mfa"
+    ], 
+    "KI": [
+      "ausaid", 
+      "unw", 
+      "gavi", 
+      "fco"
+    ], 
+    "KM": [
+      "ausaid", 
+      "gavi"
+    ], 
+    "KN": [
+      "finland_mfa", 
+      "fco"
+    ], 
+    "KO": [
+      "fco"
+    ], 
+    "KP": [
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "KR": [
+      "globalgiving"
+    ], 
+    "KS": [
+      "fco", 
+      "spark"
+    ], 
+    "KZ": [
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "LA": [
+      "ausaid", 
+      "globalgiving", 
+      "hpa", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "LB": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "international-alert", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "LC": [
+      "ausaid", 
+      "globalgiving", 
+      "fco"
+    ], 
+    "LE": [
+      "fco"
+    ], 
+    "LK": [
+      "ausaid", 
+      "manxtimes", 
+      "pa", 
+      "cafod", 
+      "hi", 
+      "globalgiving", 
+      "international-alert", 
+      "unw", 
+      "gavi", 
+      "fco"
+    ], 
+    "LR": [
+      "ausaid", 
+      "manxtimes", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "international-alert", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "spark"
+    ], 
+    "LS": [
+      "ausaid", 
+      "manxtimes", 
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "LT": [
+      "globalgiving"
+    ], 
+    "LY": [
+      "ausaid", 
+      "globalgiving", 
+      "unw", 
+      "fco"
+    ], 
+    "MA": [
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "MB": [
+      "fco"
+    ], 
+    "MD": [
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "ME": [
+      "finland_mfa", 
+      "fco"
+    ], 
+    "MG": [
+      "ausaid", 
+      "manxtimes", 
+      "globalgiving", 
+      "gavi", 
+      "finland_mfa", 
+      "blueventures", 
+      "fco"
+    ], 
+    "MH": [
+      "ausaid", 
+      "fco"
+    ], 
+    "MK": [
+      "finland_mfa", 
+      "fco"
+    ], 
+    "ML": [
+      "ausaid", 
+      "manxtimes", 
+      "cafod", 
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "MM": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "MN": [
+      "ausaid", 
+      "globalgiving", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "MR": [
+      "cafod", 
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "MS": [
+      "fco"
+    ], 
+    "MU": [
+      "ausaid", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "MV": [
+      "ausaid", 
+      "unw", 
+      "fco"
+    ], 
+    "MW": [
+      "ausaid", 
+      "manxtimes", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "twin-iati", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "MX": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "MY": [
+      "globalgiving", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "MZ": [
+      "ausaid", 
+      "malariaconsortium", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "NA": [
+      "ausaid", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "NB": [
+      "fco"
+    ], 
+    "NE": [
+      "ausaid", 
+      "manxtimes", 
+      "cafod", 
+      "globalgiving", 
+      "gavi", 
+      "finland_mfa"
+    ], 
+    "NG": [
+      "ausaid", 
+      "manxtimes", 
+      "cafod", 
+      "globalgiving", 
+      "international-alert", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "NI": [
+      "ausaid", 
+      "manxtimes", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "NL": [
+      "globalgiving", 
+      "stichting_hivos"
+    ], 
+    "NP": [
+      "restless", 
+      "ausaid", 
+      "manxtimes", 
+      "pa", 
+      "nfn", 
+      "globalgiving", 
+      "international-alert", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "ff", 
+      "fco"
+    ], 
+    "NR": [
+      "ausaid"
+    ], 
+    "NS": [
+      "fco"
+    ], 
+    "NU": [
+      "ausaid"
+    ], 
+    "NZ": [
+      "globalgiving"
+    ], 
+    "OM": [
+      "finland_mfa"
+    ], 
+    "OT": [
+      "fco"
+    ], 
+    "PA": [
+      "ausaid", 
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "PE": [
+      "ausaid", 
+      "pa", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "hpa", 
+      "unw", 
+      "finland_mfa", 
+      "fco", 
+      "tearfund"
+    ], 
+    "PG": [
+      "ausaid", 
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "PH": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "mapaction", 
+      "international-alert", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "PK": [
+      "wwfpakistan", 
+      "ausaid", 
+      "manxtimes", 
+      "cafod", 
+      "globalgiving", 
+      "international-alert", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "ctc", 
+      "fco"
+    ], 
+    "PL": [
+      "globalgiving"
+    ], 
+    "PR": [
+      "globalgiving"
+    ], 
+    "PS": [
+      "cafod", 
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "spark"
+    ], 
+    "PW": [
+      "ausaid", 
+      "globalgiving"
+    ], 
+    "PY": [
+      "foe_ewni", 
+      "ausaid", 
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "QA": [
+      "globalgiving"
+    ], 
+    "RO": [
+      "manxtimes", 
+      "globalgiving"
+    ], 
+    "RS": [
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "RU": [
+      "globalgiving", 
+      "pri"
+    ], 
+    "RW": [
+      "ausaid", 
+      "manxtimes", 
+      "cafod", 
+      "globalgiving", 
+      "international-alert", 
+      "unw", 
+      "gavi", 
+      "sciaf", 
+      "finland_mfa", 
+      "adrauk", 
+      "fco", 
+      "spark"
+    ], 
+    "SB": [
+      "ausaid", 
+      "unw", 
+      "gavi", 
+      "fco"
+    ], 
+    "SC": [
+      "ausaid", 
+      "globalgiving", 
+      "fco"
+    ], 
+    "SD": [
+      "ausaid", 
+      "manxtimes", 
+      "pa", 
+      "cafod", 
+      "globalgiving", 
+      "hhc", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco", 
+      "tearfund"
+    ], 
+    "SE": [
+      "globalgiving"
+    ], 
+    "SG": [
+      "globalgiving"
+    ], 
+    "SH": [
+      "fco"
+    ], 
+    "SK": [
+      "globalgiving", 
+      "fco"
+    ], 
+    "SL": [
+      "cic", 
+      "restless", 
+      "ausaid", 
+      "manxtimes", 
+      "cafod", 
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "SN": [
+      "ausaid", 
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "SO": [
+      "ausaid", 
+      "globalgiving", 
+      "hpa", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "SP": [
+      "fco"
+    ], 
+    "SQ": [
+      "fco"
+    ], 
+    "SR": [
+      "ausaid"
+    ], 
+    "SS": [
+      "manxtimes", 
+      "malariaconsortium", 
+      "cafod", 
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "bracintl", 
+      "fa", 
+      "fco"
+    ], 
+    "ST": [
+      "ausaid", 
+      "gavi"
+    ], 
+    "SV": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "SW": [
+      "fco"
+    ], 
+    "SX": [
+      "fco"
+    ], 
+    "SY": [
+      "ausaid", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "international-alert", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "SZ": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "TD": [
+      "ausaid", 
+      "manxtimes", 
+      "cafod", 
+      "globalgiving", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "TG": [
+      "ausaid", 
+      "globalgiving", 
+      "gavi", 
+      "fco"
+    ], 
+    "TH": [
+      "cafod", 
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "TJ": [
+      "ausaid", 
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "TK": [
+      "ausaid"
+    ], 
+    "TL": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "unw", 
+      "gavi", 
+      "finland_mfa"
+    ], 
+    "TM": [
+      "globalgiving", 
+      "unw", 
+      "fco"
+    ], 
+    "TMA": [
+      "fco"
+    ], 
+    "TN": [
+      "globalgiving", 
+      "international-alert", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "TO": [
+      "ausaid", 
+      "fco"
+    ], 
+    "TP": [
+      "fco"
+    ], 
+    "TR": [
+      "globalgiving", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "TT": [
+      "ausaid", 
+      "globalgiving", 
+      "finland_mfa"
+    ], 
+    "TV": [
+      "ausaid", 
+      "fco"
+    ], 
+    "TW": [
+      "globalgiving"
+    ], 
+    "TZ": [
+      "restless", 
+      "ausaid", 
+      "manxtimes", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "ai_1064413", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "bracintl", 
+      "rc", 
+      "concernuk", 
+      "fa", 
+      "fco"
+    ], 
+    "UA": [
+      "globalgiving", 
+      "unw", 
+      "pri", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "UG": [
+      "restless", 
+      "ausaid", 
+      "manxtimes", 
+      "malariaconsortium", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "apt", 
+      "international-alert", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "deccadmin", 
+      "fa", 
+      "fco"
+    ], 
+    "US": [
+      "globalgiving"
+    ], 
+    "UY": [
+      "ausaid", 
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "UZ": [
+      "unw", 
+      "gavi", 
+      "fco"
+    ], 
+    "VC": [
+      "globalgiving", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "VE": [
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "VI": [
+      "globalgiving"
+    ], 
+    "VN": [
+      "ausaid", 
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "VU": [
+      "ausaid", 
+      "globalgiving", 
+      "unw", 
+      "fco"
+    ], 
+    "WB": [
+      "fco"
+    ], 
+    "WS": [
+      "ausaid", 
+      "unw"
+    ], 
+    "YE": [
+      "ausaid", 
+      "manxtimes", 
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "ZA": [
+      "restless", 
+      "ausaid", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "finland_mfa", 
+      "deccadmin", 
+      "fco"
+    ], 
+    "ZM": [
+      "restless", 
+      "ausaid", 
+      "malariaconsortium", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "ZW": [
+      "restless", 
+      "manxtimes", 
+      "pa", 
+      "cafod", 
+      "lcd_admin", 
+      "globalgiving", 
+      "camfed", 
+      "stichting_hivos", 
+      "unw", 
+      "gavi", 
+      "goal", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "sv": [
+      "fco"
+    ]
+  }, 
+  "activities_per_year": {
+    "1983": [
+      "cafod"
+    ], 
+    "1985": [
+      "cafod"
+    ], 
+    "1986": [
+      "cafod"
+    ], 
+    "1988": [
+      "cafod"
+    ], 
+    "1989": [
+      "cafod"
+    ], 
+    "1990": [
+      "cafod"
+    ], 
+    "1991": [
+      "cafod"
+    ], 
+    "1992": [
+      "cafod"
+    ], 
+    "1993": [
+      "cafod", 
+      "finland_mfa"
+    ], 
+    "1994": [
+      "cafod"
+    ], 
+    "1995": [
+      "cafod"
+    ], 
+    "1996": [
+      "cafod", 
+      "finland_mfa"
+    ], 
+    "1997": [
+      "cafod"
+    ], 
+    "1998": [
+      "cafod"
+    ], 
+    "1999": [
+      "cafod", 
+      "finland_mfa"
+    ], 
+    "2000": [
+      "cafod", 
+      "stichting_hivos", 
+      "finland_mfa"
+    ], 
+    "2001": [
+      "cafod", 
+      "gavi", 
+      "finland_mfa"
+    ], 
+    "2002": [
+      "cafod", 
+      "gavi", 
+      "finland_mfa"
+    ], 
+    "2003": [
+      "cafod", 
+      "globalgiving", 
+      "gavi", 
+      "finland_mfa"
+    ], 
+    "2004": [
+      "cafod", 
+      "globalgiving", 
+      "gavi", 
+      "finland_mfa"
+    ], 
+    "2005": [
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "gavi", 
+      "finland_mfa"
+    ], 
+    "2006": [
+      "pa", 
+      "cafod", 
+      "globalgiving", 
+      "gavi", 
+      "finland_mfa"
+    ], 
+    "2007": [
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "gavi", 
+      "finland_mfa", 
+      "fa", 
+      "tearfund"
+    ], 
+    "2008": [
+      "ausaid", 
+      "livingearth12", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "sense_international", 
+      "gavi", 
+      "finland_mfa", 
+      "tearfund"
+    ], 
+    "2009": [
+      "ausaid", 
+      "pa", 
+      "cafod", 
+      "globalgiving", 
+      "camfed", 
+      "stichting_hivos", 
+      "international-alert", 
+      "gavi", 
+      "finland_mfa", 
+      "adrauk", 
+      "fa", 
+      "fco", 
+      "tearfund"
+    ], 
+    "2010": [
+      "restless", 
+      "ausaid", 
+      "pa", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "international-alert", 
+      "gavi", 
+      "finland_mfa", 
+      "fa", 
+      "fco", 
+      "tearfund", 
+      "spark"
+    ], 
+    "2011": [
+      "art19", 
+      "foe_ewni", 
+      "aet", 
+      "ausaid", 
+      "malariaconsortium", 
+      "pa", 
+      "mcs", 
+      "cafod", 
+      "hi", 
+      "globalgiving", 
+      "camfed", 
+      "stichting_hivos", 
+      "ai_1064413", 
+      "hpa", 
+      "international-alert", 
+      "gavi", 
+      "peopleinaid", 
+      "pri", 
+      "finland_mfa", 
+      "adrauk", 
+      "concernuk", 
+      "deccadmin", 
+      "fa", 
+      "ff", 
+      "fco", 
+      "spark"
+    ], 
+    "2012": [
+      "wwfpakistan", 
+      "cic", 
+      "manxtimes", 
+      "pa", 
+      "ciks", 
+      "nfn", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "troc", 
+      "mapaction", 
+      "apt", 
+      "sossaheluk", 
+      "twin-iati", 
+      "international-alert", 
+      "unw", 
+      "sense_international", 
+      "gavi", 
+      "mamta_himc", 
+      "adrauk", 
+      "bracintl", 
+      "deccadmin", 
+      "fa", 
+      "ff", 
+      "fco", 
+      "tearfund", 
+      "spark"
+    ], 
+    "2013": [
+      "cafod", 
+      "lcd_admin", 
+      "amrefuk", 
+      "hi", 
+      "globalgiving", 
+      "dwp", 
+      "stichting_hivos", 
+      "hhc", 
+      "apt", 
+      "hpa", 
+      "international-alert", 
+      "gavi", 
+      "goal", 
+      "sciaf", 
+      "dc", 
+      "blueventures", 
+      "hooda", 
+      "bracintl", 
+      "rc", 
+      "ctc", 
+      "concernuk", 
+      "deccadmin", 
+      "fa", 
+      "fco"
+    ], 
+    "2014": [
+      "unw", 
+      "gavi"
+    ], 
+    "2015": [
+      "unw"
+    ], 
+    "null": [
+      "pdorg", 
+      "psi", 
+      "ausaid", 
+      "asdb", 
+      "mcs", 
+      "cafod", 
+      "hi", 
+      "globalgiving", 
+      "ai_1064413", 
+      "dfid", 
+      "gavi", 
+      "finland_mfa", 
+      "bracintl"
+    ]
+  }, 
+  "currencies": {
+    "AUD": [
+      "psi", 
+      "ausaid"
+    ], 
+    "CHF": [
+      "psi", 
+      "peopleinaid"
+    ], 
+    "EUR": [
+      "psi", 
+      "stichting_hivos", 
+      "peopleinaid"
+    ], 
+    "GBP": [
+      "art19", 
+      "wwfpakistan", 
+      "foe_ewni", 
+      "cic", 
+      "aet", 
+      "restless", 
+      "psi", 
+      "manxtimes", 
+      "malariaconsortium", 
+      "livingearth12", 
+      "pa", 
+      "mcs", 
+      "nfn", 
+      "cafod", 
+      "lcd_admin", 
+      "amrefuk", 
+      "hi", 
+      "dwp", 
+      "camfed", 
+      "hhc", 
+      "troc", 
+      "mapaction", 
+      "apt", 
+      "ai_1064413", 
+      "hpa", 
+      "sossaheluk", 
+      "twin-iati", 
+      "international-alert", 
+      "sense_international", 
+      "dfid", 
+      "goal", 
+      "peopleinaid", 
+      "sciaf", 
+      "pri", 
+      "adrauk", 
+      "blueventures", 
+      "hooda", 
+      "bracintl", 
+      "rc", 
+      "ctc", 
+      "concernuk", 
+      "deccadmin", 
+      "fa", 
+      "fco", 
+      "tearfund"
+    ], 
+    "INR": [
+      "restless", 
+      "psi"
+    ], 
+    "LSL": [
+      "psi"
+    ], 
+    "MWK": [
+      "psi"
+    ], 
+    "NPR": [
+      "restless", 
+      "ff"
+    ], 
+    "SEK": [
+      "psi"
+    ], 
+    "SLL": [
+      "restless"
+    ], 
+    "TZS": [
+      "restless"
+    ], 
+    "UGX": [
+      "restless"
+    ], 
+    "USD": [
+      "restless", 
+      "psi", 
+      "asdb", 
+      "amrefuk", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "gavi", 
+      "finland_mfa", 
+      "deccadmin", 
+      "ff"
+    ], 
+    "ZAR": [
+      "restless", 
+      "psi"
+    ], 
+    "ZMK": [
+      "restless"
+    ]
+  }, 
+  "publishers_per_country": {
+    "": [
+      "stichting_hivos"
+    ], 
+    "-1": [
+      "unw"
+    ], 
+    "AA": [
+      "fco"
+    ], 
+    "AE": [
+      "globalgiving"
+    ], 
+    "AF": [
+      "manxtimes", 
+      "cafod", 
+      "globalgiving", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "AG": [
+      "finland_mfa"
+    ], 
+    "AI": [
+      "fco"
+    ], 
+    "AL": [
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "AM": [
+      "globalgiving", 
+      "gavi", 
+      "pri", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "AO": [
+      "ausaid", 
+      "hi", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "AP": [
+      "fco"
+    ], 
+    "AR": [
+      "ausaid", 
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "AU": [
+      "globalgiving"
+    ], 
+    "AY": [
+      "fco"
+    ], 
+    "AZ": [
+      "ausaid", 
+      "globalgiving", 
+      "gavi", 
+      "pri", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "BA": [
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "BB": [
+      "unw", 
+      "finland_mfa"
+    ], 
+    "BD": [
+      "ausaid", 
+      "manxtimes", 
+      "pa", 
+      "cafod", 
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "BE": [
+      "globalgiving"
+    ], 
+    "BF": [
+      "ausaid", 
+      "manxtimes", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "gavi", 
+      "adrauk"
+    ], 
+    "BG": [
+      "globalgiving"
+    ], 
+    "BI": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "international-alert", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco", 
+      "spark"
+    ], 
+    "BJ": [
+      "cafod", 
+      "globalgiving", 
+      "gavi", 
+      "finland_mfa"
+    ], 
+    "BL": [
+      "fco"
+    ], 
+    "BO": [
+      "ausaid", 
+      "pa", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "BR": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "BS": [
+      "globalgiving"
+    ], 
+    "BT": [
+      "ausaid", 
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "BU": [
+      "fco"
+    ], 
+    "BW": [
+      "ausaid", 
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "BY": [
+      "globalgiving", 
+      "pri", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "BZ": [
+      "globalgiving", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "CA": [
+      "globalgiving"
+    ], 
+    "CB": [
+      "fco"
+    ], 
+    "CD": [
+      "ausaid", 
+      "manxtimes", 
+      "mcs", 
+      "cafod", 
+      "globalgiving", 
+      "international-alert", 
+      "unw", 
+      "gavi", 
+      "sciaf", 
+      "finland_mfa", 
+      "fco", 
+      "tearfund"
+    ], 
+    "CE": [
+      "fco"
+    ], 
+    "CF": [
+      "mcs", 
+      "globalgiving", 
+      "gavi", 
+      "finland_mfa"
+    ], 
+    "CG": [
+      "troc", 
+      "gavi", 
+      "finland_mfa", 
+      "fco", 
+      "tearfund"
+    ], 
+    "CH": [
+      "globalgiving", 
+      "hooda"
+    ], 
+    "CI": [
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "CK": [
+      "ausaid"
+    ], 
+    "CL": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "CM": [
+      "manxtimes", 
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "fco"
+    ], 
+    "CN": [
+      "ausaid", 
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "deccadmin", 
+      "fco"
+    ], 
+    "CO": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "deccadmin", 
+      "fco"
+    ], 
+    "CR": [
+      "ausaid", 
+      "globalgiving", 
+      "fco"
+    ], 
+    "CU": [
+      "globalgiving", 
+      "stichting_hivos", 
+      "fco"
+    ], 
+    "CV": [
+      "ausaid", 
+      "unw", 
+      "fco"
+    ], 
+    "DE": [
+      "globalgiving"
+    ], 
+    "DJ": [
+      "globalgiving", 
+      "gavi", 
+      "fco"
+    ], 
+    "DM": [
+      "ausaid", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "DO": [
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "DZ": [
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "EA": [
+      "fco"
+    ], 
+    "EB": [
+      "fco"
+    ], 
+    "EC": [
+      "ausaid", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "EG": [
+      "ausaid", 
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "EI": [
+      "fco"
+    ], 
+    "ER": [
+      "cafod", 
+      "gavi", 
+      "finland_mfa"
+    ], 
+    "ES": [
+      "globalgiving"
+    ], 
+    "ET": [
+      "ausaid", 
+      "malariaconsortium", 
+      "amrefuk", 
+      "globalgiving", 
+      "sossaheluk", 
+      "unw", 
+      "gavi", 
+      "dc", 
+      "finland_mfa", 
+      "concernuk", 
+      "fa", 
+      "fco"
+    ], 
+    "FJ": [
+      "ausaid", 
+      "globalgiving", 
+      "unw", 
+      "fco"
+    ], 
+    "FM": [
+      "unw"
+    ], 
+    "FR": [
+      "globalgiving"
+    ], 
+    "GA": [
+      "globalgiving"
+    ], 
+    "GB": [
+      "restless", 
+      "malariaconsortium", 
+      "pa", 
+      "globalgiving", 
+      "sense_international", 
+      "peopleinaid", 
+      "pri", 
+      "hooda"
+    ], 
+    "GD": [
+      "ausaid", 
+      "fco"
+    ], 
+    "GE": [
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "pri", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "GH": [
+      "ausaid", 
+      "globalgiving", 
+      "camfed", 
+      "stichting_hivos", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "GM": [
+      "ausaid", 
+      "globalgiving", 
+      "gavi", 
+      "fco"
+    ], 
+    "GN": [
+      "globalgiving", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "GR": [
+      "globalgiving"
+    ], 
+    "GT": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "GW": [
+      "ausaid", 
+      "unw", 
+      "gavi", 
+      "fco"
+    ], 
+    "GY": [
+      "ausaid", 
+      "globalgiving", 
+      "gavi", 
+      "fco"
+    ], 
+    "HK": [
+      "globalgiving"
+    ], 
+    "HN": [
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "HR": [
+      "globalgiving", 
+      "finland_mfa"
+    ], 
+    "HT": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "HU": [
+      "globalgiving"
+    ], 
+    "ID": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "deccadmin", 
+      "fco"
+    ], 
+    "IE": [
+      "globalgiving"
+    ], 
+    "IL": [
+      "cafod", 
+      "globalgiving"
+    ], 
+    "IM": [
+      "manxtimes"
+    ], 
+    "IN": [
+      "restless", 
+      "ausaid", 
+      "manxtimes", 
+      "ciks", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "unw", 
+      "sense_international", 
+      "gavi", 
+      "finland_mfa", 
+      "deccadmin", 
+      "fco"
+    ], 
+    "IQ": [
+      "globalgiving", 
+      "stichting_hivos", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "IR": [
+      "ausaid", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "JM": [
+      "ausaid", 
+      "globalgiving", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "JO": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "unw", 
+      "fco"
+    ], 
+    "JP": [
+      "globalgiving"
+    ], 
+    "KE": [
+      "ausaid", 
+      "manxtimes", 
+      "pa", 
+      "cafod", 
+      "lcd_admin", 
+      "hi", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "apt", 
+      "hpa", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fa", 
+      "fco"
+    ], 
+    "KG": [
+      "cafod", 
+      "stichting_hivos", 
+      "international-alert", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "KH": [
+      "ausaid", 
+      "malariaconsortium", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "unw", 
+      "gavi", 
+      "finland_mfa"
+    ], 
+    "KI": [
+      "ausaid", 
+      "unw", 
+      "gavi", 
+      "fco"
+    ], 
+    "KM": [
+      "ausaid", 
+      "gavi"
+    ], 
+    "KN": [
+      "finland_mfa", 
+      "fco"
+    ], 
+    "KO": [
+      "fco"
+    ], 
+    "KP": [
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "KR": [
+      "globalgiving"
+    ], 
+    "KS": [
+      "fco", 
+      "spark"
+    ], 
+    "KZ": [
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "LA": [
+      "ausaid", 
+      "globalgiving", 
+      "hpa", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "LB": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "international-alert", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "LC": [
+      "ausaid", 
+      "globalgiving", 
+      "fco"
+    ], 
+    "LE": [
+      "fco"
+    ], 
+    "LK": [
+      "ausaid", 
+      "manxtimes", 
+      "pa", 
+      "cafod", 
+      "hi", 
+      "globalgiving", 
+      "international-alert", 
+      "unw", 
+      "gavi", 
+      "fco"
+    ], 
+    "LR": [
+      "ausaid", 
+      "manxtimes", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "international-alert", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "spark"
+    ], 
+    "LS": [
+      "ausaid", 
+      "manxtimes", 
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "LT": [
+      "globalgiving"
+    ], 
+    "LY": [
+      "ausaid", 
+      "globalgiving", 
+      "unw", 
+      "fco"
+    ], 
+    "MA": [
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "MB": [
+      "fco"
+    ], 
+    "MD": [
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "ME": [
+      "finland_mfa", 
+      "fco"
+    ], 
+    "MG": [
+      "ausaid", 
+      "manxtimes", 
+      "globalgiving", 
+      "gavi", 
+      "finland_mfa", 
+      "blueventures", 
+      "fco"
+    ], 
+    "MH": [
+      "ausaid", 
+      "fco"
+    ], 
+    "MK": [
+      "finland_mfa", 
+      "fco"
+    ], 
+    "ML": [
+      "ausaid", 
+      "manxtimes", 
+      "cafod", 
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "MM": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "MN": [
+      "ausaid", 
+      "globalgiving", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "MR": [
+      "cafod", 
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "MS": [
+      "fco"
+    ], 
+    "MU": [
+      "ausaid", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "MV": [
+      "ausaid", 
+      "unw", 
+      "fco"
+    ], 
+    "MW": [
+      "ausaid", 
+      "manxtimes", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "twin-iati", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "MX": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "MY": [
+      "globalgiving", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "MZ": [
+      "ausaid", 
+      "malariaconsortium", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "NA": [
+      "ausaid", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "NB": [
+      "fco"
+    ], 
+    "NE": [
+      "ausaid", 
+      "manxtimes", 
+      "cafod", 
+      "globalgiving", 
+      "gavi", 
+      "finland_mfa"
+    ], 
+    "NG": [
+      "ausaid", 
+      "manxtimes", 
+      "cafod", 
+      "globalgiving", 
+      "international-alert", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "NI": [
+      "ausaid", 
+      "manxtimes", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "NL": [
+      "globalgiving", 
+      "stichting_hivos"
+    ], 
+    "NP": [
+      "restless", 
+      "ausaid", 
+      "manxtimes", 
+      "pa", 
+      "nfn", 
+      "globalgiving", 
+      "international-alert", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "ff", 
+      "fco"
+    ], 
+    "NR": [
+      "ausaid"
+    ], 
+    "NS": [
+      "fco"
+    ], 
+    "NU": [
+      "ausaid"
+    ], 
+    "NZ": [
+      "globalgiving"
+    ], 
+    "OM": [
+      "finland_mfa"
+    ], 
+    "OT": [
+      "fco"
+    ], 
+    "PA": [
+      "ausaid", 
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "PE": [
+      "ausaid", 
+      "pa", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "hpa", 
+      "unw", 
+      "finland_mfa", 
+      "fco", 
+      "tearfund"
+    ], 
+    "PG": [
+      "ausaid", 
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "PH": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "mapaction", 
+      "international-alert", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "PK": [
+      "wwfpakistan", 
+      "ausaid", 
+      "manxtimes", 
+      "cafod", 
+      "globalgiving", 
+      "international-alert", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "ctc", 
+      "fco"
+    ], 
+    "PL": [
+      "globalgiving"
+    ], 
+    "PR": [
+      "globalgiving"
+    ], 
+    "PS": [
+      "cafod", 
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "spark"
+    ], 
+    "PW": [
+      "ausaid", 
+      "globalgiving"
+    ], 
+    "PY": [
+      "foe_ewni", 
+      "ausaid", 
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "QA": [
+      "globalgiving"
+    ], 
+    "RO": [
+      "manxtimes", 
+      "globalgiving"
+    ], 
+    "RS": [
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "RU": [
+      "globalgiving", 
+      "pri"
+    ], 
+    "RW": [
+      "ausaid", 
+      "manxtimes", 
+      "cafod", 
+      "globalgiving", 
+      "international-alert", 
+      "unw", 
+      "gavi", 
+      "sciaf", 
+      "finland_mfa", 
+      "adrauk", 
+      "fco", 
+      "spark"
+    ], 
+    "SB": [
+      "ausaid", 
+      "unw", 
+      "gavi", 
+      "fco"
+    ], 
+    "SC": [
+      "ausaid", 
+      "globalgiving", 
+      "fco"
+    ], 
+    "SD": [
+      "ausaid", 
+      "manxtimes", 
+      "pa", 
+      "cafod", 
+      "globalgiving", 
+      "hhc", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco", 
+      "tearfund"
+    ], 
+    "SE": [
+      "globalgiving"
+    ], 
+    "SG": [
+      "globalgiving"
+    ], 
+    "SH": [
+      "fco"
+    ], 
+    "SK": [
+      "globalgiving", 
+      "fco"
+    ], 
+    "SL": [
+      "cic", 
+      "restless", 
+      "ausaid", 
+      "manxtimes", 
+      "cafod", 
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "SN": [
+      "ausaid", 
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "SO": [
+      "ausaid", 
+      "globalgiving", 
+      "hpa", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "SP": [
+      "fco"
+    ], 
+    "SQ": [
+      "fco"
+    ], 
+    "SR": [
+      "ausaid"
+    ], 
+    "SS": [
+      "manxtimes", 
+      "malariaconsortium", 
+      "cafod", 
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "bracintl", 
+      "fa", 
+      "fco"
+    ], 
+    "ST": [
+      "ausaid", 
+      "gavi"
+    ], 
+    "SV": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "SW": [
+      "fco"
+    ], 
+    "SX": [
+      "fco"
+    ], 
+    "SY": [
+      "ausaid", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "international-alert", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "SZ": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "TD": [
+      "ausaid", 
+      "manxtimes", 
+      "cafod", 
+      "globalgiving", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "TG": [
+      "ausaid", 
+      "globalgiving", 
+      "gavi", 
+      "fco"
+    ], 
+    "TH": [
+      "cafod", 
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "TJ": [
+      "ausaid", 
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "TK": [
+      "ausaid"
+    ], 
+    "TL": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "unw", 
+      "gavi", 
+      "finland_mfa"
+    ], 
+    "TM": [
+      "globalgiving", 
+      "unw", 
+      "fco"
+    ], 
+    "TMA": [
+      "fco"
+    ], 
+    "TN": [
+      "globalgiving", 
+      "international-alert", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "TO": [
+      "ausaid", 
+      "fco"
+    ], 
+    "TP": [
+      "fco"
+    ], 
+    "TR": [
+      "globalgiving", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "TT": [
+      "ausaid", 
+      "globalgiving", 
+      "finland_mfa"
+    ], 
+    "TV": [
+      "ausaid", 
+      "fco"
+    ], 
+    "TW": [
+      "globalgiving"
+    ], 
+    "TZ": [
+      "restless", 
+      "ausaid", 
+      "manxtimes", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "ai_1064413", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "bracintl", 
+      "rc", 
+      "concernuk", 
+      "fa", 
+      "fco"
+    ], 
+    "UA": [
+      "globalgiving", 
+      "unw", 
+      "pri", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "UG": [
+      "restless", 
+      "ausaid", 
+      "manxtimes", 
+      "malariaconsortium", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "apt", 
+      "international-alert", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "deccadmin", 
+      "fa", 
+      "fco"
+    ], 
+    "US": [
+      "globalgiving"
+    ], 
+    "UY": [
+      "ausaid", 
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "UZ": [
+      "unw", 
+      "gavi", 
+      "fco"
+    ], 
+    "VC": [
+      "globalgiving", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "VE": [
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "VI": [
+      "globalgiving"
+    ], 
+    "VN": [
+      "ausaid", 
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "VU": [
+      "ausaid", 
+      "globalgiving", 
+      "unw", 
+      "fco"
+    ], 
+    "WB": [
+      "fco"
+    ], 
+    "WS": [
+      "ausaid", 
+      "unw"
+    ], 
+    "YE": [
+      "ausaid", 
+      "manxtimes", 
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "ZA": [
+      "restless", 
+      "ausaid", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "finland_mfa", 
+      "deccadmin", 
+      "fco"
+    ], 
+    "ZM": [
+      "restless", 
+      "ausaid", 
+      "malariaconsortium", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "ZW": [
+      "restless", 
+      "manxtimes", 
+      "pa", 
+      "cafod", 
+      "lcd_admin", 
+      "globalgiving", 
+      "camfed", 
+      "stichting_hivos", 
+      "unw", 
+      "gavi", 
+      "goal", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "sv": [
+      "fco"
+    ]
+  }, 
+  "publishers_per_organisation_type": {
+    "10": [
+      "ausaid", 
+      "dwp", 
+      "dfid", 
+      "finland_mfa", 
+      "hooda", 
+      "deccadmin", 
+      "fco"
+    ], 
+    "21": [
+      "art19", 
+      "pdorg", 
+      "wwfpakistan", 
+      "cic", 
+      "aet", 
+      "restless", 
+      "psi", 
+      "malariaconsortium", 
+      "livingearth12", 
+      "pa", 
+      "mcs", 
+      "cafod", 
+      "lcd_admin", 
+      "amrefuk", 
+      "hi", 
+      "globalgiving", 
+      "camfed", 
+      "hhc", 
+      "troc", 
+      "mapaction", 
+      "apt", 
+      "ai_1064413", 
+      "hpa", 
+      "sossaheluk", 
+      "twin-iati", 
+      "international-alert", 
+      "sense_international", 
+      "goal", 
+      "peopleinaid", 
+      "pri", 
+      "adrauk", 
+      "blueventures", 
+      "bracintl", 
+      "rc", 
+      "ctc", 
+      "concernuk", 
+      "fa", 
+      "tearfund"
+    ], 
+    "22": [
+      "foe_ewni", 
+      "nfn", 
+      "stichting_hivos", 
+      "sciaf", 
+      "mamta_himc", 
+      "ff"
+    ], 
+    "23": [
+      "manxtimes", 
+      "ciks"
+    ], 
+    "40": [
+      "asdb", 
+      "unw", 
+      "gavi"
+    ], 
+    "60": [
+      "spark"
+    ], 
+    "80": [
+      "dc"
+    ]
+  }, 
+  "spend_per_country": {
+    "-1": [
+      "unw"
+    ], 
+    "189": [
+      "finland_mfa"
+    ], 
+    "289": [
+      "aet", 
+      "cafod", 
+      "international-alert", 
+      "finland_mfa", 
+      "bracintl"
+    ], 
+    "298": [
+      "cafod", 
+      "finland_mfa", 
+      "deccadmin"
+    ], 
+    "389": [
+      "cafod", 
+      "finland_mfa"
+    ], 
+    "489": [
+      "cafod", 
+      "finland_mfa"
+    ], 
+    "498": [
+      "finland_mfa"
+    ], 
+    "57": [
+      "finland_mfa"
+    ], 
+    "589": [
+      "cafod", 
+      "pri"
+    ], 
+    "619": [
+      "international-alert", 
+      "pri", 
+      "finland_mfa"
+    ], 
+    "679": [
+      "international-alert", 
+      "finland_mfa"
+    ], 
+    "689": [
+      "finland_mfa"
+    ], 
+    "789": [
+      "international-alert", 
+      "finland_mfa"
+    ], 
+    "798": [
+      "cafod", 
+      "finland_mfa"
+    ], 
+    "889": [
+      "finland_mfa"
+    ], 
+    "89": [
+      "international-alert", 
+      "finland_mfa"
+    ], 
+    "998": [
+      "international-alert", 
+      "finland_mfa", 
+      "deccadmin"
+    ], 
+    "AA": [
+      "fco"
+    ], 
+    "AE": [
+      "globalgiving"
+    ], 
+    "AF": [
+      "cafod", 
+      "globalgiving", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "AG": [
+      "finland_mfa"
+    ], 
+    "AI": [
+      "fco"
+    ], 
+    "AL": [
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "AM": [
+      "globalgiving", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "AO": [
+      "ausaid", 
+      "hi", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "AP": [
+      "fco"
+    ], 
+    "AR": [
+      "ausaid", 
+      "globalgiving", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "AU": [
+      "globalgiving"
+    ], 
+    "AY": [
+      "fco"
+    ], 
+    "AZ": [
+      "ausaid", 
+      "globalgiving", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "BA": [
+      "globalgiving", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "BB": [
+      "finland_mfa"
+    ], 
+    "BD": [
+      "ausaid", 
+      "manxtimes", 
+      "pa", 
+      "cafod", 
+      "globalgiving", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "BE": [
+      "globalgiving"
+    ], 
+    "BF": [
+      "ausaid", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "gavi", 
+      "adrauk"
+    ], 
+    "BG": [
+      "globalgiving"
+    ], 
+    "BI": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "international-alert", 
+      "gavi", 
+      "finland_mfa", 
+      "fco", 
+      "spark"
+    ], 
+    "BJ": [
+      "cafod", 
+      "globalgiving", 
+      "gavi", 
+      "finland_mfa"
+    ], 
+    "BL": [
+      "fco"
+    ], 
+    "BO": [
+      "ausaid", 
+      "pa", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "BR": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "BS": [
+      "globalgiving"
+    ], 
+    "BT": [
+      "ausaid", 
+      "globalgiving", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "BU": [
+      "fco"
+    ], 
+    "BW": [
+      "ausaid", 
+      "globalgiving", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "BY": [
+      "globalgiving", 
+      "pri", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "BZ": [
+      "globalgiving", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "CA": [
+      "globalgiving"
+    ], 
+    "CB": [
+      "fco"
+    ], 
+    "CD": [
+      "ausaid", 
+      "manxtimes", 
+      "mcs", 
+      "cafod", 
+      "globalgiving", 
+      "international-alert", 
+      "unw", 
+      "gavi", 
+      "sciaf", 
+      "finland_mfa", 
+      "fco", 
+      "tearfund"
+    ], 
+    "CE": [
+      "fco"
+    ], 
+    "CF": [
+      "mcs", 
+      "globalgiving", 
+      "gavi", 
+      "finland_mfa"
+    ], 
+    "CG": [
+      "troc", 
+      "gavi", 
+      "finland_mfa", 
+      "fco", 
+      "tearfund"
+    ], 
+    "CH": [
+      "globalgiving", 
+      "hooda"
+    ], 
+    "CI": [
+      "globalgiving", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "CK": [
+      "ausaid"
+    ], 
+    "CL": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "CM": [
+      "manxtimes", 
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "fco"
+    ], 
+    "CN": [
+      "ausaid", 
+      "globalgiving", 
+      "finland_mfa", 
+      "deccadmin", 
+      "fco"
+    ], 
+    "CO": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "deccadmin", 
+      "fco"
+    ], 
+    "CR": [
+      "ausaid", 
+      "globalgiving", 
+      "fco"
+    ], 
+    "CU": [
+      "globalgiving", 
+      "stichting_hivos", 
+      "fco"
+    ], 
+    "CV": [
+      "ausaid", 
+      "fco"
+    ], 
+    "DE": [
+      "globalgiving"
+    ], 
+    "DJ": [
+      "gavi", 
+      "fco"
+    ], 
+    "DM": [
+      "ausaid", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "DO": [
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "DZ": [
+      "globalgiving", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "EA": [
+      "fco"
+    ], 
+    "EB": [
+      "fco"
+    ], 
+    "EC": [
+      "ausaid", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "EG": [
+      "ausaid", 
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "EI": [
+      "fco"
+    ], 
+    "ER": [
+      "cafod", 
+      "gavi", 
+      "finland_mfa"
+    ], 
+    "ES": [
+      "globalgiving"
+    ], 
+    "ET": [
+      "ausaid", 
+      "amrefuk", 
+      "globalgiving", 
+      "sossaheluk", 
+      "unw", 
+      "gavi", 
+      "dc", 
+      "finland_mfa", 
+      "concernuk", 
+      "fa", 
+      "fco"
+    ], 
+    "FJ": [
+      "ausaid", 
+      "globalgiving", 
+      "fco"
+    ], 
+    "FR": [
+      "globalgiving"
+    ], 
+    "GA": [
+      "globalgiving"
+    ], 
+    "GB": [
+      "restless", 
+      "malariaconsortium", 
+      "pa", 
+      "globalgiving", 
+      "peopleinaid", 
+      "pri", 
+      "hooda"
+    ], 
+    "GD": [
+      "ausaid", 
+      "fco"
+    ], 
+    "GE": [
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "pri", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "GH": [
+      "ausaid", 
+      "globalgiving", 
+      "camfed", 
+      "stichting_hivos", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "GM": [
+      "ausaid", 
+      "globalgiving", 
+      "gavi", 
+      "fco"
+    ], 
+    "GN": [
+      "globalgiving", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "GR": [
+      "globalgiving"
+    ], 
+    "GT": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "GW": [
+      "ausaid", 
+      "gavi", 
+      "fco"
+    ], 
+    "GY": [
+      "ausaid", 
+      "globalgiving", 
+      "gavi", 
+      "fco"
+    ], 
+    "HK": [
+      "globalgiving"
+    ], 
+    "HN": [
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "HR": [
+      "globalgiving", 
+      "finland_mfa"
+    ], 
+    "HT": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "HU": [
+      "globalgiving"
+    ], 
+    "ID": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "IE": [
+      "globalgiving"
+    ], 
+    "IL": [
+      "cafod", 
+      "globalgiving"
+    ], 
+    "IM": [
+      "manxtimes"
+    ], 
+    "IN": [
+      "restless", 
+      "ausaid", 
+      "manxtimes", 
+      "ciks", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "unw", 
+      "sense_international", 
+      "gavi", 
+      "finland_mfa", 
+      "deccadmin", 
+      "fco"
+    ], 
+    "IQ": [
+      "globalgiving", 
+      "stichting_hivos", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "IR": [
+      "ausaid", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "JM": [
+      "ausaid", 
+      "globalgiving", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "JO": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "fco"
+    ], 
+    "JP": [
+      "globalgiving"
+    ], 
+    "KE": [
+      "ausaid", 
+      "manxtimes", 
+      "pa", 
+      "cafod", 
+      "lcd_admin", 
+      "hi", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "apt", 
+      "hpa", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fa", 
+      "fco"
+    ], 
+    "KG": [
+      "cafod", 
+      "stichting_hivos", 
+      "international-alert", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "KH": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "unw", 
+      "gavi", 
+      "finland_mfa"
+    ], 
+    "KI": [
+      "ausaid", 
+      "unw", 
+      "gavi", 
+      "fco"
+    ], 
+    "KM": [
+      "ausaid", 
+      "gavi"
+    ], 
+    "KN": [
+      "finland_mfa", 
+      "fco"
+    ], 
+    "KO": [
+      "fco"
+    ], 
+    "KP": [
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "KR": [
+      "globalgiving"
+    ], 
+    "KS": [
+      "fco", 
+      "spark"
+    ], 
+    "KZ": [
+      "globalgiving", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "LA": [
+      "ausaid", 
+      "globalgiving", 
+      "hpa", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "LB": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "international-alert", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "LC": [
+      "ausaid", 
+      "globalgiving", 
+      "fco"
+    ], 
+    "LE": [
+      "fco"
+    ], 
+    "LK": [
+      "ausaid", 
+      "manxtimes", 
+      "pa", 
+      "cafod", 
+      "hi", 
+      "globalgiving", 
+      "international-alert", 
+      "unw", 
+      "gavi", 
+      "fco"
+    ], 
+    "LR": [
+      "ausaid", 
+      "manxtimes", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "international-alert", 
+      "gavi", 
+      "finland_mfa", 
+      "spark"
+    ], 
+    "LS": [
+      "ausaid", 
+      "manxtimes", 
+      "globalgiving", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "LT": [
+      "globalgiving"
+    ], 
+    "LY": [
+      "ausaid", 
+      "globalgiving", 
+      "fco"
+    ], 
+    "MA": [
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "MB": [
+      "fco"
+    ], 
+    "MD": [
+      "globalgiving", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "ME": [
+      "finland_mfa", 
+      "fco"
+    ], 
+    "MG": [
+      "ausaid", 
+      "manxtimes", 
+      "globalgiving", 
+      "gavi", 
+      "finland_mfa", 
+      "blueventures", 
+      "fco"
+    ], 
+    "MH": [
+      "ausaid", 
+      "fco"
+    ], 
+    "MK": [
+      "finland_mfa", 
+      "fco"
+    ], 
+    "ML": [
+      "ausaid", 
+      "manxtimes", 
+      "cafod", 
+      "globalgiving", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "MM": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "MN": [
+      "ausaid", 
+      "globalgiving", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "MR": [
+      "cafod", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "MS": [
+      "fco"
+    ], 
+    "MU": [
+      "ausaid", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "MV": [
+      "ausaid", 
+      "fco"
+    ], 
+    "MW": [
+      "ausaid", 
+      "manxtimes", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "twin-iati", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "MX": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "MY": [
+      "globalgiving", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "MZ": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "NA": [
+      "ausaid", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "NB": [
+      "fco"
+    ], 
+    "NE": [
+      "ausaid", 
+      "manxtimes", 
+      "cafod", 
+      "globalgiving", 
+      "gavi", 
+      "finland_mfa"
+    ], 
+    "NG": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "international-alert", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "NI": [
+      "ausaid", 
+      "manxtimes", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "NL": [
+      "globalgiving", 
+      "stichting_hivos"
+    ], 
+    "NP": [
+      "restless", 
+      "ausaid", 
+      "manxtimes", 
+      "pa", 
+      "nfn", 
+      "globalgiving", 
+      "international-alert", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "ff", 
+      "fco"
+    ], 
+    "NR": [
+      "ausaid"
+    ], 
+    "NS": [
+      "fco"
+    ], 
+    "NU": [
+      "ausaid"
+    ], 
+    "NZ": [
+      "globalgiving"
+    ], 
+    "OM": [
+      "finland_mfa"
+    ], 
+    "OT": [
+      "fco"
+    ], 
+    "PA": [
+      "ausaid", 
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "PE": [
+      "ausaid", 
+      "pa", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "hpa", 
+      "finland_mfa", 
+      "fco", 
+      "tearfund"
+    ], 
+    "PG": [
+      "ausaid", 
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "PH": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "mapaction", 
+      "international-alert", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "PK": [
+      "wwfpakistan", 
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "international-alert", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "ctc", 
+      "fco"
+    ], 
+    "PL": [
+      "globalgiving"
+    ], 
+    "PR": [
+      "globalgiving"
+    ], 
+    "PS": [
+      "cafod", 
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "spark"
+    ], 
+    "PW": [
+      "ausaid", 
+      "globalgiving"
+    ], 
+    "PY": [
+      "foe_ewni", 
+      "ausaid", 
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "QA": [
+      "globalgiving"
+    ], 
+    "RO": [
+      "manxtimes", 
+      "globalgiving"
+    ], 
+    "RS": [
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "RU": [
+      "globalgiving"
+    ], 
+    "RW": [
+      "ausaid", 
+      "manxtimes", 
+      "cafod", 
+      "globalgiving", 
+      "international-alert", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "adrauk", 
+      "fco", 
+      "spark"
+    ], 
+    "SB": [
+      "ausaid", 
+      "gavi", 
+      "fco"
+    ], 
+    "SC": [
+      "ausaid", 
+      "globalgiving", 
+      "fco"
+    ], 
+    "SD": [
+      "ausaid", 
+      "manxtimes", 
+      "pa", 
+      "cafod", 
+      "globalgiving", 
+      "hhc", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco", 
+      "tearfund"
+    ], 
+    "SE": [
+      "globalgiving"
+    ], 
+    "SG": [
+      "globalgiving"
+    ], 
+    "SH": [
+      "fco"
+    ], 
+    "SK": [
+      "globalgiving", 
+      "fco"
+    ], 
+    "SL": [
+      "cic", 
+      "restless", 
+      "ausaid", 
+      "manxtimes", 
+      "cafod", 
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "SN": [
+      "ausaid", 
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "SO": [
+      "ausaid", 
+      "globalgiving", 
+      "hpa", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "SP": [
+      "fco"
+    ], 
+    "SQ": [
+      "fco"
+    ], 
+    "SR": [
+      "ausaid"
+    ], 
+    "SS": [
+      "manxtimes", 
+      "cafod", 
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "bracintl", 
+      "fa", 
+      "fco"
+    ], 
+    "ST": [
+      "ausaid", 
+      "gavi"
+    ], 
+    "SV": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "SW": [
+      "fco"
+    ], 
+    "SX": [
+      "fco"
+    ], 
+    "SY": [
+      "ausaid", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "international-alert", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "SZ": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "TD": [
+      "ausaid", 
+      "manxtimes", 
+      "cafod", 
+      "globalgiving", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "TG": [
+      "ausaid", 
+      "globalgiving", 
+      "gavi", 
+      "fco"
+    ], 
+    "TH": [
+      "cafod", 
+      "globalgiving", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "TJ": [
+      "ausaid", 
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "TK": [
+      "ausaid"
+    ], 
+    "TL": [
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "unw", 
+      "gavi", 
+      "finland_mfa"
+    ], 
+    "TM": [
+      "globalgiving", 
+      "fco"
+    ], 
+    "TMA": [
+      "fco"
+    ], 
+    "TN": [
+      "globalgiving", 
+      "international-alert", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "TO": [
+      "ausaid", 
+      "fco"
+    ], 
+    "TP": [
+      "fco"
+    ], 
+    "TR": [
+      "globalgiving", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "TT": [
+      "ausaid", 
+      "globalgiving", 
+      "finland_mfa"
+    ], 
+    "TV": [
+      "ausaid", 
+      "fco"
+    ], 
+    "TW": [
+      "globalgiving"
+    ], 
+    "TZ": [
+      "restless", 
+      "ausaid", 
+      "manxtimes", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "ai_1064413", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "bracintl", 
+      "rc", 
+      "concernuk", 
+      "fa", 
+      "fco"
+    ], 
+    "UA": [
+      "globalgiving", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "UG": [
+      "restless", 
+      "ausaid", 
+      "manxtimes", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "apt", 
+      "international-alert", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "deccadmin", 
+      "fa", 
+      "fco"
+    ], 
+    "US": [
+      "globalgiving"
+    ], 
+    "UY": [
+      "ausaid", 
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "UZ": [
+      "gavi", 
+      "fco"
+    ], 
+    "VC": [
+      "globalgiving", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "VE": [
+      "globalgiving", 
+      "unw", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "VI": [
+      "globalgiving"
+    ], 
+    "VN": [
+      "ausaid", 
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "VU": [
+      "ausaid", 
+      "globalgiving", 
+      "fco"
+    ], 
+    "WB": [
+      "fco"
+    ], 
+    "WS": [
+      "ausaid"
+    ], 
+    "YE": [
+      "ausaid", 
+      "manxtimes", 
+      "globalgiving", 
+      "unw", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "ZA": [
+      "restless", 
+      "ausaid", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "ZM": [
+      "restless", 
+      "ausaid", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "gavi", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "ZW": [
+      "restless", 
+      "manxtimes", 
+      "pa", 
+      "cafod", 
+      "lcd_admin", 
+      "globalgiving", 
+      "camfed", 
+      "stichting_hivos", 
+      "unw", 
+      "gavi", 
+      "goal", 
+      "finland_mfa", 
+      "fco"
+    ], 
+    "null": [
+      "art19", 
+      "dwp", 
+      "stichting_hivos", 
+      "international-alert", 
+      "mamta_himc"
+    ], 
+    "pre2010": [
+      "pdorg", 
+      "psi", 
+      "ausaid", 
+      "asdb", 
+      "livingearth12", 
+      "pa", 
+      "mcs", 
+      "cafod", 
+      "hi", 
+      "globalgiving", 
+      "camfed", 
+      "stichting_hivos", 
+      "ai_1064413", 
+      "international-alert", 
+      "sense_international", 
+      "dfid", 
+      "gavi", 
+      "finland_mfa", 
+      "adrauk", 
+      "bracintl", 
+      "fa", 
+      "fco", 
+      "tearfund"
+    ], 
+    "sv": [
+      "fco"
+    ]
+  }, 
+  "spend_per_organisation_type": {
+    "10": [
+      "ausaid", 
+      "dwp", 
+      "dfid", 
+      "finland_mfa", 
+      "hooda", 
+      "deccadmin", 
+      "fco"
+    ], 
+    "21": [
+      "art19", 
+      "pdorg", 
+      "wwfpakistan", 
+      "cic", 
+      "aet", 
+      "restless", 
+      "psi", 
+      "malariaconsortium", 
+      "livingearth12", 
+      "pa", 
+      "mcs", 
+      "cafod", 
+      "lcd_admin", 
+      "amrefuk", 
+      "hi", 
+      "globalgiving", 
+      "camfed", 
+      "hhc", 
+      "troc", 
+      "mapaction", 
+      "apt", 
+      "ai_1064413", 
+      "hpa", 
+      "sossaheluk", 
+      "twin-iati", 
+      "international-alert", 
+      "sense_international", 
+      "goal", 
+      "peopleinaid", 
+      "pri", 
+      "adrauk", 
+      "blueventures", 
+      "bracintl", 
+      "rc", 
+      "ctc", 
+      "concernuk", 
+      "fa", 
+      "tearfund"
+    ], 
+    "22": [
+      "foe_ewni", 
+      "nfn", 
+      "stichting_hivos", 
+      "sciaf", 
+      "mamta_himc", 
+      "ff"
+    ], 
+    "23": [
+      "manxtimes", 
+      "ciks"
+    ], 
+    "40": [
+      "asdb", 
+      "unw", 
+      "gavi"
+    ], 
+    "60": [
+      "spark"
+    ], 
+    "80": [
+      "dc"
+    ]
+  }, 
+  "spend_per_year": {
+    "1983": [
+      "cafod"
+    ], 
+    "1985": [
+      "cafod"
+    ], 
+    "1986": [
+      "cafod"
+    ], 
+    "1988": [
+      "cafod"
+    ], 
+    "1989": [
+      "cafod"
+    ], 
+    "1990": [
+      "cafod"
+    ], 
+    "1991": [
+      "cafod"
+    ], 
+    "1992": [
+      "cafod"
+    ], 
+    "1993": [
+      "cafod", 
+      "finland_mfa"
+    ], 
+    "1994": [
+      "cafod"
+    ], 
+    "1995": [
+      "cafod"
+    ], 
+    "1996": [
+      "cafod", 
+      "finland_mfa"
+    ], 
+    "1997": [
+      "cafod"
+    ], 
+    "1998": [
+      "cafod"
+    ], 
+    "1999": [
+      "cafod", 
+      "finland_mfa"
+    ], 
+    "2000": [
+      "cafod", 
+      "stichting_hivos", 
+      "finland_mfa"
+    ], 
+    "2001": [
+      "cafod", 
+      "gavi", 
+      "finland_mfa"
+    ], 
+    "2002": [
+      "cafod", 
+      "gavi", 
+      "finland_mfa"
+    ], 
+    "2003": [
+      "cafod", 
+      "globalgiving", 
+      "gavi", 
+      "finland_mfa"
+    ], 
+    "2004": [
+      "cafod", 
+      "globalgiving", 
+      "gavi", 
+      "finland_mfa"
+    ], 
+    "2005": [
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "gavi", 
+      "finland_mfa"
+    ], 
+    "2006": [
+      "pa", 
+      "cafod", 
+      "globalgiving", 
+      "gavi", 
+      "finland_mfa"
+    ], 
+    "2007": [
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "gavi", 
+      "finland_mfa", 
+      "fa", 
+      "tearfund"
+    ], 
+    "2008": [
+      "ausaid", 
+      "livingearth12", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "sense_international", 
+      "gavi", 
+      "finland_mfa", 
+      "tearfund"
+    ], 
+    "2009": [
+      "ausaid", 
+      "pa", 
+      "cafod", 
+      "globalgiving", 
+      "camfed", 
+      "stichting_hivos", 
+      "international-alert", 
+      "gavi", 
+      "finland_mfa", 
+      "adrauk", 
+      "fa", 
+      "fco", 
+      "tearfund"
+    ], 
+    "2010": [
+      "restless", 
+      "ausaid", 
+      "pa", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "international-alert", 
+      "gavi", 
+      "finland_mfa", 
+      "fa", 
+      "fco", 
+      "tearfund", 
+      "spark"
+    ], 
+    "2011": [
+      "art19", 
+      "foe_ewni", 
+      "aet", 
+      "ausaid", 
+      "malariaconsortium", 
+      "pa", 
+      "mcs", 
+      "cafod", 
+      "hi", 
+      "globalgiving", 
+      "camfed", 
+      "stichting_hivos", 
+      "ai_1064413", 
+      "hpa", 
+      "international-alert", 
+      "gavi", 
+      "peopleinaid", 
+      "pri", 
+      "finland_mfa", 
+      "adrauk", 
+      "concernuk", 
+      "deccadmin", 
+      "fa", 
+      "ff", 
+      "fco", 
+      "spark"
+    ], 
+    "2012": [
+      "wwfpakistan", 
+      "cic", 
+      "manxtimes", 
+      "pa", 
+      "ciks", 
+      "nfn", 
+      "cafod", 
+      "globalgiving", 
+      "stichting_hivos", 
+      "troc", 
+      "mapaction", 
+      "apt", 
+      "sossaheluk", 
+      "twin-iati", 
+      "international-alert", 
+      "unw", 
+      "sense_international", 
+      "gavi", 
+      "mamta_himc", 
+      "adrauk", 
+      "bracintl", 
+      "deccadmin", 
+      "fa", 
+      "ff", 
+      "fco", 
+      "tearfund", 
+      "spark"
+    ], 
+    "2013": [
+      "cafod", 
+      "lcd_admin", 
+      "amrefuk", 
+      "hi", 
+      "globalgiving", 
+      "dwp", 
+      "stichting_hivos", 
+      "hhc", 
+      "apt", 
+      "hpa", 
+      "international-alert", 
+      "gavi", 
+      "goal", 
+      "sciaf", 
+      "dc", 
+      "blueventures", 
+      "hooda", 
+      "bracintl", 
+      "rc", 
+      "ctc", 
+      "concernuk", 
+      "deccadmin", 
+      "fa", 
+      "fco"
+    ], 
+    "2014": [
+      "unw", 
+      "gavi"
+    ], 
+    "2015": [
+      "unw"
+    ], 
+    "null": [
+      "pdorg", 
+      "psi", 
+      "ausaid", 
+      "asdb", 
+      "mcs", 
+      "cafod", 
+      "hi", 
+      "globalgiving", 
+      "ai_1064413", 
+      "dfid", 
+      "gavi", 
+      "finland_mfa", 
+      "bracintl"
+    ]
+  }
+}
