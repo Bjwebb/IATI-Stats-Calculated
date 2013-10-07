@@ -27,5 +27,8 @@
   }, 
   "spend_per_year": {
     "2012": 0
+  }, 
+  "versions": {
+    "null": 1
   }
 }

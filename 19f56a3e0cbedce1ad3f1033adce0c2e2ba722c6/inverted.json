@@ -6526,5 +6526,118 @@
       "bmz", 
       "bracintl"
     ]
+  }, 
+  "versions": {
+    " 1.0": [
+      "asdb"
+    ], 
+    "1": [
+      "maec"
+    ], 
+    "1.0": [
+      "unitedstates", 
+      "manxtimes", 
+      "pa", 
+      "globalgiving", 
+      "dipr", 
+      "international-alert", 
+      "nrc", 
+      "fco"
+    ], 
+    "1.00": [
+      "cafod", 
+      "minbuza_nl", 
+      "finland_mfa", 
+      "spark"
+    ], 
+    "1.01": [
+      "pdorg", 
+      "psi", 
+      "ausaid", 
+      "globalintegrity", 
+      "stichting_hivos", 
+      "gain", 
+      "dfid", 
+      "goal", 
+      "unops", 
+      "mamta_himc", 
+      "bmz", 
+      "fa"
+    ], 
+    "1.02": [
+      "akvo", 
+      "wwfpakistan", 
+      "gl", 
+      "wsup", 
+      "restless", 
+      "malariaconsortium", 
+      "ciks", 
+      "mcs", 
+      "nfn", 
+      "akfuk73", 
+      "lcd_admin", 
+      "amrefuk", 
+      "mfat", 
+      "hi", 
+      "dwp", 
+      "maec", 
+      "cord", 
+      "hhc", 
+      "troc", 
+      "apt", 
+      "rem", 
+      "ai_1064413", 
+      "eti", 
+      "hpa", 
+      "twin-iati", 
+      "unw", 
+      "dfid", 
+      "gb-cc-220949", 
+      "dthfxx12", 
+      "peopleinaid", 
+      "sciaf", 
+      "pri", 
+      "dc", 
+      "adrauk", 
+      "blueventures", 
+      "network4africa", 
+      "buildafrica", 
+      "hooda", 
+      "wacc-uk", 
+      "bracintl", 
+      "rc", 
+      "ctc", 
+      "concernuk", 
+      "afghanaid", 
+      "hp_12", 
+      "deccadmin", 
+      "progressio", 
+      "ff", 
+      "wfwiuk"
+    ], 
+    "3.1": [
+      "gavi"
+    ], 
+    "null": [
+      "art19", 
+      "tbalert", 
+      "foe_ewni", 
+      "icn", 
+      "cic", 
+      "aet", 
+      "livingearth12", 
+      "camfed", 
+      "mapaction", 
+      "rem", 
+      "hpa", 
+      "sossaheluk", 
+      "sense_international", 
+      "sciaf", 
+      "pontis", 
+      "tao-03473165", 
+      "progressio", 
+      "ffi_publisher", 
+      "tearfund"
+    ]
   }
 }
