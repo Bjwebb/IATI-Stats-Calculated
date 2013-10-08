@@ -1,0 +1,30 @@
+{
+  "activities": 9696, 
+  "activities_no_country": 9696, 
+  "activities_per_country": {}, 
+  "activities_per_year": {
+    "null": 9696
+  }, 
+  "currencies": {
+    "USD": 6533
+  }, 
+  "iati_identifier": null, 
+  "publishers": 1, 
+  "publishers_per_country": {}, 
+  "publishers_per_organisation_type": {
+    "40": 1
+  }, 
+  "spend": 10624189946.0, 
+  "spend_per_country": {
+    "pre2010": 10624189946.0
+  }, 
+  "spend_per_organisation_type": {
+    "40": 6703531591.0
+  }, 
+  "spend_per_year": {
+    "null": 10624189946.0
+  }, 
+  "versions": {
+    "1.00": 45
+  }
+}

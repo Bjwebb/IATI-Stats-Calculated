@@ -1,0 +1,58 @@
+{
+  "activities": 10, 
+  "activities_no_country": 4, 
+  "activities_per_country": {
+    "BD": 2, 
+    "HT": 1, 
+    "KE": 1, 
+    "KG": 1, 
+    "TJ": 1, 
+    "TZ": 1
+  }, 
+  "activities_per_year": {
+    "2008": 1, 
+    "2009": 2, 
+    "2010": 1, 
+    "2011": 4, 
+    "2012": 2
+  }, 
+  "currencies": {
+    "GBP": 10
+  }, 
+  "iati_identifier": null, 
+  "publishers": 1, 
+  "publishers_per_country": {
+    "BD": 1, 
+    "HT": 1, 
+    "KE": 1, 
+    "KG": 1, 
+    "TJ": 1, 
+    "TZ": 1
+  }, 
+  "publishers_per_organisation_type": {
+    "21": 1
+  }, 
+  "spend": 4453875.9142, 
+  "spend_per_country": {
+    "998": 0, 
+    "BD": 211056.2486, 
+    "HT": 64161.4126, 
+    "KE": 675475.1654, 
+    "KG": 64435.9411, 
+    "TZ": 319007.7969, 
+    "pre2010": 3119739.3496
+  }, 
+  "spend_per_organisation_type": {
+    "21": 4453875.9142
+  }, 
+  "spend_per_year": {
+    "2008": 593935.7832, 
+    "2009": 2525803.5664, 
+    "2010": 64435.9411, 
+    "2011": 530064.0455, 
+    "2012": 739636.578
+  }, 
+  "versions": {
+    "1.02": 1
+  }
+}
