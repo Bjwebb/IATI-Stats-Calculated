@@ -1,0 +1,35 @@
+{
+  "activities": 3, 
+  "activities_no_country": 3, 
+  "activities_per_country": {}, 
+  "activities_per_year": {
+    "2013": 1, 
+    "2014": 1, 
+    "2015": 1
+  }, 
+  "currencies": {
+    "CHF": 2, 
+    "USD": 3
+  }, 
+  "iati_identifier": null, 
+  "publishers": 1, 
+  "publishers_per_country": {}, 
+  "publishers_per_organisation_type": {
+    "10": 1
+  }, 
+  "spend": 30672480.0, 
+  "spend_per_country": {
+    "998": 30672480.0
+  }, 
+  "spend_per_organisation_type": {
+    "10": 30672480.0
+  }, 
+  "spend_per_year": {
+    "2013": 30672480.0, 
+    "2014": 0, 
+    "2015": 0
+  }, 
+  "versions": {
+    "1.02": 1
+  }
+}
