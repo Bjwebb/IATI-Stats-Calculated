@@ -7,10 +7,13 @@ $(document).ready(function() {
     var dates, data;
     create_stat_element = function (stat) {
         click_stat = function() {
-            var chartdata = [];
+            var chartdatas = {};
             var formatDate = d3.time.format.iso;
             var cdata = [];
             for (commit in data[stat]) {
+                if (typeof data[stat][commit] == "object") {
+                
+                };
                 cdata.push([
                     formatDate.parse(dates[commit]).getTime() / 1000,
                     data[stat][commit]
@@ -20,7 +23,6 @@ $(document).ready(function() {
             for (var i=0; i<cdata.length; i++) {
                 chartdata.push({x:cdata[i][0], y:cdata[i][1]});
             }
-            console.log(chartdata);
 
 var min = Number.MAX_VALUE;
 var max = Number.MIN_VALUE;
