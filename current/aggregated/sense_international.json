@@ -1,0 +1,39 @@
+{
+  "activities": 2, 
+  "activities_no_country": 1, 
+  "activities_per_country": {
+    "GB": 1, 
+    "IN": 1
+  }, 
+  "activities_per_year": {
+    "2008": 1, 
+    "2012": 1
+  }, 
+  "currencies": {
+    "GBP": 2
+  }, 
+  "iati_identifier": null, 
+  "publishers": 1, 
+  "publishers_per_country": {
+    "GB": 1, 
+    "IN": 1
+  }, 
+  "publishers_per_organisation_type": {
+    "21": 1
+  }, 
+  "spend": 159948.5084, 
+  "spend_per_country": {
+    "IN": 91604.165, 
+    "pre2010": 68344.3434
+  }, 
+  "spend_per_organisation_type": {
+    "21": 117633.8845
+  }, 
+  "spend_per_year": {
+    "2008": 68344.3434, 
+    "2012": 91604.165
+  }, 
+  "versions": {
+    "null": 2
+  }
+}
