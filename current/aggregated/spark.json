@@ -15,10 +15,12 @@
   }, 
   "activity_files": 2, 
   "currencies": {}, 
+  "fail_validation": 2, 
   "iati_identifier": null, 
   "invalidxml": 1, 
   "nonstandardroots": 0, 
   "publishers": 1, 
+  "publishers_fail_validation": 1, 
   "publishers_per_country": {
     "BI": 1, 
     "KS": 1, 

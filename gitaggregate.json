@@ -18781,6 +18781,9 @@
       "ZMK": 5
     }
   }, 
+  "fail_validation": {
+    "380035ca54aeaa82d0f4ccf9189343b5d3eba985": 886
+  }, 
   "iati_identifier": {
     "081aa63915d8b1020fe5152ee82c861d474f4aac": null, 
     "08867571e55dac33af62c7212ff8b35d630e9847": null, 
@@ -18876,6 +18879,9 @@
     "eb1af54ad47a2a17451220e15f4b7629b88993fe": 192, 
     "f11567d0843cca72facc23c583db0a9df289b6f5": 183, 
     "f98a012f92c9a3242564ea58405704e7494ba7b9": 191
+  }, 
+  "publishers_fail_validation": {
+    "380035ca54aeaa82d0f4ccf9189343b5d3eba985": 60
   }, 
   "publishers_per_country": {
     "081aa63915d8b1020fe5152ee82c861d474f4aac": {

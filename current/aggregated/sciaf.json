@@ -12,10 +12,12 @@
   "currencies": {
     "GBP": 1
   }, 
+  "fail_validation": 0, 
   "iati_identifier": null, 
   "invalidxml": 0, 
   "nonstandardroots": 0, 
   "publishers": 1, 
+  "publishers_fail_validation": 0, 
   "publishers_per_country": {
     "CD": 1, 
     "RW": 1

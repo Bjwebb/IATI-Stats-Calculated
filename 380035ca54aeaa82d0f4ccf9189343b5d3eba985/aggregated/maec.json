@@ -156,10 +156,12 @@
     "EUR": 12592, 
     "Eur": 16392
   }, 
+  "fail_validation": 0, 
   "iati_identifier": null, 
   "invalidxml": 0, 
   "nonstandardroots": 0, 
   "publishers": 1, 
+  "publishers_fail_validation": 0, 
   "publishers_per_country": {
     "AF": 1, 
     "AG": 1, 

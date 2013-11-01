@@ -164,10 +164,12 @@
   "currencies": {
     "GBP": 3836
   }, 
+  "fail_validation": 2, 
   "iati_identifier": null, 
   "invalidxml": 0, 
   "nonstandardroots": 0, 
   "publishers": 1, 
+  "publishers_fail_validation": 1, 
   "publishers_per_country": {
     "AA": 1, 
     "AF": 1, 

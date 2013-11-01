@@ -23,10 +23,12 @@
   "currencies": {
     "NOK": 56
   }, 
+  "fail_validation": 1, 
   "iati_identifier": null, 
   "invalidxml": 0, 
   "nonstandardroots": 0, 
   "publishers": 1, 
+  "publishers_fail_validation": 1, 
   "publishers_per_country": {
     "CD": 1, 
     "CH": 1, 

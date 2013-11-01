@@ -451,10 +451,12 @@
     "ZAR": 4, 
     "ZMK": 5
   }, 
+  "fail_validation": 886, 
   "iati_identifier": null, 
   "invalidxml": 1, 
   "nonstandardroots": 4, 
   "publishers": 192, 
+  "publishers_fail_validation": 60, 
   "publishers_per_country": {
     "": 8, 
     "-1": 1, 

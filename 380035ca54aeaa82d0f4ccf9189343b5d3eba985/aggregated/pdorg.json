@@ -7,10 +7,12 @@
   }, 
   "activity_files": 1, 
   "currencies": {}, 
+  "fail_validation": 1, 
   "iati_identifier": null, 
   "invalidxml": 0, 
   "nonstandardroots": 0, 
   "publishers": 1, 
+  "publishers_fail_validation": 1, 
   "publishers_per_country": {}, 
   "publishers_per_organisation_type": {
     "21": 1
