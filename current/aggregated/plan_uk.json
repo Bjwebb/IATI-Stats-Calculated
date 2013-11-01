@@ -1,61 +1,19 @@
 {
   "activities": 26, 
   "activities_no_country": 2, 
-  "activities_per_country": {
-    "BD": 2, 
-    "GB": 2, 
-    "HT": 1, 
-    "KE": 3, 
-    "KH": 3, 
-    "ML": 3, 
-    "MW": 3, 
-    "PK": 3, 
-    "RW": 3, 
-    "SL": 4, 
-    "SV": 3, 
-    "ZW": 3
-  }, 
-  "activities_per_year": {
-    "2008": 2, 
-    "2011": 22, 
-    "2012": 1, 
-    "2013": 1
-  }, 
-  "currencies": {
-    "GBP": 26, 
-    "USD": 2
-  }, 
+  "activities_per_country": {}, 
+  "activities_per_year": {}, 
+  "activity_files": 2, 
+  "currencies": {}, 
   "iati_identifier": null, 
-  "publishers": 0, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
   "publishers_per_country": {}, 
   "publishers_per_organisation_type": {}, 
   "spend": 5503425.7513, 
-  "spend_per_country": {
-    "BD": 184202.3125, 
-    "GB": 764995.4382, 
-    "HT": 315550.0, 
-    "KE": 395569.0, 
-    "KH": 395570.0, 
-    "ML": 199715.3816, 
-    "MW": 249443.5372, 
-    "PK": 199715.3816, 
-    "RW": 177227.3953, 
-    "SL": 192244.4198, 
-    "SV": 233387.7221, 
-    "ZW": 249644.227, 
-    "pre2010": 1946160.936
-  }, 
-  "spend_per_organisation_type": {
-    "21": 1448004.6754
-  }, 
-  "spend_per_year": {
-    "2008": 1946160.936, 
-    "2011": 3241714.8153, 
-    "2012": 315550.0, 
-    "2013": 0.0
-  }, 
-  "versions": {
-    "1.0": 1, 
-    "null": 1
-  }
+  "spend_per_country": {}, 
+  "spend_per_organisation_type": {}, 
+  "spend_per_year": {}, 
+  "versions": {}
 }

@@ -2,36 +2,18 @@
   "activities": 54, 
   "activities_no_country": 54, 
   "activities_per_country": {}, 
-  "activities_per_year": {
-    "null": 54
-  }, 
-  "currencies": {
-    "AUD": 1, 
-    "CHF": 1, 
-    "EUR": 3, 
-    "GBP": 4, 
-    "INR": 2, 
-    "LSL": 1, 
-    "MWK": 1, 
-    "SEK": 1, 
-    "USD": 39, 
-    "ZAR": 1
-  }, 
+  "activities_per_year": {}, 
+  "activity_files": 1, 
+  "currencies": {}, 
   "iati_identifier": null, 
-  "publishers": 0, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
   "publishers_per_country": {}, 
   "publishers_per_organisation_type": {}, 
   "spend": 168793212.5615, 
-  "spend_per_country": {
-    "pre2010": 168793212.5615
-  }, 
-  "spend_per_organisation_type": {
-    "21": 0
-  }, 
-  "spend_per_year": {
-    "null": 168793212.5615
-  }, 
-  "versions": {
-    "1.01": 1
-  }
+  "spend_per_country": {}, 
+  "spend_per_organisation_type": {}, 
+  "spend_per_year": {}, 
+  "versions": {}
 }

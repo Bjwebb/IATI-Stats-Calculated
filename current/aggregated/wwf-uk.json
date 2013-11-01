@@ -1,75 +1,19 @@
 {
   "activities": 201, 
   "activities_no_country": 193, 
-  "activities_per_country": {
-    "BR": 1, 
-    "CN": 2, 
-    "GB": 1, 
-    "IN": 1, 
-    "RU": 2, 
-    "ZA": 1
-  }, 
-  "activities_per_year": {
-    "1975": 1, 
-    "1977": 1, 
-    "1986": 1, 
-    "1998": 3, 
-    "1999": 2, 
-    "2000": 1, 
-    "2001": 2, 
-    "2003": 4, 
-    "2004": 3, 
-    "2005": 2, 
-    "2006": 5, 
-    "2007": 9, 
-    "2008": 14, 
-    "2009": 13, 
-    "2010": 2, 
-    "2011": 8, 
-    "null": 130
-  }, 
-  "currencies": {
-    "GBP": 201
-  }, 
+  "activities_per_country": {}, 
+  "activities_per_year": {}, 
+  "activity_files": 8, 
+  "currencies": {}, 
   "iati_identifier": null, 
-  "publishers": 0, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
   "publishers_per_country": {}, 
   "publishers_per_organisation_type": {}, 
   "spend": 15105378.5, 
-  "spend_per_country": {
-    "298": 59323.4, 
-    "889": 107287.0, 
-    "BR": 22088.5, 
-    "CN": 34710.5, 
-    "GB": 140735.3, 
-    "IN": 18933.0, 
-    "RU": 123064.5, 
-    "ZA": 18933.0, 
-    "pre2010": 14580303.3
-  }, 
-  "spend_per_organisation_type": {
-    "21": 0
-  }, 
-  "spend_per_year": {
-    "1975": 241711.3, 
-    "1977": 65634.4, 
-    "1986": 110442.5, 
-    "1998": 133162.1, 
-    "1999": 61847.8, 
-    "2000": 50488.0, 
-    "2001": 145784.1, 
-    "2003": 171028.1, 
-    "2004": 264430.9, 
-    "2005": 159037.2, 
-    "2006": 561047.9, 
-    "2007": 1642753.3, 
-    "2008": 860820.4, 
-    "2009": 528861.8, 
-    "2010": 70683.2, 
-    "2011": 454392.0, 
-    "null": 9583253.5
-  }, 
-  "versions": {
-    "1.0": 8
-  }
+  "spend_per_country": {}, 
+  "spend_per_organisation_type": {}, 
+  "spend_per_year": {}, 
+  "versions": {}
 }

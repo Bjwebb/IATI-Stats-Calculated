@@ -1,33 +1,19 @@
 {
   "activities": 2, 
   "activities_no_country": 0, 
-  "activities_per_country": {
-    "NP": 2
-  }, 
-  "activities_per_year": {
-    "2011": 1, 
-    "2012": 1
-  }, 
-  "currencies": {
-    "NPR": 1, 
-    "USD": 1
-  }, 
+  "activities_per_country": {}, 
+  "activities_per_year": {}, 
+  "activity_files": 1, 
+  "currencies": {}, 
   "iati_identifier": null, 
-  "publishers": 0, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
   "publishers_per_country": {}, 
   "publishers_per_organisation_type": {}, 
   "spend": 0.0, 
-  "spend_per_country": {
-    "NP": 0.0
-  }, 
-  "spend_per_organisation_type": {
-    "22": 0
-  }, 
-  "spend_per_year": {
-    "2011": 0, 
-    "2012": 0.0
-  }, 
-  "versions": {
-    "1.02": 1
-  }
+  "spend_per_country": {}, 
+  "spend_per_organisation_type": {}, 
+  "spend_per_year": {}, 
+  "versions": {}
 }

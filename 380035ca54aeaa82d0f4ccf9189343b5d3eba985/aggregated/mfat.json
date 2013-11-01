@@ -1,63 +1,19 @@
 {
   "activities": 71, 
   "activities_no_country": 38, 
-  "activities_per_country": {
-    "CK": 15, 
-    "TK": 13, 
-    "TV": 5
-  }, 
-  "activities_per_year": {
-    "1994": 7, 
-    "1995": 2, 
-    "1997": 1, 
-    "2000": 1, 
-    "2001": 1, 
-    "2003": 1, 
-    "2004": 7, 
-    "2005": 3, 
-    "2006": 4, 
-    "2007": 2, 
-    "2008": 3, 
-    "2009": 6, 
-    "2010": 13, 
-    "2011": 12, 
-    "2012": 8
-  }, 
-  "currencies": {
-    "NZD": 69
-  }, 
+  "activities_per_country": {}, 
+  "activities_per_year": {}, 
+  "activity_files": 1, 
+  "currencies": {}, 
   "iati_identifier": null, 
-  "publishers": 0, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
   "publishers_per_country": {}, 
   "publishers_per_organisation_type": {}, 
   "spend": 251666416.8763, 
-  "spend_per_country": {
-    "CK": 36902685.151, 
-    "TK": 66935744.676, 
-    "TV": 1744553.7548, 
-    "pre2010": 146083433.2945
-  }, 
-  "spend_per_organisation_type": {
-    "10": 35055968.2602
-  }, 
-  "spend_per_year": {
-    "1994": 55155328.9602, 
-    "1995": 19736412.4473, 
-    "1997": 21640950.8839, 
-    "2000": 10851854.8671, 
-    "2001": 3360367.1775, 
-    "2003": 2620813.3726, 
-    "2004": -23616039.5144, 
-    "2005": 3902021.6462, 
-    "2006": 7178462.1761, 
-    "2007": 10777920.669, 
-    "2008": 29165589.3377, 
-    "2009": 5309751.2713, 
-    "2010": 36405610.7635, 
-    "2011": 41770326.997, 
-    "2012": 27407045.8213
-  }, 
-  "versions": {
-    "1.02": 1
-  }
+  "spend_per_country": {}, 
+  "spend_per_organisation_type": {}, 
+  "spend_per_year": {}, 
+  "versions": {}
 }
