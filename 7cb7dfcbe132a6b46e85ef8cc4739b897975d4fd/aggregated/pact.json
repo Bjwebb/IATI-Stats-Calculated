@@ -1,0 +1,75 @@
+{
+  "activities": 33, 
+  "activities_no_country": 2, 
+  "activities_per_country": {
+    "CD": 4, 
+    "KE": 3, 
+    "KH": 7, 
+    "MZ": 1, 
+    "NG": 1, 
+    "NP": 1, 
+    "RW": 2, 
+    "SS": 7, 
+    "SZ": 2, 
+    "TH": 1, 
+    "UA": 2
+  }, 
+  "activities_per_year": {
+    "2011": 7, 
+    "2012": 21, 
+    "2013": 4, 
+    "null": 1
+  }, 
+  "activity_files": 1, 
+  "currencies": {}, 
+  "fail_validation": 0, 
+  "iati_identifier": null, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_fail_validation": 0, 
+  "publishers_per_country": {
+    "CD": 1, 
+    "KE": 1, 
+    "KH": 1, 
+    "MZ": 1, 
+    "NG": 1, 
+    "NP": 1, 
+    "RW": 1, 
+    "SS": 1, 
+    "SZ": 1, 
+    "TH": 1, 
+    "UA": 1
+  }, 
+  "publishers_per_organisation_type": {
+    "21": 1
+  }, 
+  "spend": 0, 
+  "spend_per_country": {
+    "998": 0, 
+    "CD": 0, 
+    "KE": 0, 
+    "KH": 0, 
+    "MZ": 0, 
+    "NG": 0, 
+    "NP": 0, 
+    "RW": 0, 
+    "SS": 0, 
+    "SZ": 0, 
+    "TH": 0, 
+    "UA": 0, 
+    "pre2010": 0
+  }, 
+  "spend_per_organisation_type": {
+    "21": 0
+  }, 
+  "spend_per_year": {
+    "2011": 0, 
+    "2012": 0, 
+    "2013": 0, 
+    "null": 0
+  }, 
+  "versions": {
+    "1.02": 1
+  }
+}
