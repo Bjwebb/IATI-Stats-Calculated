@@ -5,6 +5,7 @@
   "activities_per_year": {}, 
   "activity_files": 1, 
   "currencies": {}, 
+  "elements": {}, 
   "fail_validation": 0, 
   "iati_identifier": null, 
   "invalidxml": 0, 
