@@ -1,0 +1,81 @@
+{
+  "activities": 8, 
+  "activities_no_country": 0, 
+  "activities_per_country": {
+    "CH": 1, 
+    "ET": 3, 
+    "ID": 2, 
+    "IN": 1, 
+    "NG": 1
+  }, 
+  "activities_per_year": {
+    "2012": 8
+  }, 
+  "activity_files": 1, 
+  "currencies": {
+    "USD": 8
+  }, 
+  "elements": {
+    "iati-activity": 8, 
+    "iati-activity/activity-date": 8, 
+    "iati-activity/activity-status": 8, 
+    "iati-activity/budget": 8, 
+    "iati-activity/budget/period-end": 8, 
+    "iati-activity/budget/period-start": 8, 
+    "iati-activity/budget/value": 8, 
+    "iati-activity/collaboration-type": 8, 
+    "iati-activity/default-aid-type": 8, 
+    "iati-activity/default-finance-type": 8, 
+    "iati-activity/default-flow-type": 8, 
+    "iati-activity/description": 8, 
+    "iati-activity/iati-identifier": 8, 
+    "iati-activity/participating-org": 7, 
+    "iati-activity/recipient-country": 8, 
+    "iati-activity/recipient-region": 8, 
+    "iati-activity/reporting-org": 8, 
+    "iati-activity/sector": 8, 
+    "iati-activity/title": 8, 
+    "iati-activity/transaction": 8, 
+    "iati-activity/transaction/aid-type": 7, 
+    "iati-activity/transaction/disbursement-channel": 7, 
+    "iati-activity/transaction/finance-type": 7, 
+    "iati-activity/transaction/flow-type": 7, 
+    "iati-activity/transaction/tied-status": 7, 
+    "iati-activity/transaction/transaction-date": 8, 
+    "iati-activity/transaction/transaction-type": 8, 
+    "iati-activity/transaction/value": 8
+  }, 
+  "fail_validation": 0, 
+  "iati_identifier": null, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_fail_validation": 0, 
+  "publishers_per_country": {
+    "CH": 1, 
+    "ET": 1, 
+    "ID": 1, 
+    "IN": 1, 
+    "NG": 1
+  }, 
+  "publishers_per_organisation_type": {
+    "21": 1
+  }, 
+  "spend": 312666.0, 
+  "spend_per_country": {
+    "CH": 41630.0, 
+    "ET": 110821.0, 
+    "ID": 131790.0, 
+    "IN": 16793.0, 
+    "NG": 11632.0
+  }, 
+  "spend_per_organisation_type": {
+    "21": 312666.0
+  }, 
+  "spend_per_year": {
+    "2012": 312666.0
+  }, 
+  "versions": {
+    "1.01": 1
+  }
+}

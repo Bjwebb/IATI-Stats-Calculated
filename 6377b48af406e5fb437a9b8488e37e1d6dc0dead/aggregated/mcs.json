@@ -1,0 +1,80 @@
+{
+  "activities": 3, 
+  "activities_no_country": 1, 
+  "activities_per_country": {
+    "CD": 1, 
+    "CF": 1
+  }, 
+  "activities_per_year": {
+    "2011": 2, 
+    "null": 1
+  }, 
+  "activity_files": 3, 
+  "currencies": {
+    "GBP": 3
+  }, 
+  "elements": {
+    "iati-activity": 3, 
+    "iati-activity/activity-date": 3, 
+    "iati-activity/activity-status": 3, 
+    "iati-activity/budget": 3, 
+    "iati-activity/budget/period-end": 3, 
+    "iati-activity/budget/period-start": 3, 
+    "iati-activity/budget/value": 3, 
+    "iati-activity/contact-info": 3, 
+    "iati-activity/contact-info/mailing-address": 3, 
+    "iati-activity/contact-info/organisation": 3, 
+    "iati-activity/contact-info/person-name": 3, 
+    "iati-activity/contact-info/telephone": 3, 
+    "iati-activity/default-aid-type": 3, 
+    "iati-activity/default-flow-type": 3, 
+    "iati-activity/description": 3, 
+    "iati-activity/document-link": 3, 
+    "iati-activity/document-link/category": 3, 
+    "iati-activity/document-link/title": 3, 
+    "iati-activity/iati-identifier": 3, 
+    "iati-activity/participating-org": 3, 
+    "iati-activity/recipient-country": 3, 
+    "iati-activity/reporting-org": 3, 
+    "iati-activity/sector": 3, 
+    "iati-activity/title": 3, 
+    "iati-activity/transaction": 3, 
+    "iati-activity/transaction/aid-type": 3, 
+    "iati-activity/transaction/description": 3, 
+    "iati-activity/transaction/flow-type": 3, 
+    "iati-activity/transaction/provider-org": 3, 
+    "iati-activity/transaction/receiver-org": 1, 
+    "iati-activity/transaction/transaction-date": 3, 
+    "iati-activity/transaction/transaction-type": 3, 
+    "iati-activity/transaction/value": 3
+  }, 
+  "fail_validation": 0, 
+  "iati_identifier": null, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_fail_validation": 0, 
+  "publishers_per_country": {
+    "CD": 1, 
+    "CF": 1
+  }, 
+  "publishers_per_organisation_type": {
+    "21": 1
+  }, 
+  "spend": 930846.6249, 
+  "spend_per_country": {
+    "CD": 576083.8575, 
+    "CF": 211806.6265, 
+    "pre2010": 142956.1409
+  }, 
+  "spend_per_organisation_type": {
+    "21": 787890.484
+  }, 
+  "spend_per_year": {
+    "2011": 787890.484, 
+    "null": 142956.1409
+  }, 
+  "versions": {
+    "1.02": 3
+  }
+}

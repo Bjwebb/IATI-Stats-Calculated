@@ -1,0 +1,86 @@
+{
+  "activities": 2, 
+  "activities_no_country": 1, 
+  "activities_per_country": {
+    "GB": 1, 
+    "IN": 1
+  }, 
+  "activities_per_year": {
+    "2008": 1, 
+    "2012": 1
+  }, 
+  "activity_files": 2, 
+  "currencies": {
+    "GBP": 2
+  }, 
+  "elements": {
+    "iati-activity": 2, 
+    "iati-activity/activity-date": 2, 
+    "iati-activity/activity-status": 2, 
+    "iati-activity/budget": 2, 
+    "iati-activity/budget/period-end": 2, 
+    "iati-activity/budget/period-start": 2, 
+    "iati-activity/budget/value": 2, 
+    "iati-activity/collaboration-type": 2, 
+    "iati-activity/contact-info": 2, 
+    "iati-activity/contact-info/email": 2, 
+    "iati-activity/contact-info/mailing-address": 2, 
+    "iati-activity/contact-info/organisation": 2, 
+    "iati-activity/contact-info/telephone": 2, 
+    "iati-activity/default-aid-type": 2, 
+    "iati-activity/default-finance-type": 2, 
+    "iati-activity/default-flow-type": 2, 
+    "iati-activity/default-tied-status": 2, 
+    "iati-activity/description": 2, 
+    "iati-activity/document-link": 2, 
+    "iati-activity/document-link/category": 2, 
+    "iati-activity/document-link/language": 2, 
+    "iati-activity/document-link/title": 2, 
+    "iati-activity/iati-identifier": 2, 
+    "iati-activity/participating-org": 2, 
+    "iati-activity/recipient-country": 2, 
+    "iati-activity/reporting-org": 2, 
+    "iati-activity/sector": 2, 
+    "iati-activity/title": 2, 
+    "iati-activity/transaction": 2, 
+    "iati-activity/transaction/aid-type": 2, 
+    "iati-activity/transaction/description": 2, 
+    "iati-activity/transaction/disbursement-channel": 2, 
+    "iati-activity/transaction/finance-type": 2, 
+    "iati-activity/transaction/flow-type": 2, 
+    "iati-activity/transaction/provider-org": 2, 
+    "iati-activity/transaction/receiver-org": 2, 
+    "iati-activity/transaction/tied-status": 2, 
+    "iati-activity/transaction/transaction-date": 2, 
+    "iati-activity/transaction/transaction-type": 2, 
+    "iati-activity/transaction/value": 2
+  }, 
+  "fail_validation": 2, 
+  "iati_identifier": null, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_fail_validation": 1, 
+  "publishers_per_country": {
+    "GB": 1, 
+    "IN": 1
+  }, 
+  "publishers_per_organisation_type": {
+    "21": 1
+  }, 
+  "spend": 159948.5084, 
+  "spend_per_country": {
+    "IN": 91604.165, 
+    "pre2010": 68344.3434
+  }, 
+  "spend_per_organisation_type": {
+    "21": 117633.8845
+  }, 
+  "spend_per_year": {
+    "2008": 68344.3434, 
+    "2012": 91604.165
+  }, 
+  "versions": {
+    "null": 2
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "activities": 15, 
+  "activities_no_country": 15, 
+  "activities_per_country": {}, 
+  "activities_per_year": {
+    "null": 15
+  }, 
+  "activity_files": 11, 
+  "currencies": {
+    "GBP": 15
+  }, 
+  "elements": {
+    "iati-activity": 15, 
+    "iati-activity/activity-status": 15, 
+    "iati-activity/budget": 15, 
+    "iati-activity/budget/period-end": 15, 
+    "iati-activity/budget/period-start": 15, 
+    "iati-activity/budget/value": 15, 
+    "iati-activity/default-aid-type": 15, 
+    "iati-activity/default-flow-type": 15, 
+    "iati-activity/description": 15, 
+    "iati-activity/iati-identifier": 15, 
+    "iati-activity/participating-org": 15, 
+    "iati-activity/recipient-country": 14, 
+    "iati-activity/reporting-org": 15, 
+    "iati-activity/title": 15, 
+    "iati-activity/transaction": 15, 
+    "iati-activity/transaction/aid-type": 15, 
+    "iati-activity/transaction/disbursement-channel": 15, 
+    "iati-activity/transaction/finance-type": 15, 
+    "iati-activity/transaction/flow-type": 15, 
+    "iati-activity/transaction/tied-status": 15, 
+    "iati-activity/transaction/transaction-date": 15, 
+    "iati-activity/transaction/transaction-type": 15, 
+    "iati-activity/transaction/value": 15
+  }, 
+  "fail_validation": 0, 
+  "iati_identifier": null, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_fail_validation": 0, 
+  "publishers_per_country": {}, 
+  "publishers_per_organisation_type": {
+    "21": 1
+  }, 
+  "spend": 5963502.4558, 
+  "spend_per_country": {
+    "pre2010": 5963502.4558
+  }, 
+  "spend_per_organisation_type": {
+    "21": 5963502.4558
+  }, 
+  "spend_per_year": {
+    "null": 5963502.4558
+  }, 
+  "versions": {
+    "1.02": 11
+  }
+}

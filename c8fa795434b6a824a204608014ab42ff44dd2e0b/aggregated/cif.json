@@ -1,0 +1,65 @@
+{
+  "activities": 104, 
+  "activities_no_country": 104, 
+  "activities_per_country": {}, 
+  "activities_per_year": {
+    "null": 104
+  }, 
+  "activity_files": 33, 
+  "currencies": {
+    "USD": 104
+  }, 
+  "elements": {
+    "iati-activity": 104, 
+    "iati-activity/activity-date": 104, 
+    "iati-activity/activity-status": 104, 
+    "iati-activity/activity-website": 104, 
+    "iati-activity/collaboration-type": 104, 
+    "iati-activity/contact-info": 104, 
+    "iati-activity/contact-info/email": 104, 
+    "iati-activity/contact-info/mailing-address": 104, 
+    "iati-activity/contact-info/organisation": 104, 
+    "iati-activity/contact-info/telephone": 104, 
+    "iati-activity/default-finance-type": 104, 
+    "iati-activity/default-flow-type": 104, 
+    "iati-activity/iati-identifier": 104, 
+    "iati-activity/participating-org": 104, 
+    "iati-activity/policy-marker": 104, 
+    "iati-activity/recipient-country": 104, 
+    "iati-activity/reporting-org": 104, 
+    "iati-activity/title": 104, 
+    "iati-activity/transaction": 104, 
+    "iati-activity/transaction/aid-type": 104, 
+    "iati-activity/transaction/description": 104, 
+    "iati-activity/transaction/disbursement-channel": 104, 
+    "iati-activity/transaction/finance-type": 104, 
+    "iati-activity/transaction/flow-type": 104, 
+    "iati-activity/transaction/tied-status": 104, 
+    "iati-activity/transaction/transaction-date": 104, 
+    "iati-activity/transaction/transaction-type": 104, 
+    "iati-activity/transaction/value": 104
+  }, 
+  "fail_validation": 33, 
+  "iati_identifier": null, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_fail_validation": 1, 
+  "publishers_per_country": {}, 
+  "publishers_per_organisation_type": {
+    "Multilateral": 1
+  }, 
+  "spend": 0, 
+  "spend_per_country": {
+    "pre2010": 0
+  }, 
+  "spend_per_organisation_type": {
+    "Multilateral": 0
+  }, 
+  "spend_per_year": {
+    "null": 0
+  }, 
+  "versions": {
+    "1.01": 33
+  }
+}

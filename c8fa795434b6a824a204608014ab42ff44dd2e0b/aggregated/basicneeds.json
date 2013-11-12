@@ -1,0 +1,80 @@
+{
+  "activities": 5, 
+  "activities_no_country": 1, 
+  "activities_per_country": {
+    "GH": 1, 
+    "IN": 1, 
+    "UG": 2
+  }, 
+  "activities_per_year": {
+    "2009": 1, 
+    "2010": 1, 
+    "2011": 3
+  }, 
+  "activity_files": 5, 
+  "currencies": {
+    "GBP": 5
+  }, 
+  "elements": {
+    "iati-activity": 5, 
+    "iati-activity/activity-date": 5, 
+    "iati-activity/activity-status": 5, 
+    "iati-activity/budget": 5, 
+    "iati-activity/budget/period-end": 5, 
+    "iati-activity/budget/period-start": 5, 
+    "iati-activity/budget/value": 5, 
+    "iati-activity/default-aid-type": 5, 
+    "iati-activity/description": 5, 
+    "iati-activity/iati-identifier": 5, 
+    "iati-activity/participating-org": 5, 
+    "iati-activity/recipient-country": 5, 
+    "iati-activity/reporting-org": 5, 
+    "iati-activity/sector": 5, 
+    "iati-activity/title": 5, 
+    "iati-activity/transaction": 5, 
+    "iati-activity/transaction/aid-type": 5, 
+    "iati-activity/transaction/description": 5, 
+    "iati-activity/transaction/disbursement-channel": 5, 
+    "iati-activity/transaction/finance-type": 5, 
+    "iati-activity/transaction/flow-type": 5, 
+    "iati-activity/transaction/provider-org": 5, 
+    "iati-activity/transaction/receiver-org": 5, 
+    "iati-activity/transaction/tied-status": 5, 
+    "iati-activity/transaction/transaction-date": 5, 
+    "iati-activity/transaction/transaction-type": 5, 
+    "iati-activity/transaction/value": 5
+  }, 
+  "fail_validation": 0, 
+  "iati_identifier": null, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_fail_validation": 0, 
+  "publishers_per_country": {
+    "GH": 1, 
+    "IN": 1, 
+    "UG": 1
+  }, 
+  "publishers_per_organisation_type": {
+    "21": 1
+  }, 
+  "spend": 860463.9142, 
+  "spend_per_country": {
+    "GH": 148672.5953, 
+    "IN": 194844.2846, 
+    "UG": 311987.4301, 
+    "pre2010": 204959.6042
+  }, 
+  "spend_per_organisation_type": {
+    "21": 306494.3461
+  }, 
+  "spend_per_year": {
+    "2009": 204959.6042, 
+    "2010": 194844.2846, 
+    "2011": 460660.0254
+  }, 
+  "versions": {
+    "1.02": 4, 
+    "null": 1
+  }
+}
