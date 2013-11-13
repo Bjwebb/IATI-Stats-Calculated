@@ -1,0 +1,83 @@
+{
+  "activities": 9, 
+  "activities_no_country": 6, 
+  "activities_per_country": {
+    "AO": 1, 
+    "KE": 1, 
+    "LK": 1
+  }, 
+  "activities_per_year": {
+    "2011": 2, 
+    "2013": 1, 
+    "null": 6
+  }, 
+  "activity_files": 4, 
+  "currencies": {
+    "GBP": 9
+  }, 
+  "elements": {
+    "iati-activity": 9, 
+    "iati-activity/activity-date": 9, 
+    "iati-activity/activity-status": 9, 
+    "iati-activity/budget": 3, 
+    "iati-activity/budget/period-end": 3, 
+    "iati-activity/budget/period-start": 3, 
+    "iati-activity/budget/value": 3, 
+    "iati-activity/default-aid-type": 9, 
+    "iati-activity/default-flow-type": 9, 
+    "iati-activity/description": 9, 
+    "iati-activity/iati-identifier": 9, 
+    "iati-activity/participating-org": 9, 
+    "iati-activity/recipient-country": 3, 
+    "iati-activity/reporting-org": 9, 
+    "iati-activity/sector": 4, 
+    "iati-activity/title": 9, 
+    "iati-activity/transaction": 9, 
+    "iati-activity/transaction/aid-type": 4, 
+    "iati-activity/transaction/description": 7, 
+    "iati-activity/transaction/disbursement-channel": 4, 
+    "iati-activity/transaction/flow-type": 4, 
+    "iati-activity/transaction/provider-org": 9, 
+    "iati-activity/transaction/receiver-org": 8, 
+    "iati-activity/transaction/tied-status": 1, 
+    "iati-activity/transaction/transaction-date": 1, 
+    "iati-activity/transaction/transaction-type": 9, 
+    "iati-activity/transaction/value": 9, 
+    "iati-organisation": 1, 
+    "iati-organisation/identifier": 1, 
+    "iati-organisation/name": 1, 
+    "iati-organisation/reporting-org": 1
+  }, 
+  "fail_validation": 0, 
+  "iati_identifier": null, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_fail_validation": 0, 
+  "publishers_per_country": {
+    "AO": 1, 
+    "KE": 1, 
+    "LK": 1
+  }, 
+  "publishers_per_organisation_type": {
+    "21": 1
+  }, 
+  "spend": 905375.4289, 
+  "spend_per_country": {
+    "AO": 326964.7057, 
+    "KE": 25519.7907, 
+    "LK": 249471.3056, 
+    "pre2010": 303419.6269
+  }, 
+  "spend_per_organisation_type": {
+    "21": 0
+  }, 
+  "spend_per_year": {
+    "2011": 576436.0113, 
+    "2013": 25519.7907, 
+    "null": 303419.6269
+  }, 
+  "versions": {
+    "1.02": 4
+  }
+}
