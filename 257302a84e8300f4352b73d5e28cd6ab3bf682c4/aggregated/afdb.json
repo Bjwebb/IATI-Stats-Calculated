@@ -1,0 +1,83 @@
+{
+  "activities": 286, 
+  "activities_no_country": 286, 
+  "activities_per_country": {}, 
+  "activities_per_year": {
+    "null": 286
+  }, 
+  "activity_files": 53, 
+  "currencies": {
+    "XDR": 286
+  }, 
+  "elements": {
+    "iati-activity": 286, 
+    "iati-activity/activity-date": 286, 
+    "iati-activity/activity-status": 286, 
+    "iati-activity/activity-website": 286, 
+    "iati-activity/collaboration-type": 286, 
+    "iati-activity/contact-info": 286, 
+    "iati-activity/contact-info/email": 286, 
+    "iati-activity/contact-info/mailing-address": 286, 
+    "iati-activity/contact-info/organisation": 286, 
+    "iati-activity/contact-info/person-name": 286, 
+    "iati-activity/contact-info/telephone": 286, 
+    "iati-activity/description": 286, 
+    "iati-activity/iati-identifier": 286, 
+    "iati-activity/location": 146, 
+    "iati-activity/location/administrative": 146, 
+    "iati-activity/location/coordinates": 146, 
+    "iati-activity/location/gazetteer-entry": 146, 
+    "iati-activity/participating-org": 286, 
+    "iati-activity/recipient-country": 286, 
+    "iati-activity/recipient-region": 261, 
+    "iati-activity/reporting-org": 286, 
+    "iati-activity/sector": 286, 
+    "iati-activity/title": 286, 
+    "iati-activity/transaction": 286, 
+    "iati-activity/transaction/aid-type": 286, 
+    "iati-activity/transaction/description": 123, 
+    "iati-activity/transaction/finance-type": 286, 
+    "iati-activity/transaction/flow-type": 286, 
+    "iati-activity/transaction/provider-org": 286, 
+    "iati-activity/transaction/receiver-org": 68, 
+    "iati-activity/transaction/tied-status": 286, 
+    "iati-activity/transaction/transaction-date": 286, 
+    "iati-activity/transaction/transaction-type": 286, 
+    "iati-activity/transaction/value": 286, 
+    "iati-organisation": 1, 
+    "iati-organisation/document-link": 1, 
+    "iati-organisation/document-link/category": 1, 
+    "iati-organisation/document-link/language": 1, 
+    "iati-organisation/document-link/title": 1, 
+    "iati-organisation/iati-identifier": 1, 
+    "iati-organisation/name": 1, 
+    "iati-organisation/reporting-org": 1, 
+    "iati-organisation/total-budget": 1, 
+    "iati-organisation/total-budget/period-end": 1, 
+    "iati-organisation/total-budget/period-start": 1, 
+    "iati-organisation/total-budget/value": 1
+  }, 
+  "fail_validation": 53, 
+  "iati_identifier": null, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_fail_validation": 1, 
+  "publishers_per_country": {}, 
+  "publishers_per_organisation_type": {
+    "40": 1
+  }, 
+  "spend": 0.0, 
+  "spend_per_country": {
+    "pre2010": 0.0
+  }, 
+  "spend_per_organisation_type": {
+    "40": 0.0
+  }, 
+  "spend_per_year": {
+    "null": 0.0
+  }, 
+  "versions": {
+    "1.02": 53
+  }
+}
