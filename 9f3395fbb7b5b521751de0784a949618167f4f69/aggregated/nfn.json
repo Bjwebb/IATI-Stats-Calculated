@@ -1,0 +1,75 @@
+{
+  "activities": 1, 
+  "activities_no_country": 0, 
+  "activities_per_country": {
+    "NP": 1
+  }, 
+  "activities_per_year": {
+    "2012": 1
+  }, 
+  "activity_files": 1, 
+  "currencies": {
+    "GBP": 1
+  }, 
+  "elements": {
+    "iati-activity": 1, 
+    "iati-activity/activity-date": 1, 
+    "iati-activity/activity-status": 1, 
+    "iati-activity/budget": 1, 
+    "iati-activity/budget/period-end": 1, 
+    "iati-activity/budget/period-start": 1, 
+    "iati-activity/budget/value": 1, 
+    "iati-activity/description": 1, 
+    "iati-activity/document-link": 1, 
+    "iati-activity/document-link/category": 1, 
+    "iati-activity/document-link/title": 1, 
+    "iati-activity/iati-identifier": 1, 
+    "iati-activity/location": 1, 
+    "iati-activity/location/administrative": 1, 
+    "iati-activity/location/coordinates": 1, 
+    "iati-activity/location/description": 1, 
+    "iati-activity/location/location-type": 1, 
+    "iati-activity/location/name": 1, 
+    "iati-activity/participating-org": 1, 
+    "iati-activity/recipient-country": 1, 
+    "iati-activity/reporting-org": 1, 
+    "iati-activity/result": 1, 
+    "iati-activity/result/description": 1, 
+    "iati-activity/result/indicator": 1, 
+    "iati-activity/result/indicator/period": 1, 
+    "iati-activity/result/indicator/period/actual": 1, 
+    "iati-activity/result/indicator/period/period-end": 1, 
+    "iati-activity/result/indicator/title": 1, 
+    "iati-activity/result/title": 1, 
+    "iati-activity/sector": 1, 
+    "iati-activity/title": 1, 
+    "iati-activity/transaction": 1, 
+    "iati-activity/transaction/transaction-type": 1, 
+    "iati-activity/transaction/value": 1
+  }, 
+  "fail_validation": 1, 
+  "iati_identifier": null, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_fail_validation": 1, 
+  "publishers_per_country": {
+    "NP": 1
+  }, 
+  "publishers_per_organisation_type": {
+    "22": 1
+  }, 
+  "spend": 5997.9744, 
+  "spend_per_country": {
+    "NP": 5997.9744
+  }, 
+  "spend_per_organisation_type": {
+    "22": 0
+  }, 
+  "spend_per_year": {
+    "2012": 5997.9744
+  }, 
+  "versions": {
+    "1.02": 1
+  }
+}

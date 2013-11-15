@@ -1,0 +1,80 @@
+{
+  "activities": 2, 
+  "activities_no_country": 0, 
+  "activities_per_country": {
+    "NP": 2
+  }, 
+  "activities_per_year": {
+    "2012": 1, 
+    "2013": 1
+  }, 
+  "activity_files": 1, 
+  "currencies": {
+    "USD": 2
+  }, 
+  "elements": {
+    "iati-activity": 2, 
+    "iati-activity/activity-date": 2, 
+    "iati-activity/activity-status": 2, 
+    "iati-activity/activity-website": 1, 
+    "iati-activity/budget": 2, 
+    "iati-activity/budget/period-end": 2, 
+    "iati-activity/budget/period-start": 2, 
+    "iati-activity/budget/value": 2, 
+    "iati-activity/collaboration-type": 2, 
+    "iati-activity/contact-info": 1, 
+    "iati-activity/contact-info/email": 1, 
+    "iati-activity/contact-info/mailing-address": 1, 
+    "iati-activity/contact-info/organisation": 1, 
+    "iati-activity/contact-info/person-name": 1, 
+    "iati-activity/contact-info/telephone": 1, 
+    "iati-activity/default-aid-type": 2, 
+    "iati-activity/default-finance-type": 2, 
+    "iati-activity/default-flow-type": 2, 
+    "iati-activity/default-tied-status": 2, 
+    "iati-activity/description": 2, 
+    "iati-activity/iati-identifier": 2, 
+    "iati-activity/location": 1, 
+    "iati-activity/location/coordinates": 1, 
+    "iati-activity/location/description": 1, 
+    "iati-activity/location/location-type": 1, 
+    "iati-activity/location/name": 1, 
+    "iati-activity/participating-org": 2, 
+    "iati-activity/recipient-country": 2, 
+    "iati-activity/reporting-org": 2, 
+    "iati-activity/sector": 2, 
+    "iati-activity/title": 2, 
+    "iati-activity/transaction": 2, 
+    "iati-activity/transaction/description": 1, 
+    "iati-activity/transaction/receiver-org": 1, 
+    "iati-activity/transaction/transaction-date": 1, 
+    "iati-activity/transaction/transaction-type": 2, 
+    "iati-activity/transaction/value": 2
+  }, 
+  "fail_validation": 0, 
+  "iati_identifier": null, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_fail_validation": 0, 
+  "publishers_per_country": {
+    "NP": 1
+  }, 
+  "publishers_per_organisation_type": {
+    "70": 1
+  }, 
+  "spend": 0, 
+  "spend_per_country": {
+    "NP": 0
+  }, 
+  "spend_per_organisation_type": {
+    "70": 0
+  }, 
+  "spend_per_year": {
+    "2012": 0, 
+    "2013": 0
+  }, 
+  "versions": {
+    "1.02": 1
+  }
+}

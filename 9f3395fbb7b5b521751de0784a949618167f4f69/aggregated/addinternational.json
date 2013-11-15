@@ -1,0 +1,98 @@
+{
+  "activities": 8, 
+  "activities_no_country": 4, 
+  "activities_per_country": {
+    "KH": 1, 
+    "SD": 1, 
+    "TZ": 1, 
+    "UG": 1
+  }, 
+  "activities_per_year": {
+    "2012": 4, 
+    "null": 4
+  }, 
+  "activity_files": 1, 
+  "currencies": {
+    "BDT": 1, 
+    "EUR": 1, 
+    "GBP": 6, 
+    "TZS": 1
+  }, 
+  "elements": {
+    "iati-activity": 8, 
+    "iati-activity/activity-date": 4, 
+    "iati-activity/activity-status": 6, 
+    "iati-activity/activity-website": 7, 
+    "iati-activity/budget": 8, 
+    "iati-activity/budget/period-end": 8, 
+    "iati-activity/budget/period-start": 8, 
+    "iati-activity/budget/value": 8, 
+    "iati-activity/default-aid-type": 1, 
+    "iati-activity/default-flow-type": 1, 
+    "iati-activity/description": 8, 
+    "iati-activity/iati-identifier": 8, 
+    "iati-activity/participating-org": 8, 
+    "iati-activity/recipient-country": 5, 
+    "iati-activity/reporting-org": 8, 
+    "iati-activity/sector": 6, 
+    "iati-activity/title": 8, 
+    "iati-activity/transaction": 8, 
+    "iati-activity/transaction/aid-type": 8, 
+    "iati-activity/transaction/description": 8, 
+    "iati-activity/transaction/disbursement-channel": 8, 
+    "iati-activity/transaction/finance-type": 8, 
+    "iati-activity/transaction/flow-type": 8, 
+    "iati-activity/transaction/provider-org": 8, 
+    "iati-activity/transaction/receiver-org": 8, 
+    "iati-activity/transaction/tied-status": 8, 
+    "iati-activity/transaction/transaction-date": 8, 
+    "iati-activity/transaction/transaction-type": 8, 
+    "iati-activity/transaction/value": 8, 
+    "iati-organisation": 1, 
+    "iati-organisation/identifier": 1, 
+    "iati-organisation/name": 1, 
+    "iati-organisation/recipient-org-budget": 1, 
+    "iati-organisation/recipient-org-budget/period-end": 1, 
+    "iati-organisation/recipient-org-budget/period-start": 1, 
+    "iati-organisation/recipient-org-budget/recipient-org": 1, 
+    "iati-organisation/recipient-org-budget/value": 1, 
+    "iati-organisation/reporting-org": 1, 
+    "iati-organisation/total-budget": 1, 
+    "iati-organisation/total-budget/period-end": 1, 
+    "iati-organisation/total-budget/period-start": 1, 
+    "iati-organisation/total-budget/value": 1
+  }, 
+  "fail_validation": 0, 
+  "iati_identifier": null, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_fail_validation": 0, 
+  "publishers_per_country": {
+    "KH": 1, 
+    "SD": 1, 
+    "TZ": 1, 
+    "UG": 1
+  }, 
+  "publishers_per_organisation_type": {
+    "21": 1
+  }, 
+  "spend": 315335.426, 
+  "spend_per_country": {
+    "KH": 50508.8263, 
+    "SD": 0, 
+    "TZ": 86249.2815, 
+    "UG": 49798.2077, 
+    "pre2010": 128779.1105
+  }, 
+  "spend_per_organisation_type": {
+    "21": 298611.276
+  }, 
+  "spend_per_year": {
+    "2012": 186556.3155, 
+    "null": 128779.1105
+  }, 
+  "versions": {
+    "1.02": 1
+  }
+}
