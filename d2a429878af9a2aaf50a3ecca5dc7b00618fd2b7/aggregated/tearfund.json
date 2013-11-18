@@ -1,0 +1,91 @@
+{
+  "activities": 8, 
+  "activities_no_country": 3, 
+  "activities_per_country": {
+    "CD": 1, 
+    "CG": 1, 
+    "PE": 1, 
+    "SD": 2
+  }, 
+  "activities_per_year": {
+    "2007": 1, 
+    "2008": 1, 
+    "2009": 1, 
+    "2010": 2, 
+    "2012": 3
+  }, 
+  "activity_files": 5, 
+  "currencies": {
+    "GBP": 2
+  }, 
+  "elements": {
+    "iati-activity": 8, 
+    "iati-activity/activity-date": 8, 
+    "iati-activity/activity-status": 8, 
+    "iati-activity/budget": 1, 
+    "iati-activity/budget/period-end": 1, 
+    "iati-activity/budget/period-start": 1, 
+    "iati-activity/budget/value": 1, 
+    "iati-activity/contact-info": 1, 
+    "iati-activity/contact-info/email": 1, 
+    "iati-activity/contact-info/mailing-address": 1, 
+    "iati-activity/contact-info/organisation": 1, 
+    "iati-activity/contact-info/person-name": 1, 
+    "iati-activity/contact-info/telephone": 1, 
+    "iati-activity/default-aid-type": 1, 
+    "iati-activity/default-flow-type": 1, 
+    "iati-activity/description": 8, 
+    "iati-activity/document-link": 1, 
+    "iati-activity/document-link/category": 1, 
+    "iati-activity/document-link/title": 1, 
+    "iati-activity/iati-identifier": 8, 
+    "iati-activity/participating-org": 8, 
+    "iati-activity/recipient-country": 7, 
+    "iati-activity/reporting-org": 8, 
+    "iati-activity/sector": 8, 
+    "iati-activity/title": 8, 
+    "iati-activity/transaction": 2, 
+    "iati-activity/transaction/description": 1, 
+    "iati-activity/transaction/provider-org": 1, 
+    "iati-activity/transaction/receiver-org": 1, 
+    "iati-activity/transaction/transaction-date": 2, 
+    "iati-activity/transaction/transaction-type": 2, 
+    "iati-activity/transaction/value": 2
+  }, 
+  "fail_validation": 0, 
+  "iati_identifier": null, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_fail_validation": 0, 
+  "publishers_per_country": {
+    "CD": 1, 
+    "CG": 1, 
+    "PE": 1, 
+    "SD": 1
+  }, 
+  "publishers_per_organisation_type": {
+    "21": 1
+  }, 
+  "spend": 697179.3255, 
+  "spend_per_country": {
+    "CD": 697179.3255, 
+    "CG": 0, 
+    "PE": 0, 
+    "SD": 0, 
+    "pre2010": 0
+  }, 
+  "spend_per_organisation_type": {
+    "21": 697179.3255
+  }, 
+  "spend_per_year": {
+    "2007": 0, 
+    "2008": 0, 
+    "2009": 0, 
+    "2010": 0, 
+    "2012": 697179.3255
+  }, 
+  "versions": {
+    "null": 5
+  }
+}
