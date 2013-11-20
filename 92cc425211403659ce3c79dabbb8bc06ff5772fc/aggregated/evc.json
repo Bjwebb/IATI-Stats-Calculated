@@ -1,0 +1,80 @@
+{
+  "activities": 2, 
+  "activities_no_country": 1, 
+  "activities_per_country": {
+    "TZ": 1
+  }, 
+  "activities_per_year": {
+    "2007": 1, 
+    "2011": 1
+  }, 
+  "activity_files": 2, 
+  "currencies": {
+    "GBP": 2
+  }, 
+  "elements": {
+    "iati-activity": 2, 
+    "iati-activity/activity-date": 2, 
+    "iati-activity/activity-status": 2, 
+    "iati-activity/budget": 2, 
+    "iati-activity/budget/period-end": 2, 
+    "iati-activity/budget/period-start": 2, 
+    "iati-activity/budget/value": 2, 
+    "iati-activity/collaboration-type": 2, 
+    "iati-activity/contact-info": 2, 
+    "iati-activity/contact-info/email": 2, 
+    "iati-activity/contact-info/mailing-address": 2, 
+    "iati-activity/contact-info/organisation": 2, 
+    "iati-activity/contact-info/telephone": 2, 
+    "iati-activity/default-aid-type": 2, 
+    "iati-activity/default-finance-type": 2, 
+    "iati-activity/default-flow-type": 2, 
+    "iati-activity/default-tied-status": 2, 
+    "iati-activity/description": 2, 
+    "iati-activity/iati-identifier": 2, 
+    "iati-activity/participating-org": 2, 
+    "iati-activity/recipient-country": 2, 
+    "iati-activity/recipient-region": 2, 
+    "iati-activity/reporting-org": 2, 
+    "iati-activity/sector": 2, 
+    "iati-activity/title": 2, 
+    "iati-activity/transaction": 2, 
+    "iati-activity/transaction/aid-type": 1, 
+    "iati-activity/transaction/disbursement-channel": 1, 
+    "iati-activity/transaction/finance-type": 1, 
+    "iati-activity/transaction/flow-type": 1, 
+    "iati-activity/transaction/provider-org": 2, 
+    "iati-activity/transaction/receiver-org": 2, 
+    "iati-activity/transaction/tied-status": 1, 
+    "iati-activity/transaction/transaction-date": 1, 
+    "iati-activity/transaction/transaction-type": 2, 
+    "iati-activity/transaction/value": 2
+  }, 
+  "fail_validation": 0, 
+  "iati_identifier": null, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_fail_validation": 0, 
+  "publishers_per_country": {
+    "TZ": 1
+  }, 
+  "publishers_per_organisation_type": {
+    "21": 1
+  }, 
+  "spend": 315590.8502, 
+  "spend_per_country": {
+    "TZ": 0, 
+    "pre2010": 315590.8502
+  }, 
+  "spend_per_organisation_type": {
+    "21": 0
+  }, 
+  "spend_per_year": {
+    "2007": 315590.8502, 
+    "2011": 0
+  }, 
+  "versions": {
+    "1.02": 2
+  }
+}

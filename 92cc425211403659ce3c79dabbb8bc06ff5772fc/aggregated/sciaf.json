@@ -1,0 +1,76 @@
+{
+  "activities": 1, 
+  "activities_no_country": 0, 
+  "activities_per_country": {
+    "CD": 1, 
+    "RW": 1
+  }, 
+  "activities_per_year": {
+    "2013": 1
+  }, 
+  "activity_files": 1, 
+  "currencies": {
+    "GBP": 1
+  }, 
+  "elements": {
+    "iati-activity": 1, 
+    "iati-activity/activity-date": 1, 
+    "iati-activity/activity-status": 1, 
+    "iati-activity/budget": 1, 
+    "iati-activity/budget/period-end": 1, 
+    "iati-activity/budget/period-start": 1, 
+    "iati-activity/budget/value": 1, 
+    "iati-activity/description": 1, 
+    "iati-activity/iati-identifier": 1, 
+    "iati-activity/other-identifier": 1, 
+    "iati-activity/participating-org": 1, 
+    "iati-activity/recipient-country": 1, 
+    "iati-activity/reporting-org": 1, 
+    "iati-activity/sector": 1, 
+    "iati-activity/title": 1, 
+    "iati-activity/transaction": 1, 
+    "iati-activity/transaction/aid-type": 1, 
+    "iati-activity/transaction/description": 1, 
+    "iati-activity/transaction/disbursement-channel": 1, 
+    "iati-activity/transaction/finance-type": 1, 
+    "iati-activity/transaction/flow-type": 1, 
+    "iati-activity/transaction/provider-org": 1, 
+    "iati-activity/transaction/receiver-org": 1, 
+    "iati-activity/transaction/tied-status": 1, 
+    "iati-activity/transaction/transaction-date": 1, 
+    "iati-activity/transaction/transaction-type": 1, 
+    "iati-activity/transaction/value": 1, 
+    "iati-organisation": 1, 
+    "iati-organisation/document-link": 1, 
+    "iati-organisation/document-link/category": 1, 
+    "iati-organisation/document-link/title": 1, 
+    "iati-organisation/name": 1, 
+    "iati-organisation/reporting-org": 1
+  }, 
+  "fail_validation": 0, 
+  "iati_identifier": null, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_fail_validation": 0, 
+  "publishers_per_country": {
+    "CD": 1, 
+    "RW": 1
+  }, 
+  "publishers_per_organisation_type": {
+    "22": 1
+  }, 
+  "spend": 79800.0706, 
+  "spend_per_country": {
+    "CD": 79800.0706
+  }, 
+  "spend_per_organisation_type": {
+    "22": 79800.0706
+  }, 
+  "spend_per_year": {
+    "2013": 79800.0706
+  }, 
+  "versions": {
+    "1.02": 1
+  }
+}

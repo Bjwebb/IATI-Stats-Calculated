@@ -1,0 +1,78 @@
+{
+  "activities": 6, 
+  "activities_no_country": 4, 
+  "activities_per_country": {
+    "GH": 2, 
+    "UG": 1
+  }, 
+  "activities_per_year": {
+    "2008": 1, 
+    "2011": 2, 
+    "null": 3
+  }, 
+  "activity_files": 1, 
+  "currencies": {
+    "CAD": 6
+  }, 
+  "elements": {
+    "iati-activity": 6, 
+    "iati-activity/activity-date": 3, 
+    "iati-activity/activity-status": 3, 
+    "iati-activity/activity-website": 5, 
+    "iati-activity/budget": 6, 
+    "iati-activity/budget/value": 6, 
+    "iati-activity/collaboration-type": 1, 
+    "iati-activity/contact-info": 3, 
+    "iati-activity/contact-info/email": 3, 
+    "iati-activity/contact-info/person-name": 3, 
+    "iati-activity/default-aid-type": 1, 
+    "iati-activity/default-finance-type": 1, 
+    "iati-activity/default-flow-type": 1, 
+    "iati-activity/default-tied-status": 1, 
+    "iati-activity/description": 4, 
+    "iati-activity/iati-identifier": 6, 
+    "iati-activity/location": 1, 
+    "iati-activity/location/location-type": 1, 
+    "iati-activity/participating-org": 6, 
+    "iati-activity/recipient-country": 6, 
+    "iati-activity/reporting-org": 6, 
+    "iati-activity/sector": 2, 
+    "iati-activity/title": 6, 
+    "iati-activity/transaction": 6, 
+    "iati-activity/transaction/description": 6, 
+    "iati-activity/transaction/provider-org": 2, 
+    "iati-activity/transaction/receiver-org": 2, 
+    "iati-activity/transaction/transaction-date": 6, 
+    "iati-activity/transaction/transaction-type": 6, 
+    "iati-activity/transaction/value": 6
+  }, 
+  "fail_validation": 1, 
+  "iati_identifier": null, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_fail_validation": 1, 
+  "publishers_per_country": {
+    "GH": 1, 
+    "UG": 1
+  }, 
+  "publishers_per_organisation_type": {
+    "22": 1
+  }, 
+  "spend": 0, 
+  "spend_per_country": {
+    "GH": 0, 
+    "pre2010": 0
+  }, 
+  "spend_per_organisation_type": {
+    "22": 0
+  }, 
+  "spend_per_year": {
+    "2008": 0, 
+    "2011": 0, 
+    "null": 0
+  }, 
+  "versions": {
+    "1.01": 1
+  }
+}
