@@ -1,0 +1,32 @@
+{
+  "activities": 0, 
+  "activities_no_country": 0, 
+  "activities_per_country": {}, 
+  "activities_per_year": {}, 
+  "activity_files": 0, 
+  "currencies": {}, 
+  "elements": {
+    "iati-organisation": 1, 
+    "iati-organisation/document-link": 1, 
+    "iati-organisation/document-link/category": 1, 
+    "iati-organisation/document-link/language": 1, 
+    "iati-organisation/document-link/title": 1, 
+    "iati-organisation/iati-identifier": 1, 
+    "iati-organisation/name": 1, 
+    "iati-organisation/reporting-org": 1, 
+    "iati-organisation/{http://iatistandard.org/downloads/iati-registry-record-schema.xsd}registry-record": 1
+  }, 
+  "fail_validation": 0, 
+  "iati_identifier": null, 
+  "invalidxml": 115, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_fail_validation": 0, 
+  "publishers_per_country": {}, 
+  "publishers_per_organisation_type": {}, 
+  "spend": 0, 
+  "spend_per_country": {}, 
+  "spend_per_organisation_type": {}, 
+  "spend_per_year": {}, 
+  "versions": {}
+}
