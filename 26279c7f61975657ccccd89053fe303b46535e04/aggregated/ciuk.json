@@ -1,0 +1,53 @@
+{
+  "activities": 23, 
+  "activities_no_country": 23, 
+  "activities_per_country": {}, 
+  "activities_per_year": {
+    "null": 23
+  }, 
+  "activity_files": 1, 
+  "currencies": {
+    "GBP": 23
+  }, 
+  "elements": {
+    "iati-activity": 23, 
+    "iati-activity/activity-date": 23, 
+    "iati-activity/activity-status": 23, 
+    "iati-activity/description": 23, 
+    "iati-activity/iati-identifier": 23, 
+    "iati-activity/participating-org": 23, 
+    "iati-activity/recipient-country": 17, 
+    "iati-activity/recipient-region": 23, 
+    "iati-activity/reporting-org": 23, 
+    "iati-activity/sector": 23, 
+    "iati-activity/title": 23, 
+    "iati-activity/transaction": 23, 
+    "iati-activity/transaction/description": 23, 
+    "iati-activity/transaction/transaction-date": 23, 
+    "iati-activity/transaction/transaction-type": 23, 
+    "iati-activity/transaction/value": 23
+  }, 
+  "fail_validation": 1, 
+  "iati_identifier": null, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_fail_validation": 1, 
+  "publishers_per_country": {}, 
+  "publishers_per_organisation_type": {
+    "21": 1
+  }, 
+  "spend": 0, 
+  "spend_per_country": {
+    "pre2010": 0
+  }, 
+  "spend_per_organisation_type": {
+    "21": 0
+  }, 
+  "spend_per_year": {
+    "null": 0
+  }, 
+  "versions": {
+    "1.0": 1
+  }
+}

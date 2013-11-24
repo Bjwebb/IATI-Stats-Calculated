@@ -1,0 +1,83 @@
+{
+  "activities": 4, 
+  "activities_no_country": 0, 
+  "activities_per_country": {
+    "GB": 4
+  }, 
+  "activities_per_year": {
+    "2011": 2, 
+    "2012": 1, 
+    "2013": 1
+  }, 
+  "activity_files": 1, 
+  "currencies": {
+    "GBP": 4
+  }, 
+  "elements": {
+    "iati-activity": 4, 
+    "iati-activity/activity-date": 4, 
+    "iati-activity/activity-status": 4, 
+    "iati-activity/budget": 4, 
+    "iati-activity/budget/period-end": 4, 
+    "iati-activity/budget/period-start": 4, 
+    "iati-activity/budget/value": 4, 
+    "iati-activity/contact-info": 4, 
+    "iati-activity/contact-info/email": 4, 
+    "iati-activity/contact-info/mailing-address": 4, 
+    "iati-activity/contact-info/organisation": 4, 
+    "iati-activity/contact-info/person-name": 4, 
+    "iati-activity/contact-info/telephone": 4, 
+    "iati-activity/default-aid-type": 4, 
+    "iati-activity/default-flow-type": 4, 
+    "iati-activity/description": 4, 
+    "iati-activity/document-link": 1, 
+    "iati-activity/document-link/category": 1, 
+    "iati-activity/document-link/language": 1, 
+    "iati-activity/document-link/title": 1, 
+    "iati-activity/iati-identifier": 4, 
+    "iati-activity/participating-org": 4, 
+    "iati-activity/recipient-country": 4, 
+    "iati-activity/reporting-org": 4, 
+    "iati-activity/sector": 4, 
+    "iati-activity/title": 4, 
+    "iati-activity/transaction": 4, 
+    "iati-activity/transaction/aid-type": 4, 
+    "iati-activity/transaction/description": 4, 
+    "iati-activity/transaction/disbursement-channel": 1, 
+    "iati-activity/transaction/finance-type": 1, 
+    "iati-activity/transaction/flow-type": 4, 
+    "iati-activity/transaction/provider-org": 4, 
+    "iati-activity/transaction/receiver-org": 4, 
+    "iati-activity/transaction/tied-status": 1, 
+    "iati-activity/transaction/transaction-date": 4, 
+    "iati-activity/transaction/transaction-type": 4, 
+    "iati-activity/transaction/value": 4
+  }, 
+  "fail_validation": 0, 
+  "iati_identifier": null, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_fail_validation": 0, 
+  "publishers_per_country": {
+    "GB": 1
+  }, 
+  "publishers_per_organisation_type": {
+    "22": 1
+  }, 
+  "spend": 865570.6897, 
+  "spend_per_country": {
+    "GB": 865570.6897
+  }, 
+  "spend_per_organisation_type": {
+    "22": 617164.0498
+  }, 
+  "spend_per_year": {
+    "2011": 544968.1031, 
+    "2012": 320602.5866, 
+    "2013": 0
+  }, 
+  "versions": {
+    "1.02": 1
+  }
+}

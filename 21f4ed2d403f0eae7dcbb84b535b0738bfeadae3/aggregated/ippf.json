@@ -1,0 +1,85 @@
+{
+  "activities": 39, 
+  "activities_no_country": 39, 
+  "activities_per_country": {}, 
+  "activities_per_year": {
+    "2013": 25, 
+    "null": 14
+  }, 
+  "activity_files": 1, 
+  "currencies": {
+    "USD": 39
+  }, 
+  "elements": {
+    "iati-activity": 39, 
+    "iati-activity/activity-date": 39, 
+    "iati-activity/activity-status": 39, 
+    "iati-activity/collaboration-type": 39, 
+    "iati-activity/contact-info": 39, 
+    "iati-activity/contact-info/email": 38, 
+    "iati-activity/contact-info/mailing-address": 38, 
+    "iati-activity/contact-info/organisation": 39, 
+    "iati-activity/contact-info/person-name": 38, 
+    "iati-activity/contact-info/telephone": 38, 
+    "iati-activity/default-aid-type": 39, 
+    "iati-activity/default-finance-type": 39, 
+    "iati-activity/default-flow-type": 39, 
+    "iati-activity/default-tied-status": 39, 
+    "iati-activity/description": 39, 
+    "iati-activity/iati-identifier": 39, 
+    "iati-activity/participating-org": 26, 
+    "iati-activity/recipient-region": 33, 
+    "iati-activity/reporting-org": 39, 
+    "iati-activity/sector": 27, 
+    "iati-activity/title": 39, 
+    "iati-activity/transaction": 39, 
+    "iati-activity/transaction/aid-type": 6, 
+    "iati-activity/transaction/description": 39, 
+    "iati-activity/transaction/disbursement-channel": 6, 
+    "iati-activity/transaction/finance-type": 6, 
+    "iati-activity/transaction/flow-type": 6, 
+    "iati-activity/transaction/provider-org": 26, 
+    "iati-activity/transaction/receiver-org": 20, 
+    "iati-activity/transaction/tied-status": 6, 
+    "iati-activity/transaction/transaction-date": 39, 
+    "iati-activity/transaction/transaction-type": 39, 
+    "iati-activity/transaction/value": 39, 
+    "iati-organisation": 1, 
+    "iati-organisation/document-link": 1, 
+    "iati-organisation/document-link/title": 1, 
+    "iati-organisation/identifier": 1, 
+    "iati-organisation/name": 1, 
+    "iati-organisation/reporting-org": 1
+  }, 
+  "fail_validation": 0, 
+  "iati_identifier": null, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_fail_validation": 0, 
+  "publishers_per_country": {}, 
+  "publishers_per_organisation_type": {
+    "21": 1
+  }, 
+  "spend": 97029559.0, 
+  "spend_per_country": {
+    "189": 1692338.0, 
+    "289": 11551378.0, 
+    "498": 4588104.0, 
+    "679": 2024255.0, 
+    "789": 1694310.0, 
+    "89": 2652322.0, 
+    "null": 5583746.0, 
+    "pre2010": 67243106.0
+  }, 
+  "spend_per_organisation_type": {
+    "21": 97029559.0
+  }, 
+  "spend_per_year": {
+    "2013": 29786453.0, 
+    "null": 67243106.0
+  }, 
+  "versions": {
+    "1.02": 1
+  }
+}
