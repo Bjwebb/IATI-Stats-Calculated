@@ -1,0 +1,65 @@
+{
+  "activities": 9969, 
+  "activities_no_country": 9969, 
+  "activities_per_country": {}, 
+  "activities_per_year": {
+    "null": 9969
+  }, 
+  "activity_files": 45, 
+  "currencies": {
+    "USD": 6878
+  }, 
+  "elements": {
+    "iati-activity": 9969, 
+    "iati-activity/activity-date": 9969, 
+    "iati-activity/budget": 6249, 
+    "iati-activity/budget/period-end": 6249, 
+    "iati-activity/budget/period-start": 6249, 
+    "iati-activity/budget/value": 6249, 
+    "iati-activity/description": 9969, 
+    "iati-activity/iati-identifier": 9969, 
+    "iati-activity/other-identifier": 9969, 
+    "iati-activity/participating-org": 9969, 
+    "iati-activity/recipient-country": 9969, 
+    "iati-activity/reporting-org": 9969, 
+    "iati-activity/sector": 9969, 
+    "iati-activity/title": 9969, 
+    "iati-activity/transaction": 6878, 
+    "iati-activity/transaction/finance-type": 6878, 
+    "iati-activity/transaction/provider-org": 6878, 
+    "iati-activity/transaction/receiver-org": 6878, 
+    "iati-activity/transaction/transaction-date": 6878, 
+    "iati-activity/transaction/transaction-type": 6878, 
+    "iati-activity/transaction/value": 6878, 
+    "iati-activity/transaction/{nothing}contribution-category": 6878, 
+    "iati-activity/{nothing}appeal-title": 6249, 
+    "iati-activity/{nothing}appeal-type": 6249, 
+    "iati-activity/{nothing}cluster": 6249, 
+    "iati-activity/{nothing}emergency-title": 9969, 
+    "iati-activity/{nothing}gender-marker": 6249, 
+    "iati-activity/{nothing}priority": 6249
+  }, 
+  "fail_validation": 0, 
+  "iati_identifier": null, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_fail_validation": 0, 
+  "publishers_per_country": {}, 
+  "publishers_per_organisation_type": {
+    "40": 1
+  }, 
+  "spend": 12351403402.0, 
+  "spend_per_country": {
+    "pre2010": 12351403402.0
+  }, 
+  "spend_per_organisation_type": {
+    "40": 8432445827.0
+  }, 
+  "spend_per_year": {
+    "null": 12351403402.0
+  }, 
+  "versions": {
+    "1.00": 45
+  }
+}
