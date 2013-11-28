@@ -1,0 +1,56 @@
+{
+  "activities": 1507, 
+  "activities_no_country": 1507, 
+  "activities_per_country": {}, 
+  "activities_per_year": {
+    "null": 1507
+  }, 
+  "activity_files": 1, 
+  "currencies": {
+    "CHF": 1507
+  }, 
+  "elements": {
+    "iati-activity": 1507, 
+    "iati-activity/activity-date": 1507, 
+    "iati-activity/activity-status": 1507, 
+    "iati-activity/collaboration-type": 1507, 
+    "iati-activity/default-tied-status": 1487, 
+    "iati-activity/description": 1168, 
+    "iati-activity/iati-identifier": 1507, 
+    "iati-activity/participating-org": 1507, 
+    "iati-activity/recipient-country": 1507, 
+    "iati-activity/recipient-region": 184, 
+    "iati-activity/reporting-org": 1507, 
+    "iati-activity/sector": 1507, 
+    "iati-activity/title": 1507, 
+    "iati-activity/transaction": 1507, 
+    "iati-activity/transaction/aid-type": 1507, 
+    "iati-activity/transaction/finance-type": 1507, 
+    "iati-activity/transaction/flow-type": 1507, 
+    "iati-activity/transaction/transaction-type": 1507, 
+    "iati-activity/transaction/value": 1507
+  }, 
+  "fail_validation": 0, 
+  "iati_identifier": null, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_fail_validation": 0, 
+  "publishers_per_country": {}, 
+  "publishers_per_organisation_type": {
+    "10": 1
+  }, 
+  "spend": 689934080.625, 
+  "spend_per_country": {
+    "pre2010": 689934080.625
+  }, 
+  "spend_per_organisation_type": {
+    "10": 0
+  }, 
+  "spend_per_year": {
+    "null": 689934080.625
+  }, 
+  "versions": {
+    "1.03": 1
+  }
+}
