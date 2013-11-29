@@ -1,0 +1,179 @@
+{
+  "activities": 71, 
+  "activities_no_country": 71, 
+  "activities_per_country": {}, 
+  "activities_per_year": {
+    "null": 71
+  }, 
+  "activity_files": 1, 
+  "codelist_values": {
+    ".//@default-currency": {
+      "USD": 71
+    }, 
+    ".//@xml:lang": {
+      "en": 71
+    }, 
+    ".//activity-date/@type": {
+      "end-planned": 71, 
+      "start-actual": 71
+    }, 
+    ".//activity-status/@code": {
+      "2": 66, 
+      "3": 5
+    }, 
+    ".//budget/@type": {
+      "1": 71
+    }, 
+    ".//budget/value/@currency": {
+      "AUD": 1, 
+      "BWP": 1, 
+      "CHF": 1, 
+      "EUR": 5, 
+      "GBP": 4, 
+      "INR": 2, 
+      "LSL": 1, 
+      "MWK": 1, 
+      "SEK": 1, 
+      "UGX": 1, 
+      "USD": 51, 
+      "XOF": 1, 
+      "ZAR": 1
+    }, 
+    ".//description/@type": {
+      "1": 71
+    }, 
+    ".//participating-org/@role": {
+      "Funding": 71, 
+      "Implementing": 71
+    }, 
+    ".//recipient-country/@code": {
+      "": 3, 
+      "AO": 2, 
+      "BI": 2, 
+      "BJ": 2, 
+      "BW": 1, 
+      "BZ": 1, 
+      "CD": 1, 
+      "CI": 1, 
+      "CM": 3, 
+      "DO": 1, 
+      "ET": 1, 
+      "HN": 1, 
+      "HT": 3, 
+      "IN": 5, 
+      "KE": 6, 
+      "LA": 2, 
+      "LR": 2, 
+      "LS": 3, 
+      "MG": 3, 
+      "MM": 4, 
+      "MW": 1, 
+      "MX": 1, 
+      "NI": 1, 
+      "PG": 2, 
+      "PH": 1, 
+      "PK": 1, 
+      "SO": 1, 
+      "SS": 3, 
+      "SV": 1, 
+      "TH": 1, 
+      "TT": 1, 
+      "TZ": 1, 
+      "UG": 5, 
+      "US": 2, 
+      "VN": 6, 
+      "ZA": 2, 
+      "ZM": 1, 
+      "ZW": 1
+    }, 
+    ".//recipient-region/@code": {
+      "289": 41, 
+      "389": 2, 
+      "498": 7, 
+      "998": 23
+    }, 
+    ".//reporting-org/@type": {
+      "21": 71
+    }, 
+    ".//transaction/transaction-type/@code": {
+      "E": 71
+    }, 
+    ".//transaction/value/@currency": {
+      "AUD": 1, 
+      "BWP": 1, 
+      "CHF": 1, 
+      "EUR": 5, 
+      "GBP": 4, 
+      "INR": 2, 
+      "LSL": 1, 
+      "MWK": 1, 
+      "SEK": 1, 
+      "UGX": 1, 
+      "USD": 51, 
+      "XOF": 1, 
+      "ZAR": 1
+    }
+  }, 
+  "currencies": {
+    "AUD": 1, 
+    "BWP": 1, 
+    "CHF": 1, 
+    "EUR": 5, 
+    "GBP": 4, 
+    "INR": 2, 
+    "LSL": 1, 
+    "MWK": 1, 
+    "SEK": 1, 
+    "UGX": 1, 
+    "USD": 51, 
+    "XOF": 1, 
+    "ZAR": 1
+  }, 
+  "elements": {
+    "iati-activity": 71, 
+    "iati-activity/activity-date": 71, 
+    "iati-activity/activity-status": 71, 
+    "iati-activity/budget": 71, 
+    "iati-activity/budget/value": 71, 
+    "iati-activity/contact-info": 71, 
+    "iati-activity/contact-info/email": 71, 
+    "iati-activity/description": 71, 
+    "iati-activity/iati-identifier": 71, 
+    "iati-activity/participating-org": 71, 
+    "iati-activity/recipient-country": 71, 
+    "iati-activity/recipient-region": 71, 
+    "iati-activity/reporting-org": 71, 
+    "iati-activity/sector": 71, 
+    "iati-activity/title": 71, 
+    "iati-activity/transaction": 71, 
+    "iati-activity/transaction/transaction-type": 71, 
+    "iati-activity/transaction/value": 71
+  }, 
+  "iati_identifier": null, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_per_country": {}, 
+  "publishers_per_organisation_type": {
+    "21": 1
+  }, 
+  "publishers_validation": {
+    "pass": 1
+  }, 
+  "spend": 204489509.1628, 
+  "spend_per_country": {
+    "pre2010": 204489509.1628
+  }, 
+  "spend_per_organisation_type": {
+    "21": 0
+  }, 
+  "spend_per_year": {
+    "null": 204489509.1628
+  }, 
+  "validation": {
+    "pass": 1
+  }, 
+  "versions": {
+    "1.01": 1
+  }
+}

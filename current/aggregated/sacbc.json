@@ -1,0 +1,207 @@
+{
+  "activities": 1, 
+  "activities_no_country": 1, 
+  "activities_per_country": {}, 
+  "activities_per_year": {
+    "null": 1
+  }, 
+  "activity_files": 1, 
+  "codelist_values": {
+    ".//@default-currency": {
+      "ZAR": 1
+    }, 
+    ".//@xml:lang": {
+      "en": 86
+    }, 
+    ".//activity-date/@type": {
+      "end-actual": 1
+    }, 
+    ".//activity-status/@code": {
+      "2": 1
+    }, 
+    ".//budget/@type": {
+      "1": 1
+    }, 
+    ".//budget/value/@currency": {
+      "GBP": 1
+    }, 
+    ".//conditions/condition/@type": {
+      "2": 1
+    }, 
+    ".//default-aid-type/@code": {
+      "C01": 1
+    }, 
+    ".//default-finance-type/@code": {
+      "110": 1
+    }, 
+    ".//default-flow-type/@code": {
+      "30": 1
+    }, 
+    ".//default-tied-status/@code": {
+      "3": 1
+    }, 
+    ".//description/@type": {
+      "1": 3, 
+      "2": 8
+    }, 
+    ".//location/location-type/@code": {
+      "PCL": 1
+    }, 
+    ".//participating-org/@role": {
+      "Implementing": 1
+    }, 
+    ".//participating-org/@type": {
+      "23": 1
+    }, 
+    ".//planned-disbursement/value/@currency": {
+      "GBP": 1
+    }, 
+    ".//policy-marker/@code": {
+      "1": 1
+    }, 
+    ".//policy-marker/@significance": {
+      "0": 1
+    }, 
+    ".//policy-marker/@vocabulary": {
+      "DAC": 1
+    }, 
+    ".//recipient-country/@code": {
+      "ZA": 1
+    }, 
+    ".//recipient-region/@code": {
+      "289": 1
+    }, 
+    ".//reporting-org/@type": {
+      "23": 1
+    }, 
+    ".//result/@type": {
+      "1": 2, 
+      "2": 4
+    }, 
+    ".//result/indicator/@measure": {
+      "1": 6
+    }, 
+    ".//sector/@vocabulary": {
+      "DAC": 1
+    }, 
+    ".//transaction/aid-type/@code": {
+      "B03": 4, 
+      "C01": 2
+    }, 
+    ".//transaction/disbursement-channel/@code": {
+      "3": 4
+    }, 
+    ".//transaction/finance-type/@code": {
+      "110": 6
+    }, 
+    ".//transaction/flow-type/@code": {
+      "30": 5
+    }, 
+    ".//transaction/tied-status/@code": {
+      "3": 6
+    }, 
+    ".//transaction/transaction-type/@code": {
+      "D": 2, 
+      "E": 1, 
+      "IF": 3
+    }, 
+    ".//transaction/value/@currency": {
+      "GBP": 6
+    }
+  }, 
+  "currencies": {
+    "GBP": 1
+  }, 
+  "elements": {
+    "iati-activity": 1, 
+    "iati-activity/activity-date": 1, 
+    "iati-activity/activity-status": 1, 
+    "iati-activity/activity-website": 1, 
+    "iati-activity/budget": 1, 
+    "iati-activity/budget/period-end": 1, 
+    "iati-activity/budget/period-start": 1, 
+    "iati-activity/budget/value": 1, 
+    "iati-activity/conditions": 1, 
+    "iati-activity/conditions/condition": 1, 
+    "iati-activity/contact-info": 1, 
+    "iati-activity/contact-info/email": 1, 
+    "iati-activity/contact-info/mailing-address": 1, 
+    "iati-activity/contact-info/organisation": 1, 
+    "iati-activity/contact-info/person-name": 1, 
+    "iati-activity/contact-info/telephone": 1, 
+    "iati-activity/default-aid-type": 1, 
+    "iati-activity/default-finance-type": 1, 
+    "iati-activity/default-flow-type": 1, 
+    "iati-activity/default-tied-status": 1, 
+    "iati-activity/description": 1, 
+    "iati-activity/iati-identifier": 1, 
+    "iati-activity/location": 1, 
+    "iati-activity/location/location-type": 1, 
+    "iati-activity/location/name": 1, 
+    "iati-activity/participating-org": 1, 
+    "iati-activity/planned-disbursement": 1, 
+    "iati-activity/planned-disbursement/period-end": 1, 
+    "iati-activity/planned-disbursement/period-start": 1, 
+    "iati-activity/planned-disbursement/value": 1, 
+    "iati-activity/policy-marker": 1, 
+    "iati-activity/recipient-country": 1, 
+    "iati-activity/recipient-region": 1, 
+    "iati-activity/reporting-org": 1, 
+    "iati-activity/result": 1, 
+    "iati-activity/result/description": 1, 
+    "iati-activity/result/indicator": 1, 
+    "iati-activity/result/indicator/baseline": 1, 
+    "iati-activity/result/indicator/baseline/comment": 1, 
+    "iati-activity/result/indicator/description": 1, 
+    "iati-activity/result/indicator/period": 1, 
+    "iati-activity/result/indicator/period/actual": 1, 
+    "iati-activity/result/indicator/period/actual/comment": 1, 
+    "iati-activity/result/indicator/period/period-end": 1, 
+    "iati-activity/result/indicator/period/period-start": 1, 
+    "iati-activity/result/indicator/period/target": 1, 
+    "iati-activity/result/indicator/period/target/comment": 1, 
+    "iati-activity/result/indicator/title": 1, 
+    "iati-activity/result/title": 1, 
+    "iati-activity/sector": 1, 
+    "iati-activity/title": 1, 
+    "iati-activity/transaction": 1, 
+    "iati-activity/transaction/aid-type": 1, 
+    "iati-activity/transaction/description": 1, 
+    "iati-activity/transaction/disbursement-channel": 1, 
+    "iati-activity/transaction/finance-type": 1, 
+    "iati-activity/transaction/flow-type": 1, 
+    "iati-activity/transaction/provider-org": 1, 
+    "iati-activity/transaction/receiver-org": 1, 
+    "iati-activity/transaction/tied-status": 1, 
+    "iati-activity/transaction/transaction-date": 1, 
+    "iati-activity/transaction/transaction-type": 1, 
+    "iati-activity/transaction/value": 1
+  }, 
+  "iati_identifier": null, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_per_country": {}, 
+  "publishers_per_organisation_type": {
+    "23": 1
+  }, 
+  "publishers_validation": {
+    "fail": 1
+  }, 
+  "spend": 328531.0959, 
+  "spend_per_country": {
+    "pre2010": 328531.0959
+  }, 
+  "spend_per_organisation_type": {
+    "23": 328531.0959
+  }, 
+  "spend_per_year": {
+    "null": 328531.0959
+  }, 
+  "validation": {
+    "fail": 1
+  }, 
+  "versions": {
+    "1.02": 1
+  }
+}

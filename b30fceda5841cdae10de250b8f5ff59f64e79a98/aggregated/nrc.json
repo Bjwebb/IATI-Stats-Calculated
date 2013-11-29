@@ -1,0 +1,142 @@
+{
+  "activities": 56, 
+  "activities_no_country": 0, 
+  "activities_per_country": {
+    "CD": 4, 
+    "CH": 3, 
+    "CO": 7, 
+    "IQ": 4, 
+    "LB": 1, 
+    "MM": 3, 
+    "NO": 4, 
+    "PK": 5, 
+    "PS": 14, 
+    "SO": 3, 
+    "SS": 8
+  }, 
+  "activities_per_year": {
+    "2011": 15, 
+    "2012": 22, 
+    "2013": 19
+  }, 
+  "activity_files": 1, 
+  "codelist_values": {
+    ".//@default-currency": {
+      "NOK": 56
+    }, 
+    ".//@xml:lang": {
+      "en": 56
+    }, 
+    ".//activity-date/@type": {
+      "end-planned": 56, 
+      "start-planned": 56
+    }, 
+    ".//activity-status/@code": {
+      "2": 26, 
+      "3": 21, 
+      "4": 9
+    }, 
+    ".//participating-org/@role": {
+      "Extending": 56, 
+      "Funding": 56, 
+      "Implementing": 56
+    }, 
+    ".//recipient-country/@code": {
+      "CD": 4, 
+      "CH": 3, 
+      "CO": 7, 
+      "IQ": 4, 
+      "LB": 1, 
+      "MM": 3, 
+      "NO": 4, 
+      "PK": 5, 
+      "PS": 14, 
+      "SO": 3, 
+      "SS": 8
+    }, 
+    ".//recipient-region/@code": {
+      "589": 1
+    }, 
+    ".//reporting-org/@type": {
+      "21": 56
+    }, 
+    ".//sector/@vocabulary": {
+      "DAC": 56
+    }, 
+    ".//transaction/transaction-type/@code": {
+      "C": 56, 
+      "E": 103, 
+      "IF": 56
+    }, 
+    ".//transaction/value/@currency": {
+      "NOK": 215
+    }
+  }, 
+  "currencies": {
+    "NOK": 56
+  }, 
+  "elements": {
+    "iati-activity": 56, 
+    "iati-activity/activity-date": 56, 
+    "iati-activity/activity-status": 56, 
+    "iati-activity/description": 56, 
+    "iati-activity/iati-identifier": 56, 
+    "iati-activity/participating-org": 56, 
+    "iati-activity/recipient-country": 56, 
+    "iati-activity/recipient-region": 1, 
+    "iati-activity/reporting-org": 56, 
+    "iati-activity/sector": 56, 
+    "iati-activity/title": 56, 
+    "iati-activity/transaction": 56, 
+    "iati-activity/transaction/transaction-date": 56, 
+    "iati-activity/transaction/transaction-type": 56, 
+    "iati-activity/transaction/value": 56
+  }, 
+  "iati_identifier": null, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_per_country": {
+    "CD": 1, 
+    "CH": 1, 
+    "CO": 1, 
+    "IQ": 1, 
+    "LB": 1, 
+    "MM": 1, 
+    "NO": 1, 
+    "PK": 1, 
+    "PS": 1, 
+    "SO": 1, 
+    "SS": 1
+  }, 
+  "publishers_per_organisation_type": {}, 
+  "publishers_validation": {
+    "fail": 1
+  }, 
+  "spend": 1229610444.5079, 
+  "spend_per_country": {
+    "CD": 70653326.0706, 
+    "CH": 57700991.0295, 
+    "CO": 71741997.4635, 
+    "IQ": 46433255.778, 
+    "LB": 27812928.3705, 
+    "MM": 27044541.6696, 
+    "NO": 48082332.3435, 
+    "PK": 84157873.0902, 
+    "PS": 305861530.338, 
+    "SO": 59717458.7919, 
+    "SS": 430404209.5626
+  }, 
+  "spend_per_organisation_type": {}, 
+  "spend_per_year": {
+    "2011": 410532085.3725, 
+    "2012": 733434959.3571, 
+    "2013": 85643399.7783
+  }, 
+  "validation": {
+    "fail": 1
+  }, 
+  "versions": {
+    "1.03": 1
+  }
+}

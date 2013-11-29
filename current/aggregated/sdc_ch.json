@@ -1,0 +1,222 @@
+{
+  "activities": 1507, 
+  "activities_no_country": 1507, 
+  "activities_per_country": {}, 
+  "activities_per_year": {
+    "null": 1507
+  }, 
+  "activity_files": 1, 
+  "codelist_values": {
+    ".//@default-currency": {
+      "CHF": 1507
+    }, 
+    ".//@xml:lang": {
+      "FR": 1507
+    }, 
+    ".//activity-date/@type": {
+      "end-date": 1507, 
+      "start-date": 1507
+    }, 
+    ".//activity-status/@code": {
+      "2": 1507
+    }, 
+    ".//collaboration-type/@code": {
+      "1": 1454, 
+      "2": 20, 
+      "3": 33
+    }, 
+    ".//default-tied-status/@code": {
+      "4": 90, 
+      "5": 1397
+    }, 
+    ".//description/@type": {
+      "1": 1168
+    }, 
+    ".//participating-org/@role": {
+      "Extending": 1507, 
+      "Funding": 1507, 
+      "Implementing": 1507
+    }, 
+    ".//participating-org/@type": {
+      "10": 371, 
+      "21": 63, 
+      "22": 244, 
+      "23": 231, 
+      "30": 7, 
+      "40": 287, 
+      "70": 216, 
+      "80": 88
+    }, 
+    ".//recipient-country/@code": {
+      "130": 2, 
+      "133": 6, 
+      "136": 18, 
+      "139": 14, 
+      "142": 8, 
+      "189": 1, 
+      "218": 13, 
+      "225": 3, 
+      "228": 15, 
+      "229": 2, 
+      "231": 2, 
+      "232": 24, 
+      "234": 1, 
+      "235": 19, 
+      "236": 25, 
+      "238": 12, 
+      "241": 1, 
+      "243": 3, 
+      "247": 3, 
+      "248": 12, 
+      "251": 9, 
+      "252": 12, 
+      "253": 1, 
+      "255": 34, 
+      "259": 31, 
+      "260": 18, 
+      "261": 2, 
+      "265": 13, 
+      "266": 10, 
+      "272": 1, 
+      "273": 11, 
+      "274": 1, 
+      "278": 16, 
+      "279": 17, 
+      "282": 29, 
+      "287": 15, 
+      "289": 70, 
+      "298": 24, 
+      "3000": 20, 
+      "338": 15, 
+      "349": 20, 
+      "351": 13, 
+      "364": 8, 
+      "366": 1, 
+      "389": 9, 
+      "428": 39, 
+      "437": 26, 
+      "454": 13, 
+      "489": 5, 
+      "498": 10, 
+      "540": 1, 
+      "543": 4, 
+      "549": 14, 
+      "55": 3, 
+      "550": 34, 
+      "555": 30, 
+      "57": 18, 
+      "573": 13, 
+      "580": 11, 
+      "589": 13, 
+      "610": 5, 
+      "611": 3, 
+      "612": 11, 
+      "614": 15, 
+      "615": 16, 
+      "617": 6, 
+      "619": 17, 
+      "625": 25, 
+      "63": 24, 
+      "630": 13, 
+      "635": 13, 
+      "64": 29, 
+      "640": 16, 
+      "645": 15, 
+      "66": 20, 
+      "660": 23, 
+      "665": 20, 
+      "666": 35, 
+      "679": 7, 
+      "71": 15, 
+      "728": 3, 
+      "730": 19, 
+      "740": 10, 
+      "745": 14, 
+      "753": 41, 
+      "764": 3, 
+      "769": 8, 
+      "789": 13, 
+      "798": 8, 
+      "85": 10, 
+      "889": 1, 
+      "89": 21, 
+      "93": 11, 
+      "998": 199
+    }, 
+    ".//reporting-org/@type": {
+      "10": 1507
+    }, 
+    ".//transaction/aid-type/@code": {
+      "A02": 5, 
+      "B01": 33, 
+      "B02": 20, 
+      "B03": 8, 
+      "B04": 5, 
+      "C01": 1219, 
+      "D01": 60, 
+      "D02": 73, 
+      "G01": 83, 
+      "H01": 1
+    }, 
+    ".//transaction/finance-type/@code": {
+      "110": 1507
+    }, 
+    ".//transaction/flow-type/@code": {
+      "10": 1507
+    }, 
+    ".//transaction/transaction-type/@code": {
+      "D": 1507
+    }
+  }, 
+  "currencies": {
+    "CHF": 1507
+  }, 
+  "elements": {
+    "iati-activity": 1507, 
+    "iati-activity/activity-date": 1507, 
+    "iati-activity/activity-status": 1507, 
+    "iati-activity/collaboration-type": 1507, 
+    "iati-activity/default-tied-status": 1487, 
+    "iati-activity/description": 1168, 
+    "iati-activity/iati-identifier": 1507, 
+    "iati-activity/participating-org": 1507, 
+    "iati-activity/recipient-country": 1507, 
+    "iati-activity/recipient-region": 184, 
+    "iati-activity/reporting-org": 1507, 
+    "iati-activity/sector": 1507, 
+    "iati-activity/title": 1507, 
+    "iati-activity/transaction": 1507, 
+    "iati-activity/transaction/aid-type": 1507, 
+    "iati-activity/transaction/finance-type": 1507, 
+    "iati-activity/transaction/flow-type": 1507, 
+    "iati-activity/transaction/transaction-type": 1507, 
+    "iati-activity/transaction/value": 1507
+  }, 
+  "iati_identifier": null, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_per_country": {}, 
+  "publishers_per_organisation_type": {
+    "10": 1
+  }, 
+  "publishers_validation": {
+    "pass": 1
+  }, 
+  "spend": 689934080.625, 
+  "spend_per_country": {
+    "pre2010": 689934080.625
+  }, 
+  "spend_per_organisation_type": {
+    "10": 0
+  }, 
+  "spend_per_year": {
+    "null": 689934080.625
+  }, 
+  "validation": {
+    "pass": 1
+  }, 
+  "versions": {
+    "1.03": 1
+  }
+}

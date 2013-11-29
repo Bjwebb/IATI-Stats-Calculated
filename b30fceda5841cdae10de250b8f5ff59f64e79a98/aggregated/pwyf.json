@@ -1,0 +1,104 @@
+{
+  "activities": 3, 
+  "activities_no_country": 0, 
+  "activities_per_country": {
+    "998": 3
+  }, 
+  "activities_per_year": {
+    "2011": 3
+  }, 
+  "activity_files": 1, 
+  "codelist_values": {
+    ".//@default-currency": {
+      "GBP": 3
+    }, 
+    ".//activity-date/@type": {
+      "end-actual": 3, 
+      "end-planned": 3, 
+      "start-actual": 3, 
+      "start-planned": 3
+    }, 
+    ".//activity-status/@code": {
+      "2": 3
+    }, 
+    ".//default-aid-type/@code": {
+      "C01": 3
+    }, 
+    ".//default-flow-type/@code": {
+      "30": 3
+    }, 
+    ".//participating-org/@role": {
+      "Funding": 5, 
+      "Implementing": 3
+    }, 
+    ".//participating-org/@type": {
+      "21": 6, 
+      "60": 2
+    }, 
+    ".//recipient-country/@code": {
+      "998": 3
+    }, 
+    ".//reporting-org/@type": {
+      "21": 3
+    }, 
+    ".//sector/@vocabulary": {
+      "DAC": 3
+    }, 
+    ".//transaction/transaction-type/@code": {
+      "E": 652, 
+      "IF": 20
+    }
+  }, 
+  "currencies": {
+    "GBP": 3
+  }, 
+  "elements": {
+    "iati-activity": 3, 
+    "iati-activity/activity-date": 3, 
+    "iati-activity/activity-status": 3, 
+    "iati-activity/activity-website": 3, 
+    "iati-activity/default-aid-type": 3, 
+    "iati-activity/default-flow-type": 3, 
+    "iati-activity/description": 3, 
+    "iati-activity/iati-identifier": 3, 
+    "iati-activity/participating-org": 3, 
+    "iati-activity/recipient-country": 3, 
+    "iati-activity/reporting-org": 3, 
+    "iati-activity/sector": 3, 
+    "iati-activity/title": 3, 
+    "iati-activity/transaction": 3, 
+    "iati-activity/transaction/description": 3, 
+    "iati-activity/transaction/transaction-date": 3, 
+    "iati-activity/transaction/transaction-type": 3, 
+    "iati-activity/transaction/value": 3
+  }, 
+  "iati_identifier": null, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_per_country": {
+    "998": 1
+  }, 
+  "publishers_per_organisation_type": {
+    "21": 1
+  }, 
+  "publishers_validation": {
+    "pass": 1
+  }, 
+  "spend": 305571.520125, 
+  "spend_per_country": {
+    "998": 305571.520125
+  }, 
+  "spend_per_organisation_type": {
+    "21": 305571.520125
+  }, 
+  "spend_per_year": {
+    "2011": 305571.520125
+  }, 
+  "validation": {
+    "pass": 1
+  }, 
+  "versions": {
+    "1.03": 1
+  }
+}

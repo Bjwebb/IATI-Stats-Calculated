@@ -1,0 +1,105 @@
+{
+  "activities": 2, 
+  "activities_no_country": 0, 
+  "activities_per_country": {
+    "NP": 2
+  }, 
+  "activities_per_year": {
+    "2011": 1, 
+    "2012": 1
+  }, 
+  "activity_files": 1, 
+  "codelist_values": {
+    ".//@default-currency": {
+      "USD": 2
+    }, 
+    ".//@xml:lang": {
+      "en": 13
+    }, 
+    ".//activity-date/@type": {
+      "end-actual": 2, 
+      "start-actual": 2
+    }, 
+    ".//activity-status/@code": {
+      "4": 2
+    }, 
+    ".//budget/value/@currency": {
+      "NPR": 1
+    }, 
+    ".//description/@type": {
+      "1": 2
+    }, 
+    ".//participating-org/@role": {
+      "Funding": 1
+    }, 
+    ".//recipient-country/@code": {
+      "NP": 2
+    }, 
+    ".//reporting-org/@type": {
+      "22": 2
+    }, 
+    ".//sector/@vocabulary": {
+      "DAC": 1
+    }, 
+    ".//transaction/transaction-type/@code": {
+      "E": 1, 
+      "IF": 5
+    }, 
+    ".//transaction/value/@currency": {
+      "NPR": 4
+    }
+  }, 
+  "currencies": {
+    "NPR": 1, 
+    "USD": 1
+  }, 
+  "elements": {
+    "iati-activity": 2, 
+    "iati-activity/activity-date": 2, 
+    "iati-activity/activity-status": 2, 
+    "iati-activity/budget": 2, 
+    "iati-activity/budget/period-end": 2, 
+    "iati-activity/budget/period-start": 2, 
+    "iati-activity/budget/value": 2, 
+    "iati-activity/description": 2, 
+    "iati-activity/iati-identifier": 2, 
+    "iati-activity/participating-org": 1, 
+    "iati-activity/recipient-country": 2, 
+    "iati-activity/reporting-org": 2, 
+    "iati-activity/sector": 1, 
+    "iati-activity/title": 2, 
+    "iati-activity/transaction": 2, 
+    "iati-activity/transaction/transaction-type": 2, 
+    "iati-activity/transaction/value": 2
+  }, 
+  "iati_identifier": null, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_per_country": {
+    "NP": 1
+  }, 
+  "publishers_per_organisation_type": {
+    "22": 1
+  }, 
+  "publishers_validation": {
+    "pass": 1
+  }, 
+  "spend": 0.0, 
+  "spend_per_country": {
+    "NP": 0.0
+  }, 
+  "spend_per_organisation_type": {
+    "22": 0
+  }, 
+  "spend_per_year": {
+    "2011": 0, 
+    "2012": 0.0
+  }, 
+  "validation": {
+    "pass": 1
+  }, 
+  "versions": {
+    "1.02": 1
+  }
+}
