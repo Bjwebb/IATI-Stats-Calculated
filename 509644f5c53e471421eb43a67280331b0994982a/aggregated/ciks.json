@@ -1,0 +1,181 @@
+{
+  "activities": 1, 
+  "activities_no_country": 0, 
+  "activities_per_country": {
+    "IN": 1
+  }, 
+  "activities_per_year": {
+    "2012": 1
+  }, 
+  "activity_files": 1, 
+  "codelist_values": {
+    ".//@default-currency": {
+      "GBP": 1
+    }, 
+    ".//@xml:lang": {
+      "en": 21, 
+      "ta": 1
+    }, 
+    ".//activity-date/@type": {
+      "start-actual": 1
+    }, 
+    ".//activity-status/@code": {
+      "2": 1
+    }, 
+    ".//budget/@type": {
+      "2": 1
+    }, 
+    ".//budget/value/@currency": {
+      "GBP": 1
+    }, 
+    ".//collaboration-type/@code": {
+      "3": 1
+    }, 
+    ".//conditions/condition/@type": {
+      "2": 1
+    }, 
+    ".//default-aid-type/@code": {
+      "B01": 1
+    }, 
+    ".//default-finance-type/@code": {
+      "110": 1
+    }, 
+    ".//default-flow-type/@code": {
+      "50": 1
+    }, 
+    ".//default-tied-status/@code": {
+      "5": 1
+    }, 
+    ".//description/@type": {
+      "1": 1
+    }, 
+    ".//document-link/@format": {
+      "application/msword": 1, 
+      "application/pdf": 4
+    }, 
+    ".//document-link/category/@code": {
+      "A05": 2, 
+      "A07": 1, 
+      "B01": 2
+    }, 
+    ".//location/location-type/@code": {
+      "FRM": 1
+    }, 
+    ".//planned-disbursement/value/@currency": {
+      "GBP": 1
+    }, 
+    ".//policy-marker/@code": {
+      "3": 1
+    }, 
+    ".//policy-marker/@significance": {
+      "0": 1
+    }, 
+    ".//policy-marker/@vocabulary": {
+      "RO": 1
+    }, 
+    ".//recipient-country/@code": {
+      "IN": 1
+    }, 
+    ".//recipient-region/@code": {
+      "679": 1
+    }, 
+    ".//reporting-org/@type": {
+      "23": 1
+    }, 
+    ".//sector/@vocabulary": {
+      "RO": 1
+    }
+  }, 
+  "currencies": {}, 
+  "elements": {
+    "iati-activity": 1, 
+    "iati-activity/activity-date": 1, 
+    "iati-activity/activity-status": 1, 
+    "iati-activity/activity-website": 1, 
+    "iati-activity/budget": 1, 
+    "iati-activity/budget/period-end": 1, 
+    "iati-activity/budget/period-start": 1, 
+    "iati-activity/budget/value": 1, 
+    "iati-activity/collaboration-type": 1, 
+    "iati-activity/conditions": 1, 
+    "iati-activity/conditions/condition": 1, 
+    "iati-activity/contact-info": 1, 
+    "iati-activity/contact-info/email": 1, 
+    "iati-activity/contact-info/mailing-address": 1, 
+    "iati-activity/contact-info/organisation": 1, 
+    "iati-activity/contact-info/person-name": 1, 
+    "iati-activity/contact-info/telephone": 1, 
+    "iati-activity/default-aid-type": 1, 
+    "iati-activity/default-finance-type": 1, 
+    "iati-activity/default-flow-type": 1, 
+    "iati-activity/default-tied-status": 1, 
+    "iati-activity/description": 1, 
+    "iati-activity/document-link": 1, 
+    "iati-activity/document-link/category": 1, 
+    "iati-activity/document-link/language": 1, 
+    "iati-activity/document-link/title": 1, 
+    "iati-activity/iati-identifier": 1, 
+    "iati-activity/location": 1, 
+    "iati-activity/location/location-type": 1, 
+    "iati-activity/location/name": 1, 
+    "iati-activity/other-identifier": 1, 
+    "iati-activity/planned-disbursement": 1, 
+    "iati-activity/planned-disbursement/period-end": 1, 
+    "iati-activity/planned-disbursement/period-start": 1, 
+    "iati-activity/planned-disbursement/value": 1, 
+    "iati-activity/policy-marker": 1, 
+    "iati-activity/recipient-country": 1, 
+    "iati-activity/recipient-region": 1, 
+    "iati-activity/reporting-org": 1, 
+    "iati-activity/sector": 1, 
+    "iati-activity/title": 1, 
+    "iati-organisation": 1, 
+    "iati-organisation/identifier": 1, 
+    "iati-organisation/name": 1, 
+    "iati-organisation/recipient-country-budget": 1, 
+    "iati-organisation/recipient-country-budget/period-end": 1, 
+    "iati-organisation/recipient-country-budget/period-start": 1, 
+    "iati-organisation/recipient-country-budget/recipient-country": 1, 
+    "iati-organisation/recipient-country-budget/value": 1, 
+    "iati-organisation/recipient-org-budget": 1, 
+    "iati-organisation/recipient-org-budget/period-end": 1, 
+    "iati-organisation/recipient-org-budget/period-start": 1, 
+    "iati-organisation/recipient-org-budget/recipient-org": 1, 
+    "iati-organisation/recipient-org-budget/value": 1, 
+    "iati-organisation/reporting-org": 1, 
+    "iati-organisation/total-budget": 1, 
+    "iati-organisation/total-budget/period-end": 1, 
+    "iati-organisation/total-budget/period-start": 1, 
+    "iati-organisation/total-budget/value": 1
+  }, 
+  "iati_identifier": null, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_per_country": {
+    "IN": 1
+  }, 
+  "publishers_per_organisation_type": {
+    "23": 1
+  }, 
+  "publishers_validation": {
+    "fail": 1
+  }, 
+  "spend": 0, 
+  "spend_per_country": {
+    "IN": 0
+  }, 
+  "spend_per_organisation_type": {
+    "23": 0
+  }, 
+  "spend_per_year": {
+    "2012": 0
+  }, 
+  "validation": {
+    "fail": 1, 
+    "pass": 1
+  }, 
+  "versions": {
+    "1.02": 1
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "activities": 313, 
+  "activities_no_country": 3, 
+  "activities_per_country": {
+    "BD": 26, 
+    "BO": 16, 
+    "GB": 24, 
+    "KE": 58, 
+    "LK": 21, 
+    "NP": 39, 
+    "PE": 85, 
+    "SD": 14, 
+    "ZW": 27
+  }, 
+  "activities_per_year": {
+    "2006": 1, 
+    "2009": 2, 
+    "2010": 2, 
+    "2011": 5, 
+    "2012": 303
+  }, 
+  "activity_files": 1, 
+  "codelist_values": {
+    ".//@default-currency": {
+      "GBP": 313
+    }, 
+    ".//@xml:lang": {
+      "en": 313
+    }, 
+    ".//activity-date/@type": {
+      "end-planned": 313, 
+      "start-planned": 313
+    }, 
+    ".//activity-status/@code": {
+      "11": 1, 
+      "14": 1, 
+      "16": 1, 
+      "18": 1, 
+      "20": 1, 
+      "22": 1, 
+      "25": 1, 
+      "28": 1, 
+      "3": 290, 
+      "32": 1, 
+      "33": 1, 
+      "36": 1, 
+      "40": 1, 
+      "42": 1, 
+      "45": 1, 
+      "47": 1, 
+      "48": 1, 
+      "49": 1, 
+      "5": 1, 
+      "51": 1, 
+      "52": 1, 
+      "53": 1, 
+      "54": 1, 
+      "9": 1
+    }, 
+    ".//recipient-country/@code": {
+      "BD": 28, 
+      "BO": 16, 
+      "GB": 24, 
+      "KE": 58, 
+      "LK": 22, 
+      "NP": 39, 
+      "PE": 85, 
+      "SD": 14, 
+      "ZW": 27
+    }, 
+    ".//recipient-region/@code": {
+      "298": 99, 
+      "489": 101, 
+      "798": 89, 
+      "89": 24
+    }, 
+    ".//reporting-org/@type": {
+      "21": 313
+    }, 
+    ".//transaction/transaction-type/@code": {
+      "C": 526, 
+      "E": 1400, 
+      "IF": 647
+    }
+  }, 
+  "currencies": {
+    "GBP": 313
+  }, 
+  "elements": {
+    "iati-activity": 313, 
+    "iati-activity/activity-date": 313, 
+    "iati-activity/activity-status": 313, 
+    "iati-activity/description": 313, 
+    "iati-activity/iati-identifier": 313, 
+    "iati-activity/recipient-country": 313, 
+    "iati-activity/recipient-region": 313, 
+    "iati-activity/reporting-org": 313, 
+    "iati-activity/title": 313, 
+    "iati-activity/transaction": 313, 
+    "iati-activity/transaction/transaction-date": 313, 
+    "iati-activity/transaction/transaction-type": 313, 
+    "iati-activity/transaction/value": 313
+  }, 
+  "iati_identifier": null, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_per_country": {
+    "BD": 1, 
+    "BO": 1, 
+    "GB": 1, 
+    "KE": 1, 
+    "LK": 1, 
+    "NP": 1, 
+    "PE": 1, 
+    "SD": 1, 
+    "ZW": 1
+  }, 
+  "publishers_per_organisation_type": {
+    "21": 1
+  }, 
+  "publishers_validation": {
+    "pass": 1
+  }, 
+  "spend": 8597445.6383, 
+  "spend_per_country": {
+    "BD": 1173295.6808, 
+    "BO": 270880.742, 
+    "GB": 521945.5751, 
+    "KE": 1208899.1873, 
+    "LK": 642952.058, 
+    "NP": 1058301.0565, 
+    "PE": 1687928.7002, 
+    "SD": 678758.1476, 
+    "ZW": 1173925.5186, 
+    "pre2010": 180558.9722
+  }, 
+  "spend_per_organisation_type": {
+    "21": 6808469.6238
+  }, 
+  "spend_per_year": {
+    "2006": 0, 
+    "2009": 180558.9722, 
+    "2010": 17530.6958, 
+    "2011": 198246.8119, 
+    "2012": 8201109.1584
+  }, 
+  "validation": {
+    "pass": 1
+  }, 
+  "versions": {
+    "1.0": 1
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "activities": 12, 
+  "activities_no_country": 0, 
+  "activities_per_country": {
+    "AL": 2, 
+    "BY": 1, 
+    "CY": 2, 
+    "EG": 2, 
+    "KE": 1, 
+    "MD": 2, 
+    "ME": 2, 
+    "MK": 2, 
+    "PL": 2, 
+    "SK": 3, 
+    "TN": 3
+  }, 
+  "activities_per_year": {
+    "2010": 1, 
+    "2011": 8, 
+    "2012": 1, 
+    "2013": 2
+  }, 
+  "activity_files": 9, 
+  "codelist_values": {
+    ".//@default-currency": {
+      "EUR": 12
+    }, 
+    ".//@xml:lang": {
+      "en": 61
+    }, 
+    ".//activity-date/@type": {
+      "end-actual": 3, 
+      "end-planned": 7, 
+      "start-actual": 12
+    }, 
+    ".//activity-status/@code": {
+      "2": 9, 
+      "3": 3
+    }, 
+    ".//budget/@type": {
+      "1": 12
+    }, 
+    ".//budget/value/@currency": {
+      "EUR": 12
+    }, 
+    ".//collaboration-type/@code": {
+      "1": 12
+    }, 
+    ".//default-aid-type/@code": {
+      "C01": 12
+    }, 
+    ".//default-flow-type/@code": {
+      "10": 12
+    }, 
+    ".//default-tied-status/@code": {
+      "5": 12
+    }, 
+    ".//description/@type": {
+      "1": 12, 
+      "2": 2, 
+      "3": 2
+    }, 
+    ".//participating-org/@role": {
+      "Extending": 9, 
+      "Funding": 7, 
+      "Implementing": 11
+    }, 
+    ".//participating-org/@type": {
+      "10": 8, 
+      "22": 4, 
+      "60": 8, 
+      "80": 1
+    }, 
+    ".//recipient-country/@code": {
+      "AL": 2, 
+      "BY": 1, 
+      "CY": 2, 
+      "EG": 2, 
+      "KE": 1, 
+      "MD": 2, 
+      "ME": 2, 
+      "MK": 2, 
+      "PL": 2, 
+      "SK": 3, 
+      "TN": 3
+    }, 
+    ".//reporting-org/@type": {
+      "60": 12
+    }, 
+    ".//result/@type": {
+      "1": 11
+    }, 
+    ".//sector/@vocabulary": {
+      "DAC": 10
+    }, 
+    ".//transaction/aid-type/@code": {
+      "C01": 2
+    }, 
+    ".//transaction/disbursement-channel/@code": {
+      "2": 3, 
+      "4": 1
+    }, 
+    ".//transaction/finance-type/@code": {
+      "110": 2
+    }, 
+    ".//transaction/flow-type/@code": {
+      "10": 2
+    }, 
+    ".//transaction/tied-status/@code": {
+      "5": 2
+    }, 
+    ".//transaction/transaction-type/@code": {
+      "C": 1, 
+      "E": 3, 
+      "IF": 1
+    }, 
+    ".//transaction/value/@currency": {
+      "EUR": 5
+    }
+  }, 
+  "currencies": {
+    "EUR": 3
+  }, 
+  "elements": {
+    "iati-activity": 12, 
+    "iati-activity/activity-date": 12, 
+    "iati-activity/activity-status": 12, 
+    "iati-activity/activity-website": 12, 
+    "iati-activity/budget": 12, 
+    "iati-activity/budget/period-end": 12, 
+    "iati-activity/budget/period-start": 12, 
+    "iati-activity/budget/value": 12, 
+    "iati-activity/collaboration-type": 12, 
+    "iati-activity/default-aid-type": 12, 
+    "iati-activity/default-flow-type": 12, 
+    "iati-activity/default-tied-status": 12, 
+    "iati-activity/description": 12, 
+    "iati-activity/iati-identifier": 12, 
+    "iati-activity/participating-org": 12, 
+    "iati-activity/recipient-country": 12, 
+    "iati-activity/reporting-org": 12, 
+    "iati-activity/result": 10, 
+    "iati-activity/result/description": 6, 
+    "iati-activity/result/indicator": 8, 
+    "iati-activity/result/title": 2, 
+    "iati-activity/sector": 10, 
+    "iati-activity/title": 12, 
+    "iati-activity/transaction": 3, 
+    "iati-activity/transaction/aid-type": 1, 
+    "iati-activity/transaction/description": 1, 
+    "iati-activity/transaction/disbursement-channel": 2, 
+    "iati-activity/transaction/finance-type": 1, 
+    "iati-activity/transaction/flow-type": 1, 
+    "iati-activity/transaction/provider-org": 3, 
+    "iati-activity/transaction/receiver-org": 2, 
+    "iati-activity/transaction/tied-status": 1, 
+    "iati-activity/transaction/transaction-date": 1, 
+    "iati-activity/transaction/transaction-type": 3, 
+    "iati-activity/transaction/value": 3
+  }, 
+  "iati_identifier": null, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_per_country": {
+    "AL": 1, 
+    "BY": 1, 
+    "CY": 1, 
+    "EG": 1, 
+    "KE": 1, 
+    "MD": 1, 
+    "ME": 1, 
+    "MK": 1, 
+    "PL": 1, 
+    "SK": 1, 
+    "TN": 1
+  }, 
+  "publishers_per_organisation_type": {
+    "60": 1
+  }, 
+  "publishers_validation": {
+    "fail": 1
+  }, 
+  "spend": 83971.096, 
+  "spend_per_country": {
+    "BY": 0, 
+    "EG": 0, 
+    "KE": 0, 
+    "MD": 49451.236, 
+    "ME": 0, 
+    "PL": 0, 
+    "SK": 34519.86, 
+    "TN": 0
+  }, 
+  "spend_per_organisation_type": {
+    "60": 0
+  }, 
+  "spend_per_year": {
+    "2010": 0, 
+    "2011": 83971.096, 
+    "2012": 0, 
+    "2013": 0
+  }, 
+  "validation": {
+    "fail": 7, 
+    "pass": 2
+  }, 
+  "versions": {
+    "1.02": 7, 
+    "null": 2
+  }
+}
