@@ -1,0 +1,172 @@
+{
+  "activities": 104, 
+  "activities_no_country": 104, 
+  "activities_per_country": {}, 
+  "activities_per_year": {
+    "null": 104
+  }, 
+  "activity_files": 33, 
+  "codelist_values": {
+    ".//@default-currency": {
+      "USD": 104
+    }, 
+    ".//@xml:lang": {
+      "": 370, 
+      "en": 1792
+    }, 
+    ".//activity-date/@type": {
+      "end-actual": 104, 
+      "end-planned": 104, 
+      "start-actual": 104, 
+      "start-planned": 104
+    }, 
+    ".//activity-status/@code": {
+      "2": 104
+    }, 
+    ".//collaboration-type/@code": {
+      "2": 104
+    }, 
+    ".//default-finance-type/@code": {
+      "": 104
+    }, 
+    ".//default-flow-type/@code": {
+      "10": 104
+    }, 
+    ".//participating-org/@role": {
+      "Implementing": 104
+    }, 
+    ".//participating-org/@type": {
+      "": 11, 
+      "40": 93
+    }, 
+    ".//policy-marker/@code": {
+      "": 104
+    }, 
+    ".//policy-marker/@significance": {
+      "": 104
+    }, 
+    ".//policy-marker/@vocabulary": {
+      "": 104
+    }, 
+    ".//recipient-country/@code": {
+      "889": 1, 
+      "BD": 5, 
+      "BO": 1, 
+      "CD": 1, 
+      "CL": 3, 
+      "CO": 5, 
+      "EG": 1, 
+      "GD": 1, 
+      "GH": 1, 
+      "HN": 1, 
+      "ID": 1, 
+      "IN": 2, 
+      "KE": 1, 
+      "KH": 5, 
+      "KZ": 4, 
+      "LA": 2, 
+      "MA": 3, 
+      "MX": 10, 
+      "MZ": 4, 
+      "NE": 3, 
+      "NP": 6, 
+      "PH": 5, 
+      "TH": 3, 
+      "TJ": 5, 
+      "TO": 1, 
+      "TR": 7, 
+      "UA": 5, 
+      "VC": 1, 
+      "VN": 3, 
+      "WS": 2, 
+      "YE": 1, 
+      "ZA": 8, 
+      "ZM": 2
+    }, 
+    ".//reporting-org/@type": {
+      "Multilateral": 104
+    }, 
+    ".//transaction/aid-type/@code": {
+      "": 162
+    }, 
+    ".//transaction/disbursement-channel/@code": {
+      "": 162
+    }, 
+    ".//transaction/finance-type/@code": {
+      "110": 84, 
+      "410": 78
+    }, 
+    ".//transaction/flow-type/@code": {
+      "": 162
+    }, 
+    ".//transaction/tied-status/@code": {
+      "": 162
+    }, 
+    ".//transaction/transaction-type/@code": {
+      "C": 162
+    }, 
+    ".//transaction/value/@currency": {
+      "": 162
+    }
+  }, 
+  "currencies": {
+    "USD": 104
+  }, 
+  "elements": {
+    "iati-activity": 104, 
+    "iati-activity/activity-date": 104, 
+    "iati-activity/activity-status": 104, 
+    "iati-activity/activity-website": 104, 
+    "iati-activity/collaboration-type": 104, 
+    "iati-activity/contact-info": 104, 
+    "iati-activity/contact-info/email": 104, 
+    "iati-activity/contact-info/mailing-address": 104, 
+    "iati-activity/contact-info/organisation": 104, 
+    "iati-activity/contact-info/telephone": 104, 
+    "iati-activity/default-finance-type": 104, 
+    "iati-activity/default-flow-type": 104, 
+    "iati-activity/iati-identifier": 104, 
+    "iati-activity/participating-org": 104, 
+    "iati-activity/policy-marker": 104, 
+    "iati-activity/recipient-country": 104, 
+    "iati-activity/reporting-org": 104, 
+    "iati-activity/title": 104, 
+    "iati-activity/transaction": 104, 
+    "iati-activity/transaction/aid-type": 104, 
+    "iati-activity/transaction/description": 104, 
+    "iati-activity/transaction/disbursement-channel": 104, 
+    "iati-activity/transaction/finance-type": 104, 
+    "iati-activity/transaction/flow-type": 104, 
+    "iati-activity/transaction/tied-status": 104, 
+    "iati-activity/transaction/transaction-date": 104, 
+    "iati-activity/transaction/transaction-type": 104, 
+    "iati-activity/transaction/value": 104
+  }, 
+  "iati_identifier": null, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_per_country": {}, 
+  "publishers_per_organisation_type": {
+    "Multilateral": 1
+  }, 
+  "publishers_validation": {
+    "fail": 1
+  }, 
+  "spend": 0, 
+  "spend_per_country": {
+    "pre2010": 0
+  }, 
+  "spend_per_organisation_type": {
+    "Multilateral": 0
+  }, 
+  "spend_per_year": {
+    "null": 0
+  }, 
+  "validation": {
+    "fail": 33
+  }, 
+  "versions": {
+    "1.01": 33
+  }
+}

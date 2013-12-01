@@ -1,0 +1,148 @@
+{
+  "activities": 47, 
+  "activities_no_country": 47, 
+  "activities_per_country": {}, 
+  "activities_per_year": {
+    "null": 47
+  }, 
+  "activity_files": 1, 
+  "codelist_values": {
+    ".//@default-currency": {
+      "GBP": 47
+    }, 
+    ".//@xml:lang": {
+      "en": 47
+    }, 
+    ".//activity-date/@type": {
+      "2008-06-01": 1, 
+      "2008-07-01": 2, 
+      "2008-08-01": 2, 
+      "2009-04-01": 1, 
+      "2009-06-01": 1, 
+      "2009-06-06": 1, 
+      "2009-07-01": 7, 
+      "2009-10-01": 1, 
+      "2010-06-01": 4, 
+      "2010-07-01": 6, 
+      "2010-08-01": 3, 
+      "2010-09-01": 4, 
+      "2011-01-01": 1, 
+      "2011-06-02": 1, 
+      "2011-07-01": 3, 
+      "2011-08-01": 6, 
+      "2011-09-01": 1, 
+      "2011-10-01": 2, 
+      "2012-06-30": 5, 
+      "2012-07-31": 2, 
+      "2012-09-30": 2, 
+      "2012-12-31": 1, 
+      "2013-03-31": 2, 
+      "2013-05-31": 2, 
+      "2013-06-30": 4, 
+      "2013-07-30": 1, 
+      "2013-07-31": 1, 
+      "2013-12-31": 1, 
+      "2014-02-28": 1, 
+      "2014-03-31": 4, 
+      "2014-05-31": 2, 
+      "2014-06-30": 3, 
+      "2014-07-31": 3, 
+      "2014-08-31": 2, 
+      "2014-09-30": 2, 
+      "2015-03-31": 8, 
+      "2015-07-31": 1
+    }, 
+    ".//activity-status/@code": {
+      "2": 47
+    }, 
+    ".//participating-org/@role": {
+      "Extending": 47, 
+      "Funding": 47
+    }, 
+    ".//participating-org/@type": {
+      "10": 47, 
+      "70": 47
+    }, 
+    ".//recipient-country/@code": {
+      "BD": 1, 
+      "BO": 1, 
+      "BR": 3, 
+      "CD": 1, 
+      "CF": 1, 
+      "EC": 1, 
+      "ET": 2, 
+      "GH": 2, 
+      "GN": 1, 
+      "HN": 2, 
+      "IN": 7, 
+      "KE": 4, 
+      "KH": 1, 
+      "MW": 2, 
+      "MZ": 2, 
+      "NA": 1, 
+      "NP": 1, 
+      "PR": 2, 
+      "PS": 2, 
+      "SS": 1, 
+      "TZ": 3, 
+      "UG": 3, 
+      "VN": 1, 
+      "ZM": 1, 
+      "ZW": 1
+    }, 
+    ".//reporting-org/@type": {
+      "70": 47
+    }, 
+    ".//transaction/transaction-type/@code": {
+      "D": 47
+    }
+  }, 
+  "currencies": {
+    "GBP": 47
+  }, 
+  "elements": {
+    "iati-activity": 47, 
+    "iati-activity/activity-date": 47, 
+    "iati-activity/activity-status": 47, 
+    "iati-activity/description": 47, 
+    "iati-activity/iati-identifier": 47, 
+    "iati-activity/participating-org": 47, 
+    "iati-activity/recipient-country": 47, 
+    "iati-activity/reporting-org": 47, 
+    "iati-activity/sector": 47, 
+    "iati-activity/title": 47, 
+    "iati-activity/transaction": 47, 
+    "iati-activity/transaction/provider-org": 47, 
+    "iati-activity/transaction/receiver-org": 47, 
+    "iati-activity/transaction/transaction-date": 47, 
+    "iati-activity/transaction/transaction-type": 47, 
+    "iati-activity/transaction/value": 47
+  }, 
+  "iati_identifier": null, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_per_country": {}, 
+  "publishers_per_organisation_type": {
+    "70": 1
+  }, 
+  "publishers_validation": {
+    "pass": 1
+  }, 
+  "spend": 970821.085823, 
+  "spend_per_country": {
+    "pre2010": 970821.085823
+  }, 
+  "spend_per_organisation_type": {
+    "70": 0
+  }, 
+  "spend_per_year": {
+    "null": 970821.085823
+  }, 
+  "validation": {
+    "pass": 1
+  }, 
+  "versions": {
+    "1.03": 1
+  }
+}
