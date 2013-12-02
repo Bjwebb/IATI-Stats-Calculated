@@ -1,0 +1,151 @@
+{
+  "activities": 10262, 
+  "activities_no_country": 10262, 
+  "activities_per_country": {}, 
+  "activities_per_year": {
+    "null": 10262
+  }, 
+  "activity_files": 46, 
+  "codelist_values": {
+    ".//@default-currency": {
+      "USD": 10262
+    }, 
+    ".//@xml:lang": {
+      "en": 10262
+    }, 
+    ".//activity-date/@type": {
+      "end-planned": 6298, 
+      "start-planned": 10262
+    }, 
+    ".//budget/@type": {
+      "Original": 6298, 
+      "Revised": 6298
+    }, 
+    ".//description/@type": {
+      "1": 3964, 
+      "2": 6298
+    }, 
+    ".//participating-org/@role": {
+      "Funding": 11295, 
+      "Implementing": 10262
+    }, 
+    ".//participating-org/@type": {
+      "10": 3709, 
+      "15": 793, 
+      "40": 4134, 
+      "70": 476
+    }, 
+    ".//recipient-country/@code": {
+      "": 248, 
+      ".": 7, 
+      "AF": 430, 
+      "BF": 215, 
+      "BG": 3, 
+      "CD": 537, 
+      "CF": 383, 
+      "CI": 141, 
+      "CU": 3, 
+      "DJ": 59, 
+      "EG": 15, 
+      "HT": 502, 
+      "IQ": 64, 
+      "JO": 415, 
+      "KE": 204, 
+      "KP": 35, 
+      "LB": 315, 
+      "LK": 102, 
+      "LR": 74, 
+      "LS": 36, 
+      "ML": 483, 
+      "MM": 126, 
+      "MR": 236, 
+      "NE": 316, 
+      "PH": 671, 
+      "PK": 145, 
+      "PS": 507, 
+      "SD": 869, 
+      "SO": 946, 
+      "SS": 803, 
+      "SY": 396, 
+      "TD": 307, 
+      "TN": 1, 
+      "TR": 108, 
+      "YE": 432, 
+      "ZW": 128
+    }, 
+    ".//reporting-org/@type": {
+      "40": 10262
+    }, 
+    ".//sector/@vocabulary": {
+      "DAC": 10262, 
+      "RO": 10262
+    }, 
+    ".//transaction/finance-type/@code": {
+      "110": 12786
+    }, 
+    ".//transaction/transaction-type/@code": {
+      "C": 5664, 
+      "D": 7122
+    }
+  }, 
+  "currencies": {
+    "USD": 7155
+  }, 
+  "elements": {
+    "iati-activity": 10262, 
+    "iati-activity/activity-date": 10262, 
+    "iati-activity/budget": 6298, 
+    "iati-activity/budget/period-end": 6298, 
+    "iati-activity/budget/period-start": 6298, 
+    "iati-activity/budget/value": 6298, 
+    "iati-activity/description": 10262, 
+    "iati-activity/iati-identifier": 10262, 
+    "iati-activity/other-identifier": 10262, 
+    "iati-activity/participating-org": 10262, 
+    "iati-activity/recipient-country": 10262, 
+    "iati-activity/reporting-org": 10262, 
+    "iati-activity/sector": 10262, 
+    "iati-activity/title": 10262, 
+    "iati-activity/transaction": 7155, 
+    "iati-activity/transaction/finance-type": 7155, 
+    "iati-activity/transaction/provider-org": 7155, 
+    "iati-activity/transaction/receiver-org": 7155, 
+    "iati-activity/transaction/transaction-date": 7155, 
+    "iati-activity/transaction/transaction-type": 7155, 
+    "iati-activity/transaction/value": 7155, 
+    "iati-activity/transaction/{nothing}contribution-category": 7155, 
+    "iati-activity/{nothing}appeal-title": 6298, 
+    "iati-activity/{nothing}appeal-type": 6298, 
+    "iati-activity/{nothing}cluster": 6298, 
+    "iati-activity/{nothing}emergency-title": 10262, 
+    "iati-activity/{nothing}gender-marker": 6298, 
+    "iati-activity/{nothing}priority": 6298
+  }, 
+  "iati_identifier": null, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_per_country": {}, 
+  "publishers_per_organisation_type": {
+    "40": 1
+  }, 
+  "publishers_validation": {
+    "pass": 1
+  }, 
+  "spend": 12511041619.0, 
+  "spend_per_country": {
+    "pre2010": 12511041619.0
+  }, 
+  "spend_per_organisation_type": {
+    "40": 8592084044.0
+  }, 
+  "spend_per_year": {
+    "null": 12511041619.0
+  }, 
+  "validation": {
+    "pass": 46
+  }, 
+  "versions": {
+    "1.00": 46
+  }
+}
