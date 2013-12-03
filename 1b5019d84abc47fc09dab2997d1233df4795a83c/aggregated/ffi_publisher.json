@@ -1,0 +1,107 @@
+{
+  "activities": 1, 
+  "activities_no_country": 0, 
+  "activities_per_country": {
+    "EC": 1
+  }, 
+  "activities_per_year": {
+    "2011": 1
+  }, 
+  "activity_files": 1, 
+  "codelist_values": {
+    ".//@default-currency": {
+      "GBP": 1
+    }, 
+    ".//@xml:lang": {
+      "en": 6, 
+      "es": 4
+    }, 
+    ".//activity-date/@type": {
+      "end-planned": 1, 
+      "start-actual": 1
+    }, 
+    ".//activity-status/@code": {
+      "2": 1
+    }, 
+    ".//budget/@type": {
+      "1": 1
+    }, 
+    ".//budget/value/@currency": {
+      "GBP": 1
+    }, 
+    ".//description/@type": {
+      "1": 2
+    }, 
+    ".//document-link/@format": {
+      "application/pdf": 1
+    }, 
+    ".//document-link/category/@code": {
+      "B01": 1
+    }, 
+    ".//participating-org/@role": {
+      "Funding": 1
+    }, 
+    ".//recipient-country/@code": {
+      "EC": 1
+    }, 
+    ".//recipient-region/@code": {
+      "489": 1
+    }, 
+    ".//reporting-org/@type": {
+      "21": 1
+    }
+  }, 
+  "currencies": {}, 
+  "elements": {
+    "iati-activity": 1, 
+    "iati-activity/activity-date": 1, 
+    "iati-activity/activity-status": 1, 
+    "iati-activity/budget": 1, 
+    "iati-activity/budget/period-end": 1, 
+    "iati-activity/budget/period-start": 1, 
+    "iati-activity/budget/value": 1, 
+    "iati-activity/contact-info": 1, 
+    "iati-activity/contact-info/organisation": 1, 
+    "iati-activity/contact-info/person-name": 1, 
+    "iati-activity/description": 1, 
+    "iati-activity/document-link": 1, 
+    "iati-activity/document-link/category": 1, 
+    "iati-activity/document-link/language": 1, 
+    "iati-activity/document-link/title": 1, 
+    "iati-activity/iati-identifier": 1, 
+    "iati-activity/participating-org": 1, 
+    "iati-activity/recipient-country": 1, 
+    "iati-activity/recipient-region": 1, 
+    "iati-activity/reporting-org": 1, 
+    "iati-activity/title": 1
+  }, 
+  "iati_identifier": null, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_per_country": {
+    "EC": 1
+  }, 
+  "publishers_per_organisation_type": {
+    "21": 1
+  }, 
+  "publishers_validation": {
+    "fail": 1
+  }, 
+  "spend": 0, 
+  "spend_per_country": {
+    "EC": 0
+  }, 
+  "spend_per_organisation_type": {
+    "21": 0
+  }, 
+  "spend_per_year": {
+    "2011": 0
+  }, 
+  "validation": {
+    "fail": 1
+  }, 
+  "versions": {
+    "null": 1
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "activities": 890, 
+  "activities_no_country": 484, 
+  "activities_per_country": {
+    "AR": 23, 
+    "BB": 7, 
+    "BO": 23, 
+    "BR": 64, 
+    "BS": 5, 
+    "BZ": 5, 
+    "CL": 3, 
+    "CO": 17, 
+    "CR": 6, 
+    "DO": 13, 
+    "EC": 19, 
+    "GT": 8, 
+    "GY": 8, 
+    "HN": 22, 
+    "HT": 21, 
+    "JM": 13, 
+    "MX": 19, 
+    "NI": 24, 
+    "PA": 11, 
+    "PE": 27, 
+    "PY": 14, 
+    "SR": 11, 
+    "SV": 11, 
+    "TT": 8, 
+    "UY": 19, 
+    "VE": 5
+  }, 
+  "activities_per_year": {
+    "2004": 12, 
+    "2005": 44, 
+    "2006": 55, 
+    "2007": 64, 
+    "2008": 81, 
+    "2009": 98, 
+    "2010": 119, 
+    "2011": 114, 
+    "2012": 113, 
+    "2013": 60, 
+    "null": 130
+  }, 
+  "activity_files": 27, 
+  "codelist_values": {
+    ".//@default-currency": {
+      "USD": 890
+    }, 
+    ".//@xml:lang": {
+      "en": 890, 
+      "es": 1780
+    }, 
+    ".//activity-date/@type": {
+      "end-actual": 306, 
+      "end-planned": 823, 
+      "start-actual": 760
+    }, 
+    ".//activity-status/@code": {
+      "2": 576, 
+      "3": 30, 
+      "4": 284
+    }, 
+    ".//collaboration-type/@code": {
+      "4": 890
+    }, 
+    ".//conditions/condition/@type": {
+      "1": 140, 
+      "2": 15
+    }, 
+    ".//default-finance-type/@code": {
+      "110": 26, 
+      "410": 864
+    }, 
+    ".//default-flow-type/@code": {
+      "": 24, 
+      "10": 219, 
+      "20": 647
+    }, 
+    ".//default-tied-status/@code": {
+      "5": 890
+    }, 
+    ".//participating-org/@role": {
+      "Accountable": 890, 
+      "Extending": 890, 
+      "Funding": 890, 
+      "Implementing": 889
+    }, 
+    ".//participating-org/@type": {
+      "40": 1780
+    }, 
+    ".//recipient-country/@code": {
+      " ": 2, 
+      "AR": 68, 
+      "BB": 14, 
+      "BO": 45, 
+      "BR": 130, 
+      "BS": 9, 
+      "BZ": 10, 
+      "CL": 18, 
+      "CO": 51, 
+      "CR": 10, 
+      "DO": 31, 
+      "EC": 35, 
+      "GT": 20, 
+      "GY": 24, 
+      "HN": 41, 
+      "HT": 34, 
+      "JM": 25, 
+      "MX": 42, 
+      "NI": 49, 
+      "PA": 37, 
+      "PE": 56, 
+      "PY": 28, 
+      "SR": 16, 
+      "SV": 20, 
+      "TT": 11, 
+      "UY": 49, 
+      "VE": 15
+    }, 
+    ".//recipient-region/@code": {
+      "389": 393, 
+      "489": 495, 
+      "498": 2
+    }, 
+    ".//related-activity/@type": {
+      "Sibling": 24
+    }, 
+    ".//reporting-org/@type": {
+      "40": 890
+    }, 
+    ".//sector/@vocabulary": {
+      "DAC": 821, 
+      "RO": 890
+    }, 
+    ".//transaction/transaction-type/@code": {
+      "C": 1032, 
+      "D": 8533, 
+      "IR": 5356, 
+      "LR": 1005
+    }
+  }, 
+  "currencies": {
+    "USD": 889
+  }, 
+  "elements": {
+    "iati-activity": 890, 
+    "iati-activity/activity-date": 823, 
+    "iati-activity/activity-status": 890, 
+    "iati-activity/activity-website": 890, 
+    "iati-activity/collaboration-type": 890, 
+    "iati-activity/conditions": 890, 
+    "iati-activity/conditions/condition": 155, 
+    "iati-activity/contact-info": 890, 
+    "iati-activity/contact-info/email": 890, 
+    "iati-activity/contact-info/organisation": 890, 
+    "iati-activity/contact-info/person-name": 890, 
+    "iati-activity/contact-info/telephone": 890, 
+    "iati-activity/default-finance-type": 890, 
+    "iati-activity/default-flow-type": 890, 
+    "iati-activity/default-tied-status": 890, 
+    "iati-activity/description": 890, 
+    "iati-activity/iati-identifier": 890, 
+    "iati-activity/participating-org": 890, 
+    "iati-activity/recipient-country": 890, 
+    "iati-activity/recipient-region": 890, 
+    "iati-activity/related-activity": 15, 
+    "iati-activity/reporting-org": 890, 
+    "iati-activity/sector": 890, 
+    "iati-activity/title": 890, 
+    "iati-activity/transaction": 889, 
+    "iati-activity/transaction/description": 889, 
+    "iati-activity/transaction/transaction-date": 889, 
+    "iati-activity/transaction/transaction-type": 889, 
+    "iati-activity/transaction/value": 889, 
+    "iati-organisation": 1, 
+    "iati-organisation/document-link": 1, 
+    "iati-organisation/document-link/category": 1, 
+    "iati-organisation/document-link/language": 1, 
+    "iati-organisation/document-link/title": 1, 
+    "iati-organisation/iati-identifier": 1, 
+    "iati-organisation/reporting-org": 1
+  }, 
+  "iati_identifier": null, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_per_country": {
+    "AR": 1, 
+    "BB": 1, 
+    "BO": 1, 
+    "BR": 1, 
+    "BS": 1, 
+    "BZ": 1, 
+    "CL": 1, 
+    "CO": 1, 
+    "CR": 1, 
+    "DO": 1, 
+    "EC": 1, 
+    "GT": 1, 
+    "GY": 1, 
+    "HN": 1, 
+    "HT": 1, 
+    "JM": 1, 
+    "MX": 1, 
+    "NI": 1, 
+    "PA": 1, 
+    "PE": 1, 
+    "PY": 1, 
+    "SR": 1, 
+    "SV": 1, 
+    "TT": 1, 
+    "UY": 1, 
+    "VE": 1
+  }, 
+  "publishers_per_organisation_type": {
+    "40": 1
+  }, 
+  "publishers_validation": {
+    "fail": 1
+  }, 
+  "spend": 51073965342.0, 
+  "spend_per_country": {
+    "AR": 1296709720.0, 
+    "BB": 132154133.0, 
+    "BO": 368370194.0, 
+    "BR": 3502866738.0, 
+    "BS": 79021252.0, 
+    "BZ": 6084430.0, 
+    "CL": 5260847.0, 
+    "CO": 1599700295.0, 
+    "CR": 275507993.0, 
+    "DO": 595763294.0, 
+    "EC": 951350411.0, 
+    "GT": 339567840.0, 
+    "GY": 43326404.0, 
+    "HN": 563426391.0, 
+    "HT": 204808091.0, 
+    "JM": 713637075.0, 
+    "MX": 4740941401.0, 
+    "NI": 328061456.0, 
+    "PA": 473557775.0, 
+    "PE": 572387300.0, 
+    "PY": 326345943.0, 
+    "SR": 171788907.0, 
+    "SV": 615306064.0, 
+    "TT": 377268827.0, 
+    "UY": 136246168.0, 
+    "VE": 840189884.0, 
+    "pre2010": 31814316509.0
+  }, 
+  "spend_per_organisation_type": {
+    "40": 7833266066.0
+  }, 
+  "spend_per_year": {
+    "2004": 925199157.0, 
+    "2005": 5178363097.0, 
+    "2006": 3813446222.0, 
+    "2007": 6604587274.0, 
+    "2008": 5036515155.0, 
+    "2009": 10256205604.0, 
+    "2010": 9594537439.0, 
+    "2011": 5771722082.0, 
+    "2012": 3052595577.0, 
+    "2013": 840793735.0, 
+    "null": 0
+  }, 
+  "validation": {
+    "fail": 1, 
+    "pass": 27
+  }, 
+  "versions": {
+    "1.02": 27
+  }
+}

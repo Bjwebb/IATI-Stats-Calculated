@@ -1,0 +1,153 @@
+{
+  "activities": 5, 
+  "activities_no_country": 1, 
+  "activities_per_country": {
+    "GH": 1, 
+    "IN": 1, 
+    "UG": 2
+  }, 
+  "activities_per_year": {
+    "2009": 1, 
+    "2010": 1, 
+    "2011": 3
+  }, 
+  "activity_files": 5, 
+  "codelist_values": {
+    ".//@default-currency": {
+      "GBP": 5
+    }, 
+    ".//@xml:lang": {
+      "en": 83, 
+      "es": 1
+    }, 
+    ".//activity-date/@type": {
+      "start-actual": 5
+    }, 
+    ".//activity-status/@code": {
+      "2": 5
+    }, 
+    ".//budget/@type": {
+      "1": 2, 
+      "2": 2
+    }, 
+    ".//budget/value/@currency": {
+      "GBP": 5
+    }, 
+    ".//default-aid-type/@code": {
+      "C01": 5
+    }, 
+    ".//description/@type": {
+      "1": 5
+    }, 
+    ".//participating-org/@role": {
+      "Implementing": 13
+    }, 
+    ".//participating-org/@type": {
+      "22": 9, 
+      "23": 4
+    }, 
+    ".//recipient-country/@code": {
+      "GH": 1, 
+      "IN": 1, 
+      "NP": 1, 
+      "UG": 4
+    }, 
+    ".//reporting-org/@type": {
+      "21": 5
+    }, 
+    ".//transaction/aid-type/@code": {
+      "B03": 23, 
+      "C01": 16
+    }, 
+    ".//transaction/disbursement-channel/@code": {
+      "2": 39
+    }, 
+    ".//transaction/finance-type/@code": {
+      "110": 39
+    }, 
+    ".//transaction/flow-type/@code": {
+      "10": 38
+    }, 
+    ".//transaction/tied-status/@code": {
+      "4": 39
+    }, 
+    ".//transaction/transaction-type/@code": {
+      "E": 39
+    }, 
+    ".//transaction/value/@currency": {
+      "GBP": 39
+    }
+  }, 
+  "currencies": {
+    "GBP": 5
+  }, 
+  "elements": {
+    "iati-activity": 5, 
+    "iati-activity/activity-date": 5, 
+    "iati-activity/activity-status": 5, 
+    "iati-activity/budget": 5, 
+    "iati-activity/budget/period-end": 5, 
+    "iati-activity/budget/period-start": 5, 
+    "iati-activity/budget/value": 5, 
+    "iati-activity/default-aid-type": 5, 
+    "iati-activity/description": 5, 
+    "iati-activity/iati-identifier": 5, 
+    "iati-activity/participating-org": 5, 
+    "iati-activity/recipient-country": 5, 
+    "iati-activity/reporting-org": 5, 
+    "iati-activity/sector": 5, 
+    "iati-activity/title": 5, 
+    "iati-activity/transaction": 5, 
+    "iati-activity/transaction/aid-type": 5, 
+    "iati-activity/transaction/description": 5, 
+    "iati-activity/transaction/disbursement-channel": 5, 
+    "iati-activity/transaction/finance-type": 5, 
+    "iati-activity/transaction/flow-type": 5, 
+    "iati-activity/transaction/provider-org": 5, 
+    "iati-activity/transaction/receiver-org": 5, 
+    "iati-activity/transaction/tied-status": 5, 
+    "iati-activity/transaction/transaction-date": 5, 
+    "iati-activity/transaction/transaction-type": 5, 
+    "iati-activity/transaction/value": 5, 
+    "iati-organisation": 1, 
+    "iati-organisation/iati-identifier": 1, 
+    "iati-organisation/name": 1, 
+    "iati-organisation/reporting-org": 1
+  }, 
+  "iati_identifier": null, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_per_country": {
+    "GH": 1, 
+    "IN": 1, 
+    "UG": 1
+  }, 
+  "publishers_per_organisation_type": {
+    "21": 1
+  }, 
+  "publishers_validation": {
+    "pass": 1
+  }, 
+  "spend": 1058655.8204, 
+  "spend_per_country": {
+    "GH": 181432.3652, 
+    "IN": 224069.8945, 
+    "UG": 425586.6923, 
+    "pre2010": 227566.8684
+  }, 
+  "spend_per_organisation_type": {
+    "21": 474373.2571
+  }, 
+  "spend_per_year": {
+    "2009": 227566.8684, 
+    "2010": 224069.8945, 
+    "2011": 607019.0575
+  }, 
+  "validation": {
+    "pass": 6
+  }, 
+  "versions": {
+    "1.02": 5
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "activities": 9, 
+  "activities_no_country": 1, 
+  "activities_per_country": {
+    "AR": 2, 
+    "EC": 2, 
+    "GT": 1, 
+    "MX": 1, 
+    "PE": 2, 
+    "PG": 1, 
+    "PH": 1, 
+    "UA": 2
+  }, 
+  "activities_per_year": {
+    "2009": 1, 
+    "2010": 3, 
+    "2011": 5
+  }, 
+  "activity_files": 1, 
+  "codelist_values": {
+    ".//@default-currency": {
+      "USD": 9
+    }, 
+    ".//@xml:lang": {
+      "": 4, 
+      "en": 9
+    }, 
+    ".//activity-date/@type": {
+      "end-planned": 9, 
+      "start-actual": 9
+    }, 
+    ".//activity-status/@code": {
+      "3": 9
+    }, 
+    ".//budget/value/@currency": {
+      "USD": 9
+    }, 
+    ".//collaboration-type/@code": {
+      "6": 9
+    }, 
+    ".//default-aid-type/@code": {
+      "B01": 9
+    }, 
+    ".//default-finance-type/@code": {
+      "110": 9
+    }, 
+    ".//default-flow-type/@code": {
+      "30": 9
+    }, 
+    ".//default-tied-status/@code": {
+      "5": 9
+    }, 
+    ".//document-link/@format": {
+      "": 4
+    }, 
+    ".//document-link/category/@code": {
+      "Results, outcomes and outputs": 1, 
+      "Review of project performance and evaluation": 2, 
+      "Summary information about contract": 1
+    }, 
+    ".//participating-org/@role": {
+      "Accountable": 9, 
+      "[\"Implementing\"]": 3, 
+      "[]": 5
+    }, 
+    ".//participating-org/@type": {
+      "": 8, 
+      "21": 9
+    }, 
+    ".//recipient-country/@code": {
+      "AR": 3, 
+      "EC": 3, 
+      "GT": 1, 
+      "MX": 1, 
+      "PE": 3, 
+      "PG": 1, 
+      "PH": 1, 
+      "UA": 2
+    }, 
+    ".//reporting-org/@type": {
+      "21": 9
+    }, 
+    ".//sector/@vocabulary": {
+      "DAC": 38
+    }
+  }, 
+  "currencies": {}, 
+  "elements": {
+    "iati-activity": 9, 
+    "iati-activity/activity-date": 9, 
+    "iati-activity/activity-status": 9, 
+    "iati-activity/activity-website": 9, 
+    "iati-activity/budget": 9, 
+    "iati-activity/budget/value": 9, 
+    "iati-activity/collaboration-type": 9, 
+    "iati-activity/contact-info": 9, 
+    "iati-activity/contact-info/email": 9, 
+    "iati-activity/contact-info/person-name": 9, 
+    "iati-activity/default-aid-type": 9, 
+    "iati-activity/default-finance-type": 9, 
+    "iati-activity/default-flow-type": 9, 
+    "iati-activity/default-tied-status": 9, 
+    "iati-activity/description": 9, 
+    "iati-activity/document-link": 2, 
+    "iati-activity/document-link/category": 2, 
+    "iati-activity/iati-identifier": 9, 
+    "iati-activity/participating-org": 9, 
+    "iati-activity/recipient-country": 9, 
+    "iati-activity/reporting-org": 9, 
+    "iati-activity/sector": 9, 
+    "iati-activity/title": 9
+  }, 
+  "iati_identifier": null, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_per_country": {
+    "AR": 1, 
+    "EC": 1, 
+    "GT": 1, 
+    "MX": 1, 
+    "PE": 1, 
+    "PG": 1, 
+    "PH": 1, 
+    "UA": 1
+  }, 
+  "publishers_per_organisation_type": {
+    "21": 1
+  }, 
+  "publishers_validation": {
+    "pass": 1
+  }, 
+  "spend": 0, 
+  "spend_per_country": {
+    "AR": 0, 
+    "EC": 0, 
+    "GT": 0, 
+    "MX": 0, 
+    "PG": 0, 
+    "PH": 0, 
+    "UA": 0, 
+    "pre2010": 0
+  }, 
+  "spend_per_organisation_type": {
+    "21": 0
+  }, 
+  "spend_per_year": {
+    "2009": 0, 
+    "2010": 0, 
+    "2011": 0
+  }, 
+  "validation": {
+    "pass": 1
+  }, 
+  "versions": {
+    "1.01": 1
+  }
+}
