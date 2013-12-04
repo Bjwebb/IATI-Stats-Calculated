@@ -1,0 +1,250 @@
+{
+  "activities": 10, 
+  "activities_no_country": 0, 
+  "activities_per_country": {
+    "GB": 2, 
+    "IN": 1, 
+    "NP": 1, 
+    "SL": 1, 
+    "TZ": 1, 
+    "UG": 1, 
+    "ZA": 1, 
+    "ZM": 1, 
+    "ZW": 1
+  }, 
+  "activities_per_year": {
+    "2010": 10
+  }, 
+  "activity_files": 9, 
+  "codelist_values": {
+    ".//@default-currency": {
+      "GBP": 10
+    }, 
+    ".//@xml:lang": {
+      "bn": 1, 
+      "en": 1275
+    }, 
+    ".//activity-date/@type": {
+      "end-actual": 2, 
+      "end-planned": 8, 
+      "start-actual": 10
+    }, 
+    ".//activity-status/@code": {
+      "2": 10
+    }, 
+    ".//budget/@type": {
+      "1": 10, 
+      "2": 45
+    }, 
+    ".//budget/value/@currency": {
+      "GBP": 15, 
+      "INR": 5, 
+      "NPR": 5, 
+      "SLL": 5, 
+      "TZS": 5, 
+      "UGX": 5, 
+      "USD": 5, 
+      "ZAR": 5, 
+      "ZMK": 5
+    }, 
+    ".//default-aid-type/@code": {
+      "C01": 10
+    }, 
+    ".//default-flow-type/@code": {
+      "30": 10
+    }, 
+    ".//description/@type": {
+      "1": 10
+    }, 
+    ".//document-link/@format": {
+      "application/pdf": 57
+    }, 
+    ".//document-link/category/@code": {
+      "A01": 4, 
+      "A02": 22, 
+      "A07": 5, 
+      "B01": 13, 
+      "B02": 10, 
+      "B03": 3
+    }, 
+    ".//participating-org/@role": {
+      "Funding": 124, 
+      "Implementing": 12
+    }, 
+    ".//participating-org/@type": {
+      "10": 40, 
+      "21": 36, 
+      "22": 4, 
+      "40": 15, 
+      "60": 27, 
+      "70": 14
+    }, 
+    ".//recipient-country/@code": {
+      "GB": 2, 
+      "IN": 1, 
+      "NP": 1, 
+      "SL": 1, 
+      "TZ": 1, 
+      "UG": 1, 
+      "ZA": 1, 
+      "ZM": 1, 
+      "ZW": 1
+    }, 
+    ".//reporting-org/@type": {
+      "21": 10
+    }, 
+    ".//sector/@vocabulary": {
+      "DAC": 30
+    }, 
+    ".//transaction/aid-type/@code": {
+      "C01": 232
+    }, 
+    ".//transaction/disbursement-channel/@code": {
+      "2": 16, 
+      "3": 1
+    }, 
+    ".//transaction/finance-type/@code": {
+      "110": 17
+    }, 
+    ".//transaction/flow-type/@code": {
+      "30": 232
+    }, 
+    ".//transaction/tied-status/@code": {
+      "3": 1, 
+      "4": 10, 
+      "5": 6
+    }, 
+    ".//transaction/transaction-type/@code": {
+      "D": 8, 
+      "E": 497, 
+      "IF": 437
+    }, 
+    ".//transaction/value/@currency": {
+      "GBP": 191, 
+      "INR": 92, 
+      "NPR": 90, 
+      "SLL": 106, 
+      "TZS": 81, 
+      "UGX": 104, 
+      "USD": 107, 
+      "ZAR": 70, 
+      "ZMK": 101
+    }
+  }, 
+  "currencies": {
+    "GBP": 3, 
+    "INR": 1, 
+    "NPR": 1, 
+    "SLL": 1, 
+    "TZS": 1, 
+    "UGX": 1, 
+    "USD": 1, 
+    "ZAR": 1, 
+    "ZMK": 2
+  }, 
+  "elements": {
+    "iati-activity": 10, 
+    "iati-activity/activity-date": 10, 
+    "iati-activity/activity-status": 10, 
+    "iati-activity/activity-website": 10, 
+    "iati-activity/budget": 10, 
+    "iati-activity/budget/period-end": 10, 
+    "iati-activity/budget/period-start": 10, 
+    "iati-activity/budget/value": 10, 
+    "iati-activity/contact-info": 10, 
+    "iati-activity/contact-info/email": 10, 
+    "iati-activity/contact-info/mailing-address": 10, 
+    "iati-activity/contact-info/organisation": 10, 
+    "iati-activity/contact-info/person-name": 10, 
+    "iati-activity/contact-info/telephone": 10, 
+    "iati-activity/default-aid-type": 10, 
+    "iati-activity/default-flow-type": 10, 
+    "iati-activity/description": 10, 
+    "iati-activity/document-link": 10, 
+    "iati-activity/document-link/category": 10, 
+    "iati-activity/document-link/title": 10, 
+    "iati-activity/iati-identifier": 10, 
+    "iati-activity/other-identifier": 10, 
+    "iati-activity/participating-org": 10, 
+    "iati-activity/recipient-country": 10, 
+    "iati-activity/reporting-org": 10, 
+    "iati-activity/sector": 10, 
+    "iati-activity/title": 10, 
+    "iati-activity/transaction": 10, 
+    "iati-activity/transaction/aid-type": 10, 
+    "iati-activity/transaction/description": 10, 
+    "iati-activity/transaction/disbursement-channel": 1, 
+    "iati-activity/transaction/finance-type": 1, 
+    "iati-activity/transaction/flow-type": 10, 
+    "iati-activity/transaction/provider-org": 10, 
+    "iati-activity/transaction/receiver-org": 10, 
+    "iati-activity/transaction/tied-status": 1, 
+    "iati-activity/transaction/transaction-date": 10, 
+    "iati-activity/transaction/transaction-type": 10, 
+    "iati-activity/transaction/value": 10, 
+    "iati-organisation": 1, 
+    "iati-organisation/document-link": 1, 
+    "iati-organisation/document-link/category": 1, 
+    "iati-organisation/document-link/language": 1, 
+    "iati-organisation/document-link/title": 1, 
+    "iati-organisation/identifier": 1, 
+    "iati-organisation/name": 1, 
+    "iati-organisation/recipient-country-budget": 1, 
+    "iati-organisation/recipient-country-budget/period-end": 1, 
+    "iati-organisation/recipient-country-budget/period-start": 1, 
+    "iati-organisation/recipient-country-budget/recipient-country": 1, 
+    "iati-organisation/recipient-country-budget/value": 1, 
+    "iati-organisation/recipient-org-budget": 1, 
+    "iati-organisation/recipient-org-budget/period-end": 1, 
+    "iati-organisation/recipient-org-budget/period-start": 1, 
+    "iati-organisation/recipient-org-budget/recipient-org": 1, 
+    "iati-organisation/recipient-org-budget/value": 1, 
+    "iati-organisation/reporting-org": 1
+  }, 
+  "iati_identifier": null, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_per_country": {
+    "GB": 1, 
+    "IN": 1, 
+    "NP": 1, 
+    "SL": 1, 
+    "TZ": 1, 
+    "UG": 1, 
+    "ZA": 1, 
+    "ZM": 1, 
+    "ZW": 1
+  }, 
+  "publishers_per_organisation_type": {
+    "21": 1
+  }, 
+  "publishers_validation": {
+    "fail": 1
+  }, 
+  "spend": 7933515.8635, 
+  "spend_per_country": {
+    "GB": 5721439.8101, 
+    "IN": 0.0, 
+    "NP": 0.0, 
+    "SL": 0.0, 
+    "TZ": 0.0, 
+    "UG": 0.0, 
+    "ZA": 419299.0534, 
+    "ZM": 0.0, 
+    "ZW": 1792777.0
+  }, 
+  "spend_per_organisation_type": {
+    "21": 5888501.1107
+  }, 
+  "spend_per_year": {
+    "2010": 7933515.8635
+  }, 
+  "validation": {
+    "fail": 2, 
+    "pass": 8
+  }, 
+  "versions": {
+    "1.02": 9
+  }
+}

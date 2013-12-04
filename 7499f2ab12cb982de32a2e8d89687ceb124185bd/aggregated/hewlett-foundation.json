@@ -1,0 +1,137 @@
+{
+  "activities": 1033, 
+  "activities_no_country": 890, 
+  "activities_per_country": {
+    "null": 143
+  }, 
+  "activities_per_year": {
+    "2006": 153, 
+    "2007": 150, 
+    "2008": 170, 
+    "2009": 120, 
+    "2010": 103, 
+    "2011": 105, 
+    "2012": 118, 
+    "2013": 109, 
+    "2014": 4, 
+    "null": 1
+  }, 
+  "activity_files": 1, 
+  "codelist_values": {
+    ".//@default-currency": {
+      "USD": 1032
+    }, 
+    ".//@xml:lang": {
+      "en": 1032
+    }, 
+    ".//activity-date/@type": {
+      "end-planned": 1032, 
+      "start-planned": 1032
+    }, 
+    ".//collaboration-type/@code": {
+      "3": 1032
+    }, 
+    ".//default-finance-type/@code": {
+      "110": 1032
+    }, 
+    ".//default-flow-type/@code": {
+      "30": 1032
+    }, 
+    ".//default-tied-status/@code": {
+      "5": 1032
+    }, 
+    ".//participating-org/@role": {
+      "Accountable": 1032, 
+      "Extending": 1032, 
+      "Funding": 1032, 
+      "Implementing": 1032
+    }, 
+    ".//participating-org/@type": {
+      "60": 2064
+    }, 
+    ".//reporting-org/@type": {
+      "60": 1032
+    }, 
+    ".//sector/@vocabulary": {
+      "RO": 1032
+    }, 
+    ".//transaction/disbursement-channel/@code": {
+      "2": 2528
+    }, 
+    ".//transaction/transaction-type/@code": {
+      "C": 1032, 
+      "D": 1496, 
+      "E": 951
+    }
+  }, 
+  "currencies": {
+    "USD": 1032
+  }, 
+  "elements": {
+    "iati-activity": 1033, 
+    "iati-activity/activity-date": 1032, 
+    "iati-activity/activity-website": 985, 
+    "iati-activity/collaboration-type": 1032, 
+    "iati-activity/contact-info": 1032, 
+    "iati-activity/contact-info/mailing-address": 1032, 
+    "iati-activity/contact-info/organisation": 1032, 
+    "iati-activity/contact-info/telephone": 1032, 
+    "iati-activity/default-aid-type": 1032, 
+    "iati-activity/default-finance-type": 1032, 
+    "iati-activity/default-flow-type": 1032, 
+    "iati-activity/default-tied-status": 1032, 
+    "iati-activity/iati-identifier": 1032, 
+    "iati-activity/other-identifier": 1032, 
+    "iati-activity/participating-org": 1032, 
+    "iati-activity/recipient-country": 275, 
+    "iati-activity/recipient-region": 738, 
+    "iati-activity/reporting-org": 1032, 
+    "iati-activity/sector": 1032, 
+    "iati-activity/title": 1032, 
+    "iati-activity/transaction": 1032, 
+    "iati-activity/transaction/disbursement-channel": 1032, 
+    "iati-activity/transaction/provider-org": 1032, 
+    "iati-activity/transaction/receiver-org": 1032, 
+    "iati-activity/transaction/transaction-type": 1032, 
+    "iati-activity/transaction/value": 1032
+  }, 
+  "iati_identifier": null, 
+  "invalidxml": 0, 
+  "nonstandardroots": 1, 
+  "publishers": 1, 
+  "publishers_per_country": {
+    "null": 1
+  }, 
+  "publishers_per_organisation_type": {
+    "60": 1
+  }, 
+  "publishers_validation": {
+    "fail": 1
+  }, 
+  "spend": 1040699496.0, 
+  "spend_per_country": {
+    "null": 374425999.0, 
+    "pre2010": 666273497.0
+  }, 
+  "spend_per_organisation_type": {
+    "60": 0
+  }, 
+  "spend_per_year": {
+    "2006": 110513848.0, 
+    "2007": 211555385.0, 
+    "2008": 192919661.0, 
+    "2009": 151284603.0, 
+    "2010": 146699008.0, 
+    "2011": 121523538.0, 
+    "2012": 74507981.0, 
+    "2013": 31695472.0, 
+    "2014": 0, 
+    "null": 0
+  }, 
+  "validation": {
+    "fail": 1
+  }, 
+  "versions": {
+    "1.01": 1
+  }
+}

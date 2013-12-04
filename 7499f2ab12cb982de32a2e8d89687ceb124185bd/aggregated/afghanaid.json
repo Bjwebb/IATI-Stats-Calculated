@@ -1,0 +1,112 @@
+{
+  "activities": 2, 
+  "activities_no_country": 0, 
+  "activities_per_country": {
+    "AF": 2
+  }, 
+  "activities_per_year": {
+    "2013": 2
+  }, 
+  "activity_files": 1, 
+  "codelist_values": {
+    ".//@default-currency": {
+      "GBP": 2
+    }, 
+    ".//@xml:lang": {
+      "en": 14
+    }, 
+    ".//activity-date/@type": {
+      "start-actual": 2
+    }, 
+    ".//activity-status/@code": {
+      "2": 2
+    }, 
+    ".//budget/@type": {
+      "1": 2
+    }, 
+    ".//budget/value/@currency": {
+      "GBP": 2
+    }, 
+    ".//default-aid-type/@code": {
+      "C01": 2
+    }, 
+    ".//default-flow-type/@code": {
+      "30": 2
+    }, 
+    ".//participating-org/@role": {
+      "Implementing": 2
+    }, 
+    ".//recipient-country/@code": {
+      "AF": 2
+    }, 
+    ".//reporting-org/@type": {
+      "21": 2
+    }, 
+    ".//sector/@vocabulary": {
+      "DAC": 2
+    }, 
+    ".//transaction/transaction-type/@code": {
+      "IF": 4
+    }, 
+    ".//transaction/value/@currency": {
+      "GBP": 4
+    }
+  }, 
+  "currencies": {
+    "GBP": 2
+  }, 
+  "elements": {
+    "iati-activity": 2, 
+    "iati-activity/activity-date": 2, 
+    "iati-activity/activity-status": 2, 
+    "iati-activity/budget": 2, 
+    "iati-activity/budget/period-end": 2, 
+    "iati-activity/budget/period-start": 2, 
+    "iati-activity/budget/value": 2, 
+    "iati-activity/default-aid-type": 2, 
+    "iati-activity/default-flow-type": 2, 
+    "iati-activity/description": 2, 
+    "iati-activity/iati-identifier": 2, 
+    "iati-activity/participating-org": 2, 
+    "iati-activity/recipient-country": 2, 
+    "iati-activity/reporting-org": 2, 
+    "iati-activity/sector": 2, 
+    "iati-activity/title": 2, 
+    "iati-activity/transaction": 2, 
+    "iati-activity/transaction/description": 2, 
+    "iati-activity/transaction/provider-org": 2, 
+    "iati-activity/transaction/receiver-org": 2, 
+    "iati-activity/transaction/transaction-date": 2, 
+    "iati-activity/transaction/transaction-type": 2, 
+    "iati-activity/transaction/value": 2
+  }, 
+  "iati_identifier": null, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_per_country": {
+    "AF": 1
+  }, 
+  "publishers_per_organisation_type": {
+    "21": 1
+  }, 
+  "publishers_validation": {
+    "pass": 1
+  }, 
+  "spend": 0, 
+  "spend_per_country": {
+    "AF": 0
+  }, 
+  "spend_per_organisation_type": {
+    "21": 0
+  }, 
+  "spend_per_year": {
+    "2013": 0
+  }, 
+  "validation": {
+    "pass": 1
+  }, 
+  "versions": {
+    "1.02": 1
+  }
+}
