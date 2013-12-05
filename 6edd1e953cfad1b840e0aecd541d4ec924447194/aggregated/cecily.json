@@ -1,0 +1,154 @@
+{
+  "activities": 1, 
+  "activities_no_country": 0, 
+  "activities_per_country": {
+    "ZM": 1
+  }, 
+  "activities_per_year": {
+    "2013": 1
+  }, 
+  "activity_files": 1, 
+  "codelist_values": {
+    ".//@default-currency": {
+      "GBP": 1
+    }, 
+    ".//@xml:lang": {
+      "en": 14
+    }, 
+    ".//activity-date/@type": {
+      "start-actual": 1
+    }, 
+    ".//activity-status/@code": {
+      "2": 1
+    }, 
+    ".//budget/@type": {
+      "1": 4
+    }, 
+    ".//budget/value/@currency": {
+      "GBP": 4
+    }, 
+    ".//description/@type": {
+      "3": 1
+    }, 
+    ".//participating-org/@role": {
+      "Funding": 1, 
+      "Implementing": 5
+    }, 
+    ".//participating-org/@type": {
+      "10": 1, 
+      "21": 1, 
+      "22": 4
+    }, 
+    ".//recipient-country/@code": {
+      "ZM": 1
+    }, 
+    ".//reporting-org/@type": {
+      "21": 1
+    }, 
+    ".//sector/@vocabulary": {
+      "DAC": 1
+    }, 
+    ".//transaction/aid-type/@code": {
+      "B03": 2, 
+      "C01": 7
+    }, 
+    ".//transaction/disbursement-channel/@code": {
+      "2": 9
+    }, 
+    ".//transaction/finance-type/@code": {
+      "110": 9
+    }, 
+    ".//transaction/flow-type/@code": {
+      "10": 9
+    }, 
+    ".//transaction/tied-status/@code": {
+      "5": 9
+    }, 
+    ".//transaction/transaction-type/@code": {
+      "E": 7, 
+      "R": 2
+    }, 
+    ".//transaction/value/@currency": {
+      "GBP": 2
+    }
+  }, 
+  "currencies": {
+    "GBP": 1
+  }, 
+  "elements": {
+    "iati-activity": 1, 
+    "iati-activity/activity-date": 1, 
+    "iati-activity/activity-status": 1, 
+    "iati-activity/budget": 1, 
+    "iati-activity/budget/period-end": 1, 
+    "iati-activity/budget/period-start": 1, 
+    "iati-activity/budget/value": 1, 
+    "iati-activity/description": 1, 
+    "iati-activity/iati-identifier": 1, 
+    "iati-activity/participating-org": 1, 
+    "iati-activity/recipient-country": 1, 
+    "iati-activity/reporting-org": 1, 
+    "iati-activity/sector": 1, 
+    "iati-activity/title": 1, 
+    "iati-activity/transaction": 1, 
+    "iati-activity/transaction/aid-type": 1, 
+    "iati-activity/transaction/description": 1, 
+    "iati-activity/transaction/disbursement-channel": 1, 
+    "iati-activity/transaction/finance-type": 1, 
+    "iati-activity/transaction/flow-type": 1, 
+    "iati-activity/transaction/provider-org": 1, 
+    "iati-activity/transaction/receiver-org": 1, 
+    "iati-activity/transaction/tied-status": 1, 
+    "iati-activity/transaction/transaction-date": 1, 
+    "iati-activity/transaction/transaction-type": 1, 
+    "iati-activity/transaction/value": 1, 
+    "iati-organisation": 1, 
+    "iati-organisation/identifier": 1, 
+    "iati-organisation/name": 1, 
+    "iati-organisation/recipient-country-budget": 1, 
+    "iati-organisation/recipient-country-budget/period-end": 1, 
+    "iati-organisation/recipient-country-budget/period-start": 1, 
+    "iati-organisation/recipient-country-budget/recipient-country": 1, 
+    "iati-organisation/recipient-country-budget/value": 1, 
+    "iati-organisation/recipient-org-budget": 1, 
+    "iati-organisation/recipient-org-budget/period-end": 1, 
+    "iati-organisation/recipient-org-budget/period-start": 1, 
+    "iati-organisation/recipient-org-budget/recipient-org": 1, 
+    "iati-organisation/recipient-org-budget/value": 1, 
+    "iati-organisation/reporting-org": 1, 
+    "iati-organisation/total-budget": 1, 
+    "iati-organisation/total-budget/period-end": 1, 
+    "iati-organisation/total-budget/period-start": 1, 
+    "iati-organisation/total-budget/value": 1
+  }, 
+  "iati_identifier": null, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_per_country": {
+    "ZM": 1
+  }, 
+  "publishers_per_organisation_type": {
+    "21": 1
+  }, 
+  "publishers_validation": {
+    "fail": 1
+  }, 
+  "spend": 14962.7499, 
+  "spend_per_country": {
+    "ZM": 14962.7499
+  }, 
+  "spend_per_organisation_type": {
+    "21": 14962.7499
+  }, 
+  "spend_per_year": {
+    "2013": 14962.7499
+  }, 
+  "validation": {
+    "fail": 1, 
+    "pass": 1
+  }, 
+  "versions": {
+    "1.02": 1
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "activities": 71, 
+  "activities_no_country": 38, 
+  "activities_per_country": {
+    "CK": 15, 
+    "TK": 13, 
+    "TV": 5
+  }, 
+  "activities_per_year": {
+    "1994": 7, 
+    "1995": 2, 
+    "1997": 1, 
+    "2000": 1, 
+    "2001": 1, 
+    "2003": 1, 
+    "2004": 7, 
+    "2005": 3, 
+    "2006": 4, 
+    "2007": 2, 
+    "2008": 3, 
+    "2009": 6, 
+    "2010": 13, 
+    "2011": 12, 
+    "2012": 8
+  }, 
+  "activity_files": 1, 
+  "codelist_values": {
+    ".//@default-currency": {
+      "NZD": 71
+    }, 
+    ".//@xml:lang": {
+      "en": 142
+    }, 
+    ".//activity-date/@type": {
+      "end-actual": 29, 
+      "end-planned": 71, 
+      "start-actual": 71, 
+      "start-planned": 71
+    }, 
+    ".//activity-status/@code": {
+      "2": 42, 
+      "3": 29
+    }, 
+    ".//default-aid-type/@code": {
+      "A01": 4, 
+      "A02": 10, 
+      "B02": 4, 
+      "C01": 36, 
+      "D01": 11, 
+      "E01": 6
+    }, 
+    ".//default-finance-type/@code": {
+      "110": 71
+    }, 
+    ".//default-flow-type/@code": {
+      "10": 71
+    }, 
+    ".//default-tied-status/@code": {
+      "3": 2, 
+      "4": 8, 
+      "5": 61
+    }, 
+    ".//description/@type": {
+      "1": 71
+    }, 
+    ".//participating-org/@role": {
+      "Funding": 71
+    }, 
+    ".//participating-org/@type": {
+      "10": 71
+    }, 
+    ".//recipient-country/@code": {
+      "CK": 37, 
+      "TK": 17, 
+      "TV": 17
+    }, 
+    ".//reporting-org/@type": {
+      "10": 71
+    }, 
+    ".//transaction/flow-type/@code": {
+      "10": 8744
+    }, 
+    ".//transaction/transaction-type/@code": {
+      "E": 8744
+    }
+  }, 
+  "currencies": {
+    "NZD": 69
+  }, 
+  "elements": {
+    "iati-activity": 71, 
+    "iati-activity/activity-date": 71, 
+    "iati-activity/activity-status": 71, 
+    "iati-activity/contact-info": 71, 
+    "iati-activity/contact-info/email": 71, 
+    "iati-activity/contact-info/mailing-address": 71, 
+    "iati-activity/contact-info/organisation": 71, 
+    "iati-activity/contact-info/telephone": 71, 
+    "iati-activity/default-aid-type": 71, 
+    "iati-activity/default-finance-type": 71, 
+    "iati-activity/default-flow-type": 71, 
+    "iati-activity/default-tied-status": 71, 
+    "iati-activity/description": 71, 
+    "iati-activity/iati-identifier": 71, 
+    "iati-activity/other-identifier": 71, 
+    "iati-activity/participating-org": 71, 
+    "iati-activity/recipient-country": 71, 
+    "iati-activity/reporting-org": 71, 
+    "iati-activity/sector": 71, 
+    "iati-activity/title": 71, 
+    "iati-activity/transaction": 69, 
+    "iati-activity/transaction/description": 69, 
+    "iati-activity/transaction/flow-type": 69, 
+    "iati-activity/transaction/provider-org": 69, 
+    "iati-activity/transaction/transaction-date": 69, 
+    "iati-activity/transaction/transaction-type": 69, 
+    "iati-activity/transaction/value": 69
+  }, 
+  "iati_identifier": null, 
+  "invalidxml": 0, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_per_country": {
+    "CK": 1, 
+    "TK": 1, 
+    "TV": 1
+  }, 
+  "publishers_per_organisation_type": {
+    "10": 1
+  }, 
+  "publishers_validation": {
+    "pass": 1
+  }, 
+  "spend": 251666416.8763, 
+  "spend_per_country": {
+    "CK": 36902685.151, 
+    "TK": 66935744.676, 
+    "TV": 1744553.7548, 
+    "pre2010": 146083433.2945
+  }, 
+  "spend_per_organisation_type": {
+    "10": 35055968.2602
+  }, 
+  "spend_per_year": {
+    "1994": 55155328.9602, 
+    "1995": 19736412.4473, 
+    "1997": 21640950.8839, 
+    "2000": 10851854.8671, 
+    "2001": 3360367.1775, 
+    "2003": 2620813.3726, 
+    "2004": -23616039.5144, 
+    "2005": 3902021.6462, 
+    "2006": 7178462.1761, 
+    "2007": 10777920.669, 
+    "2008": 29165589.3377, 
+    "2009": 5309751.2713, 
+    "2010": 36405610.7635, 
+    "2011": 41770326.997, 
+    "2012": 27407045.8213
+  }, 
+  "validation": {
+    "pass": 1
+  }, 
+  "versions": {
+    "1.02": 1
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "activities": 62, 
+  "activities_no_country": 0, 
+  "activities_per_country": {
+    "BI": 10, 
+    "KS": 25, 
+    "LR": 2, 
+    "PS": 14, 
+    "RW": 11
+  }, 
+  "activities_per_year": {
+    "2010": 4, 
+    "2011": 38, 
+    "2012": 20
+  }, 
+  "activity_files": 2, 
+  "codelist_values": {
+    ".//@default-currency": {
+      "EUR": 62
+    }, 
+    ".//@xml:lang": {
+      "en": 1078
+    }, 
+    ".//activity-date/@type": {
+      "end-actual": 50, 
+      "end-planned": 62, 
+      "start-actual": 59, 
+      "start-planned": 62
+    }, 
+    ".//activity-status/@code": {
+      "": 18, 
+      "2": 44
+    }, 
+    ".//budget/value/@currency": {
+      "EUR": 62
+    }, 
+    ".//collaboration-type/@code": {
+      "1": 62
+    }, 
+    ".//default-aid-type/@code": {
+      "B03": 62
+    }, 
+    ".//default-finance-type/@code": {
+      "110": 61, 
+      "410": 1
+    }, 
+    ".//default-flow-type/@code": {
+      "10": 62
+    }, 
+    ".//default-tied-status/@code": {
+      "5": 62
+    }, 
+    ".//description/@type": {
+      "1": 53, 
+      "2": 60, 
+      "3": 60
+    }, 
+    ".//recipient-country/@code": {
+      "BI": 10, 
+      "KS": 25, 
+      "LR": 2, 
+      "PS": 14, 
+      "RW": 11
+    }, 
+    ".//recipient-region/@code": {
+      "298": 16, 
+      "589": 14, 
+      "89": 22
+    }, 
+    ".//reporting-org/@type": {
+      "60": 62
+    }
+  }, 
+  "currencies": {}, 
+  "elements": {
+    "iati-activity": 62, 
+    "iati-activity/activity-date": 62, 
+    "iati-activity/activity-status": 62, 
+    "iati-activity/activity-website": 52, 
+    "iati-activity/budget": 62, 
+    "iati-activity/budget/period-end": 62, 
+    "iati-activity/budget/period-start": 62, 
+    "iati-activity/budget/value": 62, 
+    "iati-activity/collaboration-type": 62, 
+    "iati-activity/contact-info": 62, 
+    "iati-activity/contact-info/email": 56, 
+    "iati-activity/contact-info/mailing-address": 62, 
+    "iati-activity/contact-info/organisation": 62, 
+    "iati-activity/contact-info/person-name": 62, 
+    "iati-activity/contact-info/telephone": 30, 
+    "iati-activity/default-aid-type": 62, 
+    "iati-activity/default-finance-type": 62, 
+    "iati-activity/default-flow-type": 62, 
+    "iati-activity/default-tied-status": 62, 
+    "iati-activity/description": 60, 
+    "iati-activity/iati-identifier": 62, 
+    "iati-activity/other-identifier": 2, 
+    "iati-activity/recipient-country": 62, 
+    "iati-activity/recipient-region": 52, 
+    "iati-activity/reporting-org": 62, 
+    "iati-activity/title": 62, 
+    "iati-organisation": 38, 
+    "iati-organisation/iati-identifier": 38, 
+    "iati-organisation/name": 38, 
+    "iati-organisation/reporting-org": 38
+  }, 
+  "iati_identifier": null, 
+  "invalidxml": 1, 
+  "nonstandardroots": 0, 
+  "publishers": 1, 
+  "publishers_per_country": {
+    "BI": 1, 
+    "KS": 1, 
+    "LR": 1, 
+    "PS": 1, 
+    "RW": 1
+  }, 
+  "publishers_per_organisation_type": {
+    "60": 1
+  }, 
+  "publishers_validation": {
+    "fail": 1
+  }, 
+  "spend": 0, 
+  "spend_per_country": {
+    "BI": 0, 
+    "KS": 0, 
+    "LR": 0, 
+    "PS": 0, 
+    "RW": 0
+  }, 
+  "spend_per_organisation_type": {
+    "60": 0
+  }, 
+  "spend_per_year": {
+    "2010": 0, 
+    "2011": 0, 
+    "2012": 0
+  }, 
+  "validation": {
+    "fail": 2, 
+    "pass": 2
+  }, 
+  "versions": {
+    "1.00": 2
+  }
+}
